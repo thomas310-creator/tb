@@ -157,42 +157,12 @@ http://192.168.10.251:4022/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-name="CCTV-8" tvg-logo="https://epg.deny.vip/cctv/CCTV-8.png" group-title="电视剧",CCTV-8 电视剧
 http://192.168.10.251:4022/udp/239.45.1.71:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="电视剧",怀旧剧场
-
+http://192.168.10.251:4022/udp/239.45.0.49:5140
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="电视剧",风云剧场
-
+http://192.168.10.251:4022/udp/239.45.0.50:5140
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="电视剧",第一剧场
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtjc.png" group-title="电视剧",淘剧场
-
-#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV25.png" group-title="电视剧",Newtv-超级电视剧
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV15.png" group-title="电视剧",Newtv-潮妈辣婆
-http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品大剧.png" group-title="电视剧",精品大剧
-http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV02.png" group-title="电视剧",Newtv-军旅剧场
-http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV家庭剧场.png" group-title="电视剧",Newtv-家庭剧场
-http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1  tvg-name="NewTV东北热剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV东北热剧.png" group-title="电视剧",东北热剧
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png" group-title="电视剧",欢乐剧场
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1  tvg-name="NewTV爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV爱情喜剧.png" group-title="电视剧",爱情喜剧
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+http://192.168.10.251:4022/udp/239.45.0.51:5140
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cx4k.png" group-title="电视剧",纯享4K
-
-#EXTINF:-1 tvg-name="爱悬疑" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱悬疑.png" group-title="电视剧",iHOT爱悬疑
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1  tvg-name="爱谍战" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱谍战.png" group-title="电视剧",iHOT爱谍战
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1  tvg-name="爱都市" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱都市.png" group-title="电视剧",iHOT爱都市
-
-#EXTINF:-1,tvg-id="华数精品剧场" tvg-name="HD精品剧场" tvg-logo="https://epg.112114.eu.org/logo/HD精品剧场.png" group-title="电视剧",IHOT精品剧场
-
-#EXTINF:-1,tvg-id="浙江精彩影视" tvg-name="浙江精彩影视" tvg-logo="https://epg.112114.eu.org/logo/浙江精彩影视.png" group-title="电视剧",浙江精彩影视
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281
-
 
 
 #电影
@@ -208,24 +178,6 @@ http://192.168.10.251:4022/udp/239.45.1.22:5140
 http://192.168.10.251:4022/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="电影",CCTV-6 电影频道
 http://192.168.10.251:4022/udp/239.45.1.70:5140
-#EXTINF:-1  tvg-name="黑莓电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="电影",黑莓电影
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV23.png" group-title="电影",Newtv-超级电影
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1  tvg-name="NewTV明星大片" tvg-logo="https://live.fanmingming.com/tv/NEWTV明星大片.png" group-title="电影",Newtv-明星大片
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV10.png" group-title="电影",NewTV惊悚悬疑
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-name="华数高清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png" group-title="电影",华数超清
-
-#EXTINF:-1 tvg-name="华数漫游世界" tvg-logo="" group-title="电影",爱上4K
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-
-
-#EXTINF:-1 tvg-name="华数欧美影院" tvg-logo="https://epg.112114.eu.org/logo/HD欧美影院.png" group-title="电影",欧美影院
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="华数亚洲影院" tvg-logo="https://epg.112114.eu.org/logo/亚洲影院.png" group-title="电影",亚洲影院
-
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 斗鱼||国内恐怖惊悚片
 http://epg.112114.xyz/douyu/218859
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 斗鱼|国外恐怖惊悚片
@@ -279,23 +231,16 @@ http://192.168.10.251:4022/udp/239.45.1.28:5140
 http://192.168.10.251:4022/udp/239.45.3.236:5140
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.deny.vip/df/生活时尚.png" group-title="综艺",生活时尚HD
 http://192.168.10.251:4022/udp/239.45.3.132:5140
-#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://epg.deny.vip/cctv/CCTV-3.png" group-title="央视",CCTV-3 综艺
+#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://epg.deny.vip/cctv/CCTV-3.png" group-title="综艺",CCTV-3 综艺
 http://192.168.10.251:4022/udp/239.45.1.68:5140
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="综艺",风云音乐
-
-#EXTINF:-1 group-title="综艺",魅力潇湘
-
+http://192.168.10.251:4022/udp/239.45.0.52:5140
+#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="综艺",CCTV-15 音乐
+http://192.168.10.251:4022/udp/239.45.3.126:5140
 #EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtyl.png" group-title="综艺",淘娱乐
 
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="综艺",女性时尚
 
-#EXTINF:-1 tvg-name="爱娱乐" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱娱乐.png" group-title="综艺",iHOT爱娱乐
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000013&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="综艺",超级综艺
-
-#EXTINF:-1 tvg-name="精彩综艺" tvg-logo="" group-title="综艺",精彩综艺
-
-#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NEWTV炫舞未来.png" group-title="综艺",炫舞未来
 
 #EXTINF:-1 tvg-name="热门综艺" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="综艺",热门综艺
 
@@ -304,7 +249,7 @@ http://192.168.10.251:4022/udp/239.45.3.137:5140
 #EXTINF:-1 group-title="综艺",BesTV手游
 http://192.168.10.251:4022/udp/239.45.3.216:5140
 #EXTINF:-1 tvg-id="lypd" tvg-name="梨园" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/lypd.png" group-title="综艺",梨园
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.deny.vip/df/七彩戏剧.png" group-title="综艺",七彩戏剧HD
 http://192.168.10.251:4022/udp/239.45.0.16:5140
 
@@ -339,32 +284,25 @@ http://192.168.10.251:4022/udp/239.45.1.14:5140
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="数字,电视指南
 
 #EXTINF:-1  tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png" group-title="数字",求索纪录
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+
 #EXTINF:-1  tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo2.png" group-title="数字",求索科学
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo3.png" group-title="数字",求索动物
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo4.png" group-title="数字",求索生活
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
+
 #EXTINF:-1,tvg-id="华数探索纪录" tvg-name="探索纪实" tvg-logo="https://epg.112114.eu.org/logo/探索纪实.png" group-title="数字",探索纪实
 
 #EXTINF:-1 tvg-name="CCTV-9" tvg-logo="https://epg.deny.vip/cctv/CCTV-9.png" group-title="数字",CCTV-9 纪录
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+http://192.168.10.251:4022/udp/239.45.3.4:5140
 #EXTINF:-1 tvg-name="CCTV-10" tvg-logo="https://epg.deny.vip/cctv/CCTV-10.png" group-title="数字",CCTV-10 科教
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949784BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5OuXozn3alq9%2BUx7ZLG1w9aOfkLjZvYj56D3xkOAtSOIoLsdw8c1%2BCwLDg1aS4esN4
-#EXTINF:-1 tvg-logo="" group-title="数字",Love Nrture 4K「自然」
-
+http://192.168.10.251:4022/udp/239.45.3.8:5140
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="数字",兵器科技
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
+http://192.168.10.251:4022/udp/239.45.1.74:5140
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="数字",世界地理
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
-
+http://192.168.10.251:4022/udp/239.45.0.46:5140
 #EXTINF:-1 tvg-logo="" group-title="数字",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-
-
-#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://live.fanmingming.com/tv/NEWTV军事评论.png" group-title="数字",军事评论
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://epg.deny.vip/df/财富天下.png" group-title="数字",财富天下
 http://192.168.10.251:4022/udp/239.45.0.7:5140
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="数字",家庭理财
@@ -393,13 +331,13 @@ http://192.168.10.251:4022/udp/239.45.1.69:5140
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",cctv 5+ 体育赛事
 http://192.168.10.251:4022/udp/239.45.0.34:5140
 #EXTINF:-1 tvg-name="CCTV-16" tvg-logo="https://epg.deny.vip/cctv/CCTV-16.png" group-title="体育",CCTV-16 奥林匹克
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
+http://192.168.10.251:4022/udp/239.45.0.10:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="体育",风云足球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
+http://192.168.10.251:4022/udp/239.45.1.75:5140
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="体育",央视台球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
+
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="体育",央视高尔夫网球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
+http://192.168.10.251:4022/udp/239.45.0.48:5140
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="体育",BesTV台球
 http://192.168.10.251:4022/udp/239.45.3.53:5140
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="体育",BesTV羽毛球
@@ -445,32 +383,16 @@ http://192.168.10.251:4022/udp/239.45.0.38:5140
 http://192.168.10.251:4022/udp/239.45.0.8:5140
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="动漫",CETV早期教育
 http://192.168.10.251:4022/udp/239.45.0.54:5140
-#EXTINF:-1 tvg-name="淘BABY" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtbb.png" group-title="动漫",淘BABY
-
-
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdh.png" group-title="动漫",黑莓动画
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-
-
-
 #EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://epg.112114.xyz/logo/甘肃少儿.png" group-title="动漫",甘肃少儿频道
-#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo=
+
 #EXTINF:-1 tvg-id="ZJ06" tvg-name="浙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang6.png" group-title="动漫",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hainan5.png" group-title="动漫",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
-#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Heilongjiang6.png"  group-title="动漫",黑龙江少儿「
+#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Heilongjiang6.png"  group-title="动漫",黑龙江少儿
 http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-14" tvg-logo="https://epg.deny.vip/cctv/CCTV-14.png" group-title="动漫",CCTV-14HD 少儿
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5PYKFve4MwNzRa0jPXeHjqnp7khdLaCMP6L4QpTf84Oz6DvCG1%2BJ81QvStkxO%2FoGm8
-#EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱动漫.png" group-title="动漫",iHOT爱动漫
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="少儿动漫" tvg-logo="https://epg.112114.eu.org/logo/HD少儿动漫.png" group-title="动漫",少儿动漫
-
-#EXTINF:-1 tvg-name="爱幼教" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱幼教.png" group-title="动漫",iHOT爱幼教
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="爱玩具" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱玩具.png" group-title="动漫",iHOT爱玩具
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
+http://192.168.10.251:4022/udp/239.45.3.125:5140
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="动漫",嘉佳卡通
 http://192.168.10.251:4022/udp/239.45.1.48:5140
 
