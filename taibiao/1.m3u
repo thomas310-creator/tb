@@ -383,14 +383,8 @@ http://192.168.10.251:4022/udp/239.45.0.38:5140
 http://192.168.10.251:4022/udp/239.45.0.8:5140
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="动漫",CETV早期教育
 http://192.168.10.251:4022/udp/239.45.0.54:5140
-#EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://epg.112114.xyz/logo/甘肃少儿.png" group-title="动漫",甘肃少儿频道
-
 #EXTINF:-1 tvg-id="ZJ06" tvg-name="浙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang6.png" group-title="动漫",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hainan5.png" group-title="动漫",海南少儿
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
-#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Heilongjiang6.png"  group-title="动漫",黑龙江少儿
-http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-14" tvg-logo="https://epg.deny.vip/cctv/CCTV-14.png" group-title="动漫",CCTV-14HD 少儿
 http://192.168.10.251:4022/udp/239.45.3.125:5140
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="动漫",嘉佳卡通
