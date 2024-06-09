@@ -308,7 +308,7 @@ http://192.168.10.251:4022/udp/239.45.0.7:5140
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="数字",家庭理财
 http://192.168.10.251:4022/udp/239.45.0.14:5140
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.deny.vip/df/中国天气.png" group-title="数字",中国天气
-
+http://192.168.10.251:4022/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-id="wwbk" tvg-name="文物宝库" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库
 
 
@@ -474,6 +474,8 @@ http://192.168.10.251:4022/udp/239.45.1.52:5140
 http://192.168.10.251:4022/udp/239.45.1.243:5140
 #EXTINF:-1 tvg-name="" tvg-logo="g" group-title="央视",CCTV-4K超高清
 http://192.168.10.251:4022/udp/239.45.0.55:5140
+#EXTINF:-1 tvg-id="67" tvg-name="CGTN" tvg-logo="https://epg.deny.vip/cctv/CGTN.png" group-title="央视",CGTN
+http://192.168.10.251:4022/udp/239.45.1.194:5140
 
 
 
