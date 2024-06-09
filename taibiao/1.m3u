@@ -109,10 +109,14 @@ http://192.168.10.251:4022/udp/239.45.3.238:5140
 http://192.168.10.251:4022/udp/239.45.3.239:5140
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.deny.vip/ws/chongqing.png" group-title="卫视",重庆卫视HD
 http://192.168.10.251:4022/udp/239.45.1.84:5140
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://epg.deny.vip/ws/gansu.png" group-title="卫视",甘肃卫视
-http://192.168.10.251:4022/udp/239.45.0.15:5140
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.deny.vip/ws/qinghai.png" group-title="卫视",青海卫视HD
 http://192.168.10.251:4022/udp/239.45.0.37:5140
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.deny.vip/ws/hainan.png" group-title="卫视",海南卫视HD
+http://192.168.10.251:4022/udp/239.45.1.81:5140
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.deny.vip/ws/sansha.png" group-title="卫视",三沙卫视HD
+http://192.168.10.251:4022/udp/239.45.0.56:5140
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://epg.deny.vip/ws/gansu.png" group-title="卫视",甘肃卫视
+http://192.168.10.251:4022/udp/239.45.0.15:5140
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.deny.vip/ws/ningxia.png" group-title="卫视",宁夏卫视
 http://192.168.10.251:4022/udp/239.45.1.213:5140
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.deny.vip/ws/shanxi_.png" group-title="卫视",山西卫视
@@ -121,28 +125,14 @@ http://192.168.10.251:4022/udp/239.45.1.229:5140
 http://192.168.10.251:4022/udp/239.45.1.232:5140
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.deny.vip/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://192.168.10.251:4022/udp/239.45.1.116:5140
-#EXTINF:-1  tvg-name="大湾区卫视" tvg-logo="https://github.com/fanmingming/live/blob/2a6efa2534aa48d25207b69c9a88999647791b73/tv/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png" group-title="卫视",大湾区卫视
-
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.deny.vip/ws/hainan.png" group-title="卫视",海南卫视HD
-http://192.168.10.251:4022/udp/239.45.1.81:5140
-#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://epg.112114.xyz/logo/海峡卫视.png" group-title="卫视",海峡卫视
-
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://epg.deny.vip/ws/xizang.png" group-title="卫视",西藏卫视
 http://192.168.10.251:4022/udp/239.45.1.231:5140
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.deny.vip/ws/sansha.png" group-title="卫视",三沙卫视HD
-http://192.168.10.251:4022/udp/239.45.0.56:5140
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.deny.vip/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://192.168.10.251:4022/udp/239.45.1.117:5140
-#EXTINF:-1  tvg-name="安多卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anduo.png" group-title="卫视",安多卫视
-
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" group-title="卫视",康巴卫视
 http://192.168.10.251:4022/udp/239.45.1.251:5140
-#EXTINF:-1  tvg-name="农林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nonglin.png" group-title="卫视",农林卫视
-
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://epg.deny.vip/ws/yanbian.png" group-title="卫视",延边卫视
 http://192.168.10.251:4022/udp/239.45.0.39:5140
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="" group-title="卫视",厦门卫视
-
 
 
 
