@@ -318,7 +318,7 @@ http://192.168.10.251:4022/udp/239.45.0.48:5140
 http://192.168.10.251:4022/udp/239.45.3.53:5140
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="体育",BesTV羽毛球
 http://192.168.10.251:4022/udp/239.45.3.139:5140
-#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="" group-title="体育",先锋乒羽
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" group-title="体育",先锋乒羽
 http://192.168.10.251:4022/udp/239.45.3.43:5140
 
 
