@@ -52,7 +52,8 @@ http://192.168.10.251:4022/udp/239.45.3.75:5140
 http://192.168.10.251:4022/udp/239.45.3.207:5140
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/jdtv.png" group-title="上海",嘉定电视台
 http://192.168.10.251:4022/udp/239.45.3.185:5140
-
+#EXTINF:-1 tvg-logo="http://tv.haoqu99.com/d/file/2019/0121/small1f81f481ac3b0f3a2ad54104300057b4.jpg" group-title="上海",金山电视台
+http://livejs1.newsjs.net/jspd/playlist.m3u8
 
 #卫视
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视HD
