@@ -2,7 +2,7 @@
 
 
 #上海
-#EXTINF:-1 tvg-logo="" group-title="上海",IPTV宣传
+#EXTINF:-1 tvg-logo="https://github.com/thomas310-creator/tb/blob/13351eb3257df202d36915448376c63015420433/taibiao/shanghai/bestv.png" group-title="上海",IPTV宣传
 http://192.168.10.251:4022/udp/239.45.3.103:5140
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/cmtv.png" group-title="上海",崇明HD
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
@@ -149,9 +149,9 @@ http://192.168.10.251:4022/udp/239.45.0.49:5140
 
 
 #电影
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="电影",BesTV百视通资讯
+#EXTINF:-1 tvg-logo="https://github.com/thomas310-creator/tb/blob/13351eb3257df202d36915448376c63015420433/taibiao/shanghai/bestv.png" group-title="电影",BesTV百视通资讯
 http://192.168.10.251:4022/udp/239.45.1.15:5140
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="电影",BesTV百视通电影4k
+#EXTINF:-1 tvg-logo="https://github.com/thomas310-creator/tb/blob/13351eb3257df202d36915448376c63015420433/taibiao/shanghai/bestv.png" group-title="电影",BesTV百视通电影4k
 http://192.168.10.251:4022/udp/239.45.3.107:5140
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="电影",CHC动作电影
 http://192.168.10.251:4022/udp/239.45.0.41:5140
@@ -208,7 +208,7 @@ https://epg.pw/stream/02d1fb76a8e05d628275f54501e4107c30c5228849c0e602cdf9346751
 
 
 #综艺
-#EXTINF:-1 group-title="综艺",养生频道
+#EXTINF:-1 group-title="综艺",名医话养生
 http://192.168.10.251:4022/udp/239.45.1.28:5140
 #EXTINF:-1 tvg-name="都市频道" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dspd.png" group-title="综艺",都市频道HD
 http://192.168.10.251:4022/udp/239.45.3.236:5140
@@ -227,15 +227,13 @@ http://192.168.10.251:4022/udp/239.45.3.126:5140
 
 #EXTINF:-1 tvg-name="热门综艺" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="综艺",热门综艺
 
-#EXTINF:-1 group-title="综艺",BesTV电竞
-http://192.168.10.251:4022/udp/239.45.3.137:5140
-#EXTINF:-1 group-title="综艺",BesTV手游
-http://192.168.10.251:4022/udp/239.45.3.216:5140
+
 #EXTINF:-1 tvg-id="lypd" tvg-name="梨园" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/lypd.png" group-title="综艺",梨园
 
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.deny.vip/df/七彩戏剧.png" group-title="综艺",七彩戏剧HD
 http://192.168.10.251:4022/udp/239.45.0.16:5140
-
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",24小时背景音乐
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 
 
 #数字
@@ -247,10 +245,6 @@ http://192.168.10.251:4022/udp/239.45.3.135:5140
 http://192.168.10.251:4022/udp/239.45.0.13:5140
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.deny.vip/df/法治天地.png" group-title="数字",法治天地HD
 http://192.168.10.251:4022/udp/239.45.1.46:5140
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.deny.vip/df/第一财经.png" group-title="数字",第一财经HD
-http://192.168.10.251:4022/udp/239.45.3.211:5140
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.deny.vip/df/东方财经.png" group-title="数字",东方财经HD
-http://192.168.10.251:4022/udp/239.45.0.17:5140
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://epg.deny.vip/df/纪实人文.png" group-title="数字",上海纪实人文HD
 http://192.168.10.251:4022/udp/239.45.3.212:5140
 #EXTINF:-1 tvg-name="外语频道" tvg-logo="https://epg.deny.vip/df/外语频道.png" group-title="数字",ICS外语频道HD
@@ -286,10 +280,6 @@ http://192.168.10.251:4022/udp/239.45.1.74:5140
 http://192.168.10.251:4022/udp/239.45.0.46:5140
 #EXTINF:-1 tvg-logo="" group-title="数字",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://epg.deny.vip/df/财富天下.png" group-title="数字",财富天下
-http://192.168.10.251:4022/udp/239.45.0.7:5140
-#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="数字",家庭理财
-http://192.168.10.251:4022/udp/239.45.0.14:5140
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.deny.vip/df/中国天气.png" group-title="数字",中国天气
 http://192.168.10.251:4022/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-id="wwbk" tvg-name="文物宝库" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库
@@ -314,10 +304,6 @@ http://192.168.10.251:4022/udp/239.45.1.75:5140
 
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="体育",央视高尔夫网球
 http://192.168.10.251:4022/udp/239.45.0.48:5140
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="体育",BesTV台球
-http://192.168.10.251:4022/udp/239.45.3.53:5140
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="体育",BesTV羽毛球
-http://192.168.10.251:4022/udp/239.45.3.139:5140
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" group-title="体育",先锋乒羽
 http://192.168.10.251:4022/udp/239.45.3.43:5140
 
@@ -336,10 +322,21 @@ http://192.168.10.251:4022/udp/239.45.0.2:5140
 http://192.168.10.251:4022/udp/239.45.0.19:5140
 #EXTINF:-1 tvg-id="-1" tvg-name="中天新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="新闻",台|中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="新闻",24小时背景音乐
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 
 
+
+
+#财经
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.deny.vip/df/第一财经.png" group-title="财经",第一财经HD
+http://192.168.10.251:4022/udp/239.45.3.211:5140
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.deny.vip/df/东方财经.png" group-title="财经",东方财经HD
+http://192.168.10.251:4022/udp/239.45.0.17:5140
+#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="https://epg.deny.vip/cctv/CCTV-14.png" group-title="财经",CCTV-14 少儿
+http://192.168.10.251:4022/udp/239.45.3.125:5140
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://epg.deny.vip/df/财富天下.png" group-title="财经",财富天下
+http://192.168.10.251:4022/udp/239.45.0.7:5140
+#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="财经",家庭理财
+http://192.168.10.251:4022/udp/239.45.0.14:5140
 
 
 #动漫
@@ -370,7 +367,7 @@ http://192.168.10.251:4022/udp/239.45.1.48:5140
 #央视
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.png" group-title="央视",CCTV-1 综合
 http://192.168.10.251:4022/udp/239.45.3.88:5140
-#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://epg.deny.vip/cctv/CCTV-2.png" group-title="央视",CCTV-2 财经
+#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://epg.deny.vip/cctv/CCTV-2.png" group-title="央视",CCTV-2 
 http://192.168.10.251:4022/udp/239.45.3.208:5140
 #EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://epg.deny.vip/cctv/CCTV-3.png" group-title="央视",CCTV-3 综艺
 http://192.168.10.251:4022/udp/239.45.1.68:5140
