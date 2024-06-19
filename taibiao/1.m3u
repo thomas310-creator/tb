@@ -147,6 +147,8 @@ http://192.168.10.251:4022/udp/239.45.0.50:5140
 http://192.168.10.251:4022/udp/239.45.0.51:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="电视剧",怀旧剧场HD
 http://192.168.10.251:4022/udp/239.45.0.49:5140
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="电视剧",淘剧场HD
+http://www.weec.top:2222/udp/239.3.1.95:8001
 
 
 #电影
@@ -162,6 +164,8 @@ http://192.168.10.251:4022/udp/239.45.1.22:5140
 http://192.168.10.251:4022/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="电影",CCTV-6 电影频道
 http://192.168.10.251:4022/udp/239.45.1.70:5140
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="电影",淘电影HD
+http://www.weec.top:2222/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 斗鱼||国内恐怖惊悚片
 http://epg.112114.xyz/douyu/218859
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 斗鱼|国外恐怖惊悚片
@@ -211,6 +215,8 @@ https://epg.pw/stream/02d1fb76a8e05d628275f54501e4107c30c5228849c0e602cdf9346751
 #综艺
 #EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtyl.png" group-title="综艺",淘娱乐
 http://dns.art2kn.win:7000/udp/239.3.1.100:8001
+#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/beijing/%E8%90%8C%E5%AE%A0TV.jpg" group-title="综艺",萌宠TV
+http://dns.art2kn.win:7000/udp/239.3.1.102:8001
 #EXTINF:-1 group-title="综艺",名医话养生
 http://192.168.10.251:4022/udp/239.45.1.28:5140
 #EXTINF:-1 tvg-name="都市频道" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dspd.png" group-title="综艺",都市频道HD
@@ -353,12 +359,14 @@ http://192.168.10.251:4022/udp/239.45.1.11:5140
 http://192.168.10.251:4022/udp/239.45.0.38:5140
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://epg.deny.vip/df/卡酷少儿.png" group-title="动漫",北京卡酷少儿HD
 http://192.168.10.251:4022/udp/239.45.0.8:5140
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动漫",CETV早期教育
+#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="https://epg.deny.vip/cctv/CCTV-14.png" group-title="动漫",CCTV-14HD 少儿
+http://192.168.10.251:4022/udp/239.45.3.125:5140
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%97%A9%E6%9C%9F%E6%95%99%E8%82%B2.png" group-title="动漫",CETV早期教育
 http://192.168.10.251:4022/udp/239.45.0.54:5140
 #EXTINF:-1 tvg-id="ZJ06" tvg-name="浙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang6.png" group-title="动漫",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="https://epg.deny.vip/cctv/CCTV-14.png" group-title="动漫",CCTV-14HD 少儿
-http://192.168.10.251:4022/udp/239.45.3.125:5140
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%91%E5%84%BF.png" group-title="动漫",内蒙古少儿
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="动漫",嘉佳卡通
 http://192.168.10.251:4022/udp/239.45.1.48:5140
 
