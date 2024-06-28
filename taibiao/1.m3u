@@ -131,7 +131,6 @@ http://192.168.10.251:4022/udp/239.45.0.39:5140
 
 
 
-
 #电视剧
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.deny.vip/df/都市剧场.png" group-title="电视剧",上海都市剧场HD
 http://192.168.10.251:4022/udp/239.45.3.136:5140
@@ -147,8 +146,6 @@ http://192.168.10.251:4022/udp/239.45.0.50:5140
 http://192.168.10.251:4022/udp/239.45.0.51:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="电视剧",怀旧剧场HD
 http://192.168.10.251:4022/udp/239.45.0.49:5140
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="电视剧",淘剧场HD
-http://www.weec.top:2222/udp/239.3.1.95:8001
 
 
 #电影
@@ -164,8 +161,6 @@ http://192.168.10.251:4022/udp/239.45.1.22:5140
 http://192.168.10.251:4022/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="电影",CCTV-6 电影频道
 http://192.168.10.251:4022/udp/239.45.1.70:5140
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="电影",淘电影HD
-http://www.weec.top:2222/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 斗鱼||国内恐怖惊悚片
 http://epg.112114.xyz/douyu/218859
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 斗鱼|国外恐怖惊悚片
@@ -215,8 +210,6 @@ https://epg.pw/stream/02d1fb76a8e05d628275f54501e4107c30c5228849c0e602cdf9346751
 #综艺
 #EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtyl.png" group-title="综艺",淘娱乐
 http://dns.art2kn.win:7000/udp/239.3.1.100:8001
-#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/beijing/%E8%90%8C%E5%AE%A0TV.jpg" group-title="综艺",萌宠TV
-http://dns.art2kn.win:7000/udp/239.3.1.102:8001
 #EXTINF:-1 group-title="综艺",名医话养生
 http://192.168.10.251:4022/udp/239.45.1.28:5140
 #EXTINF:-1 tvg-name="都市频道" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dspd.png" group-title="综艺",都市频道HD
@@ -229,12 +222,9 @@ http://192.168.10.251:4022/udp/239.45.1.68:5140
 http://192.168.10.251:4022/udp/239.45.0.52:5140
 #EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="综艺",CCTV-15 音乐
 http://192.168.10.251:4022/udp/239.45.3.126:5140
-#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtyl.png" group-title="综艺",淘娱乐
 
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="综艺",女性时尚
 
-
-#EXTINF:-1 tvg-name="热门综艺" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="综艺",热门综艺
 
 
 #EXTINF:-1 tvg-id="lypd" tvg-name="梨园" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/lypd.png" group-title="综艺",梨园
