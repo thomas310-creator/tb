@@ -351,7 +351,7 @@ http://192.168.10.251:4022/udp/239.45.0.38:5140
 http://192.168.10.251:4022/udp/239.45.0.8:5140
 #EXTINF:-1 tvg-name="CCTV-14" tvg-logo="https://epg.deny.vip/cctv/CCTV-14.png" group-title="动漫",CCTV-14HD 少儿
 http://192.168.10.251:4022/udp/239.45.3.125:5140
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%97%A9%E6%9C%9F%E6%95%99%E8%82%B2.png" group-title="动漫",CETV早期教育
+#EXTINF:-1 tvg-name="" tvg-logo="https://epg.deny.vip/szpd/CETV-ZQJY.png" group-title="动漫",CETV早期教育
 http://192.168.10.251:4022/udp/239.45.0.54:5140
 #EXTINF:-1 tvg-id="ZJ06" tvg-name="浙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang6.png" group-title="动漫",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
