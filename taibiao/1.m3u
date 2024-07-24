@@ -196,7 +196,8 @@ http://epg.112114.xyz/douyu/52787
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/07bba4672f144b8f94cd774416e3da98_big.jpg" group-title="电影", 斗鱼|哈利波特
 http://epg.112114.xyz/douyu/8814650
 https://epg.pw/stream/02d1fb76a8e05d628275f54501e4107c30c5228849c0e602cdf93467512dee69.ctv
-
+#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202308220954_1692669269895_H169_1080.jpg" group-title="电影",新片放映厅
+https://livednow.com/migu/619495952?sign=gAAAAABmoMqm5Zg0tMAM0AW4es9ew3Rh3CuygGhl0intFCOqSJX-nssRdw-s1id4vIy14tgRu-fr3wX4y_-H9_UsP9W7JqV6_sjUAOiyBzpJZyjTamoy-0KYPUyGHitCBPoVrLi7NQ2igGtwY1_GpSgeV4tV_2-ORgLDM7tgaks4QpbWw3kK1gZescFAUfjrVepnBxLDnVjsjU3DOpn3NlV1nQDcO6qpfw%3D%3D
 
 
 
@@ -245,8 +246,6 @@ http://192.168.10.251:4022/udp/239.45.1.127:5140
 http://192.168.10.251:4022/udp/239.45.0.9:5140
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://epg.deny.vip/df/金鹰纪实.png" group-title="数字",金鹰纪实HD
 http://192.168.10.251:4022/udp/239.45.1.45:5140
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://epg.deny.vip/df/快乐垂钓.png" group-title="数字",快乐垂钓HD
-http://192.168.10.251:4022/udp/239.45.3.12:5140
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://epg.deny.vip/df/茶频道.png" group-title="数字",茶频道HD
 http://192.168.10.251:4022/udp/239.45.3.18:5140#EXTINF:-1 tvg-name="纪实科教" tvg-logo="" group-title="数字",北京纪实科教
 http://192.168.10.251:4022/udp/239.45.1.14:5140
@@ -274,7 +273,6 @@ http://192.168.10.251:4022/udp/239.45.0.46:5140
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.deny.vip/df/中国天气.png" group-title="数字",中国天气
 http://192.168.10.251:4022/udp/239.45.1.47:5140
-#EXTINF:-1 tvg-id="wwbk" tvg-name="文物宝库" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库
 
 
 
@@ -296,6 +294,13 @@ http://192.168.10.251:4022/udp/239.45.1.75:5140
 http://192.168.10.251:4022/udp/239.45.0.48:5140
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" group-title="体育",先锋乒羽
 http://192.168.10.251:4022/udp/239.45.3.43:5140
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://epg.deny.vip/df/快乐垂钓.png" group-title="体育",快乐垂钓HD
+http://192.168.10.251:4022/udp/239.45.3.12:5140
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://assets.livednow.com/logo/四海钓鱼.png" group-title="体育",四海钓鱼
+https://livednow.com/migu/895358641?sign=gAAAAABmoMqmxw2ywPuxq8n3To6XXrbfCaBs3MYXtM3JiSkq_V_iq15ydFYAXmkOFp2CwOV1-z-jX26NcQjMA4zZ_WFFMh8zSbM3stco2IM3ChSqu5VOMKB2w9ujhFn23gpmRT1q5KzqhMnxRLEwg1Pw39D0oXfKsmHFD5aahKaJK6zTQf-RGb0laEy6Hxs40wAJRKkDJf9fmfZWScZXMjlrvp7sqeKYCg%3D%3D
+#EXTINF:-1 tvg-name="掼蛋精英赛" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg" group-title="体育",掼蛋精英赛
+https://livednow.com/migu/631354620?sign=gAAAAABmoMqmfDHT918Yz_tgCN6MNJcTLw8DL972IewXOuZzJt5PdPG57RAYbMnp3_KElFdwujfWz4nZsMdUKFwuMWfFKdOztqpDDbuKsn2Ibe8Oo_QG17crn4gduh01DVGP9mcWiJBX4cgqeheDvlXCBBr-4biHZngU0iau0XVxJ_ms2VCSIlo-TIUq2gVaBlKpMdUWkE-7SXNN555SQg_HdxfbC5OFzA%3D%3D
+
 
 
 
