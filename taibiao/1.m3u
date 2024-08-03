@@ -99,6 +99,8 @@ https://sxg.btjson.us.kg/litv/4gtv-4gtv055
 https://sxg.btjson.us.kg/litv/4gtv-4gtv058
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龙华戏剧台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="电视剧", 龍華戲劇台|台
 https://sxg.btjson.us.kg/litv/litv-longturn18
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="电视剧", 龍華偶像台|台
+https://sxg.btjson.us.kg/litv/litv-longturn12
 #EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龙华日韩台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="电视剧", 龍華日韓台|台
 https://sxg.btjson.us.kg/litv/litv-longturn11
 #EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="电视剧", 靖洋戲劇台|台
@@ -303,10 +305,6 @@ https://sxg.btjson.us.kg/litv/4gtv-4gtv004
 https://sxg.btjson.us.kg/litv/4gtv-4gtv062
 #EXTINF:-1 tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://assets.livednow.com/logo/靖天歡樂台.png" group-title="综艺", 靖天歡樂台|台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv054
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="综艺", 龍華偶像台|台
-https://sxg.btjson.us.kg/litv/litv-longturn12
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="综艺", 龍華日韓台|台
-https://sxg.btjson.us.kg/litv/litv-longturn11
 #EXTINF:-1 tvg-id="TVBS-綜藝台" tvg-name="TVBS综艺台" tvg-logo="https://assets.livednow.com/logo/TVBS-綜藝台.png" group-title="综艺", TVBS 綜藝台|台
 https://sxg.btjson.us.kg/4gtv/284
 #EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS欢乐台" tvg-logo="https://assets.livednow.com/logo/TVBS-歡樂台.png" group-title="综艺", TVBS 歡樂台|台
