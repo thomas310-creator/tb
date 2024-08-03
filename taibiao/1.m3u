@@ -222,7 +222,7 @@ https://tvb.mytvsuper.us.kg/stream/tvb/null-13/master.m3u8?u=btjson&p=213f2541f1
 https://tvb.mytvsuper.us.kg/stream/tvb/animax/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="电影", AXN|港
 https://tvb.mytvsuper.us.kg/stream/tvb/axn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="电影", PopC|港
+#EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="电影", PopC|港
 https://tvb.mytvsuper.us.kg/stream/tvb/popc/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="Rock-Action-HK" tvg-name="Rock Action" tvg-logo="https://assets.livednow.com/logo/Rock-Action-HK.png" group-title="电影", ROCK Action|港
 https://tvb.mytvsuper.us.kg/stream/tvb/rockaction/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
