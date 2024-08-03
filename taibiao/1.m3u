@@ -1,59 +1,59 @@
 #EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml"
 
 
-#上海
-#EXTINF:-1 tvg-logo="https://github.com/thomas310-creator/tb/blob/13351eb3257df202d36915448376c63015420433/taibiao/shanghai/bestv.png" group-title="上海",IPTV宣传
+#综合
+#EXTINF:-1 tvg-logo="https://github.com/thomas310-creator/tb/blob/13351eb3257df202d36915448376c63015420433/taibiao/shanghai/bestv.png" group-title="综合",IPTV宣传|沪
 http://192.168.10.251:4022/udp/239.45.3.103:5140
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/cmtv.png" group-title="上海",崇明HD
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/cmtv.png" group-title="综合",崇明HD|沪
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-#EXTINF:-1 tvg-name="都市频道" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dspd.png" group-title="上海",都市频道HD
+#EXTINF:-1 tvg-name="都市频道" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dspd.png" group-title="综合",都市频道HD|沪
 http://192.168.10.251:4022/udp/239.45.3.236:5140
-#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/xwzh.png" group-title="上海",新闻综合HD
+#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/xwzh.png" group-title="综合",新闻综合HD|沪
 http://192.168.10.251:4022/udp/239.45.3.209:5140
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.deny.vip/df/东方影视.png" group-title="上海",东方影视HD
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.deny.vip/df/东方影视.png" group-title="综合",东方影视HD|沪
 http://192.168.10.251:4022/udp/239.45.3.237:5140
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.deny.vip/df/都市剧场.png" group-title="上海",都市剧场HD
-http://192.168.10.251:4022/udp/239.45.3.136:5140
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="上海",欢笑剧场4K
-http://192.168.10.251:4022/udp/239.45.1.4:5140
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.deny.vip/df/五星体育.png" group-title="上海",五星体育HD
-http://192.168.10.251:4022/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.deny.vip/df/乐游.png" group-title="上海",乐游HD
-http://192.168.10.251:4022/udp/239.45.3.135:5140
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://epg.deny.vip/df/纪实人文.png" group-title="上海",纪实人文HD
-http://192.168.10.251:4022/udp/239.45.3.212:5140
-#EXTINF:-1 tvg-name="外语频道" tvg-logo="https://epg.deny.vip/df/外语频道.png" group-title="上海",ICS外语频道HD
-http://192.168.10.251:4022/udp/239.45.1.127:5140
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.deny.vip/df/第一财经.png" group-title="上海",第一财经HD
-http://192.168.10.251:4022/udp/239.45.3.211:5140
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.deny.vip/df/东方财经.png" group-title="上海",东方财经HD
-http://192.168.10.251:4022/udp/239.45.0.17:5140
-#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.deny.vip/df/上海教育.png" group-title="上海",上海教育HD
-http://192.168.10.251:4022/udp/239.45.0.13:5140
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.deny.vip/df/金色学堂.png" group-title="上海",金色学堂HD
-http://192.168.10.251:4022/udp/239.45.0.9:5140
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.deny.vip/df/生活时尚.png" group-title="上海",生活时尚HD
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.deny.vip/df/生活时尚.png" group-title="综合",生活时尚HD|沪
 http://192.168.10.251:4022/udp/239.45.3.132:5140
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.deny.vip/df/法治天地.png" group-title="上海",法治天地HD
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.deny.vip/df/法治天地.png" group-title="综合",法治天地HD|沪
 http://192.168.10.251:4022/udp/239.45.1.46:5140
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.deny.vip/df/游戏风云.png" group-title="上海",游戏风云HD
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.deny.vip/df/游戏风云.png" group-title="综合",游戏风云HD|沪
 http://192.168.10.251:4022/udp/239.45.3.131:5140
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.deny.vip/df/哈哈炫动.png" group-title="上海",哈哈炫动HD
-http://192.168.10.251:4022/udp/239.45.1.55:5140
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.deny.vip/df/动漫秀场.png" group-title="上海",动漫秀场HD
-http://192.168.10.251:4022/udp/239.45.3.134:5140
-#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.deny.vip/df/七彩戏剧.png" group-title="上海",七彩戏剧HD
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.deny.vip/df/七彩戏剧.png" group-title="综合",七彩戏剧HD|沪
 http://192.168.10.251:4022/udp/239.45.0.16:5140
-#EXTINF:-1 tvg-name="东方购物-1" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dfgw.png" group-title="上海",上海东方购物1
+#EXTINF:-1 tvg-name="东方购物-1" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dfgw.png" group-title="综合",上海东方购物1|沪
 http://192.168.10.251:4022/udp/239.45.3.74:5140
-#EXTINF:-1 tvg-name="东方购物-2" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dfgw.png" group-title="上海",上海东方购物2
+#EXTINF:-1 tvg-name="东方购物-2" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dfgw.png" group-title="综合",上海东方购物2|沪
 http://192.168.10.251:4022/udp/239.45.3.75:5140
-#EXTINF:-1 tvg-name="东方购物-3" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dfgw.png" group-title="上海",上海东方购物3
+#EXTINF:-1 tvg-name="东方购物-3" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dfgw.png" group-title="综合",上海东方购物3|沪
 http://192.168.10.251:4022/udp/239.45.3.207:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/jdtv.png" group-title="上海",嘉定电视台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/jdtv.png" group-title="综合",嘉定电视台|沪
 http://192.168.10.251:4022/udp/239.45.3.185:5140
-#EXTINF:-1 tvg-logo="http://tv.haoqu99.com/d/file/2019/0121/small1f81f481ac3b0f3a2ad54104300057b4.jpg" group-title="上海",金山电视台
+#EXTINF:-1 tvg-logo="http://tv.haoqu99.com/d/file/2019/0121/small1f81f481ac3b0f3a2ad54104300057b4.jpg" group-title="综合",金山电视台|沪
 http://livejs1.newsjs.net/jspd/playlist.m3u8
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="综合", 民視
+https://sxg.btjson.us.kg/litv/4gtv-4gtv155
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="综合", 民視第一台
+https://sxg.btjson.us.kg/litv/4gtv-4gtv003
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="综合", 民視台灣台
+https://sxg.btjson.us.kg/litv/4gtv-4gtv001
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="综合", 中視菁采台
+https://sxg.btjson.us.kg/litv/4gtv-4gtv064
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="综合", 華視
+https://sxg.btjson.us.kg/litv/4gtv-4gtv041
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://assets.livednow.com/logo/靖天綜合台.png" group-title="综合", 靖天綜合台
+https://sxg.btjson.us.kg/litv/4gtv-4gtv046
+#EXTINF:-1 tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="https://assets.livednow.com/logo/靖天國際台.png" group-title="综合", 靖天國際台
+https://sxg.btjson.us.kg/litv/4gtv-4gtv063
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://assets.livednow.com/logo/靖天日本台.png" group-title="综合", 靖天日本台
+https://sxg.btjson.us.kg/litv/4gtv-4gtv047
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="综合", 三立綜合台
+https://sxg.btjson.us.kg/4gtv/169
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="综合", 台視
+https://sxg.btjson.us.kg/litv/4gtv-4gtv066
+
+
+
+
 
 #卫视
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视HD
@@ -132,12 +132,10 @@ http://192.168.10.251:4022/udp/239.45.0.39:5140
 
 
 #电视剧
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.deny.vip/df/都市剧场.png" group-title="电视剧",上海都市剧场HD
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.deny.vip/df/都市剧场.png" group-title="电视剧",都市剧场HD|沪
 http://192.168.10.251:4022/udp/239.45.3.136:5140
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="电视剧",上海欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="电视剧",欢笑剧场4K|沪
 http://192.168.10.251:4022/udp/239.45.1.4:5140
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.deny.vip/df/东方影视.png" group-title="电视剧",东方影视HD
-http://192.168.10.251:4022/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-name="CCTV-8" tvg-logo="https://epg.deny.vip/cctv/CCTV-8.png" group-title="电视剧",CCTV-8 电视剧
 http://192.168.10.251:4022/udp/239.45.1.71:5140
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="电视剧",风云剧场HD
@@ -209,50 +207,50 @@ https://livednow.com/migu/619495952?sign=gAAAAABmoMqm5Zg0tMAM0AW4es9ew3Rh3CuygGh
 
 
 
-#综艺
-#EXTINF:-1 group-title="综艺",名医话养生
+#音乐综艺
+#EXTINF:-1 group-title="音乐综艺",名医话养生
 http://192.168.10.251:4022/udp/239.45.1.28:5140
-#EXTINF:-1 tvg-name="都市频道" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dspd.png" group-title="综艺",都市频道HD
+#EXTINF:-1 tvg-name="都市频道" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dspd.png" group-title="音乐综艺",都市频道HD
 http://192.168.10.251:4022/udp/239.45.3.236:5140
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.deny.vip/df/生活时尚.png" group-title="综艺",生活时尚HD
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.deny.vip/df/生活时尚.png" group-title="音乐综艺",生活时尚HD
 http://192.168.10.251:4022/udp/239.45.3.132:5140
-#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://epg.deny.vip/cctv/CCTV-3.png" group-title="综艺",CCTV-3 综艺
+#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://epg.deny.vip/cctv/CCTV-3.png" group-title="音乐综艺",CCTV-3 综艺
 http://192.168.10.251:4022/udp/239.45.1.68:5140
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="综艺",风云音乐
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="音乐综艺",风云音乐
 http://192.168.10.251:4022/udp/239.45.0.52:5140
-#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="综艺",CCTV-15 音乐
+#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="音乐综艺",CCTV-15 音乐
 http://192.168.10.251:4022/udp/239.45.3.126:5140
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="综艺",女性时尚
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="音乐综艺",女性时尚
 
-#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.deny.vip/df/七彩戏剧.png" group-title="综艺",七彩戏剧HD
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.deny.vip/df/七彩戏剧.png" group-title="音乐综艺",七彩戏剧HD
 http://192.168.10.251:4022/udp/239.45.0.16:5140
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",24小时背景音乐
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="音乐综艺",24小时背景音乐
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="综艺", 民視綜藝台
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="音乐综艺", 民視綜藝台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv004
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://assets.livednow.com/logo/靖天育樂台.png" group-title="综艺", 靖天育樂台
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://assets.livednow.com/logo/靖天育樂台.png" group-title="音乐综艺", 靖天育樂台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv062
-#EXTINF:-1 tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://assets.livednow.com/logo/靖天歡樂台.png" group-title="综艺", 靖天歡樂台
+#EXTINF:-1 tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://assets.livednow.com/logo/靖天歡樂台.png" group-title="音乐综艺", 靖天歡樂台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv054
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="综艺", 龍華偶像台
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="音乐综艺", 龍華偶像台
 https://sxg.btjson.us.kg/litv/litv-longturn12
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="综艺", 龍華日韓台
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="音乐综艺", 龍華日韓台
 https://sxg.btjson.us.kg/litv/litv-longturn11
-#EXTINF:-1 tvg-id="TVBS-綜藝台" tvg-name="TVBS 綜藝台" tvg-logo="https://assets.livednow.com/logo/TVBS-綜藝台.png" group-title="综艺", TVBS 綜藝台
+#EXTINF:-1 tvg-id="TVBS-綜藝台" tvg-name="TVBS 綜藝台" tvg-logo="https://assets.livednow.com/logo/TVBS-綜藝台.png" group-title="音乐综艺", TVBS 綜藝台
 https://sxg.btjson.us.kg/4gtv/284
-#EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-歡樂台.png" group-title="综艺", TVBS 歡樂台
+#EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-歡樂台.png" group-title="音乐综艺", TVBS 歡樂台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv068
-#EXTINF:-1 tvg-id="TVBS-精采台" tvg-name="TVBS 精采台" tvg-logo="https://assets.livednow.com/logo/TVBS-精采台.png" group-title="综艺", TVBS 精采台
+#EXTINF:-1 tvg-id="TVBS-精采台" tvg-name="TVBS 精采台" tvg-logo="https://assets.livednow.com/logo/TVBS-精采台.png" group-title="音乐综艺", TVBS 精采台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv067
-#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="综艺", 八大精彩台
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="音乐综艺", 八大精彩台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv034
-#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="综艺", 八大綜藝台
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="音乐综艺", 八大綜藝台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv039
-#EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="综艺", Smart 知識台
+#EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="音乐综艺", Smart 知識台
 https://sxg.btjson.us.kg/litv/litv-longturn19
-#EXTINF:-1 tvg-id="ELTA娛樂" tvg-name="ELTA 娛樂台" tvg-logo="https://assets.livednow.com/logo/ELTA娛樂.png" group-title="综艺", ELTA 娛樂台
+#EXTINF:-1 tvg-id="ELTA娛樂" tvg-name="ELTA 娛樂台" tvg-logo="https://assets.livednow.com/logo/ELTA娛樂.png" group-title="音乐综艺", ELTA 娛樂台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv070
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="综艺", 亞洲旅遊台
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="音乐综艺", 亞洲旅遊台
 https://sxg.btjson.us.kg/litv/litv-longturn17
 
 
@@ -300,28 +298,6 @@ https://sxg.btjson.us.kg/4gtv/168
 
 
 
-
-#综合
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="综合", 民視
-https://sxg.btjson.us.kg/litv/4gtv-4gtv155
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="综合", 民視第一台
-https://sxg.btjson.us.kg/litv/4gtv-4gtv003
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="综合", 民視台灣台
-https://sxg.btjson.us.kg/litv/4gtv-4gtv001
-#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="综合", 中視菁采台
-https://sxg.btjson.us.kg/litv/4gtv-4gtv064
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="综合", 華視
-https://sxg.btjson.us.kg/litv/4gtv-4gtv041
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://assets.livednow.com/logo/靖天綜合台.png" group-title="综合", 靖天綜合台
-https://sxg.btjson.us.kg/litv/4gtv-4gtv046
-#EXTINF:-1 tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="https://assets.livednow.com/logo/靖天國際台.png" group-title="综合", 靖天國際台
-https://sxg.btjson.us.kg/litv/4gtv-4gtv063
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://assets.livednow.com/logo/靖天日本台.png" group-title="综合", 靖天日本台
-https://sxg.btjson.us.kg/litv/4gtv-4gtv047
-#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="综合", 三立綜合台
-https://sxg.btjson.us.kg/4gtv/169
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="综合", 台視
-https://sxg.btjson.us.kg/litv/4gtv-4gtv066
 
 
 
