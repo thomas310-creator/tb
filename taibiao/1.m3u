@@ -12,14 +12,6 @@ http://192.168.10.251:4022/udp/239.45.3.236:5140
 http://192.168.10.251:4022/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.deny.vip/df/东方影视.png" group-title="综合",东方影视HD|沪
 http://192.168.10.251:4022/udp/239.45.3.237:5140
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.deny.vip/df/生活时尚.png" group-title="综合",生活时尚HD|沪
-http://192.168.10.251:4022/udp/239.45.3.132:5140
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.deny.vip/df/法治天地.png" group-title="综合",法治天地HD|沪
-http://192.168.10.251:4022/udp/239.45.1.46:5140
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.deny.vip/df/游戏风云.png" group-title="综合",游戏风云HD|沪
-http://192.168.10.251:4022/udp/239.45.3.131:5140
-#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.deny.vip/df/七彩戏剧.png" group-title="综合",七彩戏剧HD|沪
-http://192.168.10.251:4022/udp/239.45.0.16:5140
 #EXTINF:-1 tvg-name="东方购物-1" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dfgw.png" group-title="综合",上海东方购物1|沪
 http://192.168.10.251:4022/udp/239.45.3.74:5140
 #EXTINF:-1 tvg-name="东方购物-2" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dfgw.png" group-title="综合",上海东方购物2|沪
@@ -166,43 +158,39 @@ http://192.168.10.251:4022/udp/239.45.0.40:5140
 http://192.168.10.251:4022/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="电影",CCTV-6 电影频道
 http://192.168.10.251:4022/udp/239.45.1.70:5140
-#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 斗鱼|国外恐怖惊悚片
+#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 国外恐怖惊悚片|斗鱼
 http://epg.112114.xyz/douyu/96577
-#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 惊悚 灾难片
+#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 惊悚 灾难片|斗鱼
 https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
-EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 惊悚片
+EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 惊悚片|斗鱼
 https://epg.pw/stream/45f9c627c30e721a4abac6a201cb94db139d8bc9f8408612944af52ae4f0337e.ctv
-#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 欧美电影
+#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 欧美电影|斗鱼
 https://epg.pw/stream/7cc9d371298246354c11e969bf4a9c9c1466a81e1d264dc9631c18ca789a57f1.ctv
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/bfe36feaa6ab43019bce066ec53896ca_big.jpg" group-title="电影", 漫威主线剧情
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/bfe36feaa6ab43019bce066ec53896ca_big.jpg" group-title="电影", 漫威主线剧情|斗鱼
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202310/15e855fa31e94ca3862f80c2337f0e3c_big.jpg" group-title="电影", 欧美房 科幻 动作 经典 喜剧
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202310/15e855fa31e94ca3862f80c2337f0e3c_big.jpg" group-title="电影", 欧美房 科幻 动作 经典 喜剧|斗鱼
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png" group-title="电影", 斗鱼|华语房
+#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png" group-title="电影", 华语房|斗鱼
 http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png" group-title="电影", 斗鱼|粤语房  周星驰
+#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png" group-title="电影", 粤语房  周星驰|斗鱼
 http://epg.112114.xyz/douyu/6566671
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/11/15/ce5b56c162e56be3c62c689f42629198_big.jpg" group-title="电影", 斗鱼|欧美大片1
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/11/15/ce5b56c162e56be3c62c689f42629198_big.jpg" group-title="电影", 欧美大片1|斗鱼
 http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/62a2bfb18ccb4fb5a444847370f32096_big.jpg" group-title="电影", 【贝爷1厅】欧美 科幻 动作 灾难 经典
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/62a2bfb18ccb4fb5a444847370f32096_big.jpg" group-title="电影", 【贝爷1厅】欧美 科幻 动作 灾难 经典|斗鱼
 http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/b36e20eb35e64a76b217450b9f06004b_big.jpg" group-title="电影", 【贝爷2厅】欧美 日韩 国产
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/b36e20eb35e64a76b217450b9f06004b_big.jpg" group-title="电影", 【贝爷2厅】欧美 日韩 国产|斗鱼
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_big.jpg" group-title="电影", 【贝爷IMAX厅】60帧 科幻 动作 经典
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_big.jpg" group-title="电影", 【贝爷IMAX厅】60帧 科幻 动作 经典|斗鱼
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/3c7aed7c29fb455fbe369a1a383c7628_big.jpg" group-title="电影", 斗鱼|豆瓣高评分电影
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/3c7aed7c29fb455fbe369a1a383c7628_big.jpg" group-title="电影", 豆瓣高评分电影|斗鱼
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png" group-title="电影", 斗鱼|吃米滴的虫
-http://epg.112114.xyz/douyu/315457
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/20743595471d57653a0e3a09a018d007_big.jpg" group-title="电影", 斗鱼|粤语【周星驰】【林正英】
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/20743595471d57653a0e3a09a018d007_big.jpg" group-title="电影", 粤语【周星驰】【林正英】|斗鱼
 http://epg.112114.xyz/douyu/5033502
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201912/ac402708ee744dfa8c3b5fd030bd78b9_big.jpg" group-title="电影", 斗鱼|豆瓣高评分电影
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201912/ac402708ee744dfa8c3b5fd030bd78b9_big.jpg" group-title="电影", 豆瓣高评分电影|斗鱼
 http://epg.112114.xyz/douyu/52787
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/07bba4672f144b8f94cd774416e3da98_big.jpg" group-title="电影", 斗鱼|哈利波特
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/07bba4672f144b8f94cd774416e3da98_big.jpg" group-title="电影", 哈利波特|斗鱼
 http://epg.112114.xyz/douyu/8814650
 https://epg.pw/stream/02d1fb76a8e05d628275f54501e4107c30c5228849c0e602cdf93467512dee69.ctv
-#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202308220954_1692669269895_H169_1080.jpg" group-title="电影",新片放映厅
-https://livednow.com/migu/619495952?sign=gAAAAABmoMqm5Zg0tMAM0AW4es9ew3Rh3CuygGhl0intFCOqSJX-nssRdw-s1id4vIy14tgRu-fr3wX4y_-H9_UsP9W7JqV6_sjUAOiyBzpJZyjTamoy-0KYPUyGHitCBPoVrLi7NQ2igGtwY1_GpSgeV4tV_2-ORgLDM7tgaks4QpbWw3kK1gZescFAUfjrVepnBxLDnVjsjU3DOpn3NlV1nQDcO6qpfw%3D%3D
 
 
 
@@ -394,9 +382,9 @@ http://192.168.10.251:4022/udp/239.45.0.14:5140
 
 
 #动漫
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.deny.vip/df/动漫秀场.png" group-title="动漫",动漫秀场HD
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.deny.vip/df/动漫秀场.png" group-title="动漫",动漫秀场HD|沪
 http://192.168.10.251:4022/udp/239.45.3.134:5140
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.deny.vip/df/哈哈炫动.png" group-title="动漫",哈哈炫动HD
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.deny.vip/df/哈哈炫动.png" group-title="动漫",哈哈炫动HD|沪
 http://192.168.10.251:4022/udp/239.45.1.55:5140
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="动漫",BesTV动画4k
 http://192.168.10.251:4022/udp/239.45.1.11:5140
@@ -414,6 +402,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="动漫",嘉佳卡通
 http://192.168.10.251:4022/udp/239.45.1.48:5140
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.deny.vip/df/游戏风云.png" group-title="动漫",游戏风云HD|沪
+http://192.168.10.251:4022/udp/239.45.3.131:5140
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://assets.livednow.com/logo/靖天卡通台.png" group-title="动漫", 靖天卡通台|台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv044
 #EXTINF:-1 tvg-id="DreamWorks-夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://assets.livednow.com/logo/DreamWorks-夢工廠動畫.png" group-title="动漫", DreamWorks 夢工廠動畫|台
