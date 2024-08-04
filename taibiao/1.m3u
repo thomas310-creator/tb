@@ -90,31 +90,31 @@ http://192.168.10.251:4022/udp/239.45.0.51:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="电视剧",怀旧剧场HD
 http://192.168.10.251:4022/udp/239.45.0.49:5140
 #EXTINF:-1 tvg-id="民視影劇台" tvg-name="民视影剧台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="电视剧", 民視影劇台|台
-http://192.168.31.251:5000/litv/litv-ftv09
+https://sxg.btjson.us.kg/litv/litv-ftv09
 #EXTINF:-1 tvg-id="中視經典台" tvg-name="中视经典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="电视剧", 中視經典台|台
-http://192.168.31.251:5000/4gtv-4gtv080
+https://sxg.btjson.us.kg/4gtv-4gtv080
 #EXTINF:-1 tvg-id="靖天映畫台" tvg-name="靖天映画" tvg-logo="https://assets.livednow.com/logo/靖天映畫台.png" group-title="电视剧", 靖天映畫台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv055
+https://sxg.btjson.us.kg/litv/4gtv-4gtv055
 #EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戏剧" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="电视剧", 靖天戲劇台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv058
+https://sxg.btjson.us.kg/litv/4gtv-4gtv058
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龙华戏剧台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="电视剧", 龍華戲劇台|台
-http://192.168.31.251:5000/litv/litv-longturn18
+https://sxg.btjson.us.kg/litv/litv-longturn18
 #EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龙华偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="电视剧", 龍華偶像台|台
-http://192.168.31.251:5000/litv/litv-longturn12
+https://sxg.btjson.us.kg/litv/litv-longturn12
 #EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龙华日韩台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="电视剧", 龍華日韓台|台
-http://192.168.31.251:5000/litv/litv-longturn11
+https://sxg.btjson.us.kg/litv/litv-longturn11
 #EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戏剧" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="电视剧", 靖洋戲劇台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv045
+https://sxg.btjson.us.kg/litv/4gtv-4gtv045
 #EXTINF:-1 tvg-id="TVBS-台劇台" tvg-name="TVBS台剧台" tvg-logo="https://assets.livednow.com/logo/TVBS-台劇台.png" group-title="电视剧", TVBS 台劇台|台
-http://192.168.31.251:5000/4gtv/285
+https://sxg.btjson.us.kg/4gtv/285
 #EXTINF:-1 tvg-id="公視戲劇台" tvg-name="公视戏剧" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="电视剧", 公視戲劇台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv042
+https://sxg.btjson.us.kg/litv/4gtv-4gtv042
 #EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影剧台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="电视剧", 采昌影劇台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv049
+https://sxg.btjson.us.kg/litv/4gtv-4gtv049
 #EXTINF:-1 tvg-id="戲劇免費看-1台" tvg-name="戏剧免费看1台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-1台.png" group-title="电视剧", 戲劇免費看 1台|台
-http://192.168.31.251:5000/4gtv/270
+https://sxg.btjson.us.kg/4gtv/270
 #EXTINF:-1 tvg-id="戲劇免費看-2台" tvg-name="戏剧免费看2台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-2台.png" group-title="电视剧", 戲劇免費看 2台|台
-http://192.168.31.251:5000/4gtv/244
+https://sxg.btjson.us.kg/4gtv/244
 
 
 
@@ -213,25 +213,25 @@ http://192.168.10.251:4022/udp/239.45.3.185:5140
 #EXTINF:-1 tvg-logo="http://tv.haoqu99.com/d/file/2019/0121/small1f81f481ac3b0f3a2ad54104300057b4.jpg" group-title="综合",金山电视台|沪
 http://livejs1.newsjs.net/jspd/playlist.m3u8
 #EXTINF:-1 tvg-id="民視" tvg-name="民视" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="综合", 民視|台
-http://192.168.31.251:5000/litv/4gtv-4gtv155
+https://sxg.btjson.us.kg/litv/4gtv-4gtv155
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民视第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="综合", 民視第一台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv003
+https://sxg.btjson.us.kg/litv/4gtv-4gtv003
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民视台湾台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="综合", 民視台灣台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv001
+https://sxg.btjson.us.kg/litv/4gtv-4gtv001
 #EXTINF:-1 tvg-id="中視菁采台" tvg-name="中视菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="综合", 中視菁采台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv064
+https://sxg.btjson.us.kg/litv/4gtv-4gtv064
 #EXTINF:-1 tvg-id="華視" tvg-name="华视" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="综合", 華視|台
-http://192.168.31.251:5000/litv/4gtv-4gtv041
+https://sxg.btjson.us.kg/litv/4gtv-4gtv041
 #EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天综合台" tvg-logo="https://assets.livednow.com/logo/靖天綜合台.png" group-title="综合", 靖天綜合台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv046
+https://sxg.btjson.us.kg/litv/4gtv-4gtv046
 #EXTINF:-1 tvg-id="靖天國際台" tvg-name="KLT靖天国际台" tvg-logo="https://assets.livednow.com/logo/靖天國際台.png" group-title="综合", 靖天國際台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv063
+https://sxg.btjson.us.kg/litv/4gtv-4gtv063
 #EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://assets.livednow.com/logo/靖天日本台.png" group-title="综合", 靖天日本台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv047
+https://sxg.btjson.us.kg/litv/4gtv-4gtv047
 #EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立综合台" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="综合", 三立綜合台|台
-http://192.168.31.251:5000/4gtv/169
+https://sxg.btjson.us.kg/4gtv/169
 #EXTINF:-1 tvg-id="台視" tvg-name="台视" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="综合", 台視|台
-http://192.168.31.251:5000/litv/4gtv-4gtv066
+https://sxg.btjson.us.kg/litv/4gtv-4gtv066
 
 
 
@@ -252,59 +252,59 @@ http://192.168.10.251:4022/udp/239.45.3.126:5140
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="综艺",女性时尚
 http://192.168.10.251:4022/udp/239.45.0.47:5140
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民视综艺台" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="综艺", 民視綜藝台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv004
+https://sxg.btjson.us.kg/litv/4gtv-4gtv004
 #EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育乐" tvg-logo="https://assets.livednow.com/logo/靖天育樂台.png" group-title="综艺", 靖天育樂台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv062
+https://sxg.btjson.us.kg/litv/4gtv-4gtv062
 #EXTINF:-1 tvg-id="靖天歡樂台" tvg-name="NICETV靖天欢乐台" tvg-logo="https://assets.livednow.com/logo/靖天歡樂台.png" group-title="综艺", 靖天歡樂台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv054
+https://sxg.btjson.us.kg/litv/4gtv-4gtv054
 #EXTINF:-1 tvg-id="TVBS-綜藝台" tvg-name="TVBS综艺台" tvg-logo="https://assets.livednow.com/logo/TVBS-綜藝台.png" group-title="综艺", TVBS 綜藝台|台
-http://192.168.31.251:5000/4gtv/284
+https://sxg.btjson.us.kg/4gtv/284
 #EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS欢乐台" tvg-logo="https://assets.livednow.com/logo/TVBS-歡樂台.png" group-title="综艺", TVBS 歡樂台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv068
+https://sxg.btjson.us.kg/litv/4gtv-4gtv068
 #EXTINF:-1 tvg-id="TVBS-精采台" tvg-name="TVBS精采台" tvg-logo="https://assets.livednow.com/logo/TVBS-精采台.png" group-title="综艺", TVBS 精采台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv067
+https://sxg.btjson.us.kg/litv/4gtv-4gtv067
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="综艺", 八大精彩台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv034
+https://sxg.btjson.us.kg/litv/4gtv-4gtv034
 #EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大综艺台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="综艺", 八大綜藝台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv039
+https://sxg.btjson.us.kg/litv/4gtv-4gtv039
 #EXTINF:-1 tvg-id="Smart-知識台" tvg-name="SMART知识台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="综艺", Smart 知識台|台
-http://192.168.31.251:5000/litv/litv-longturn19
+https://sxg.btjson.us.kg/litv/litv-longturn19
 #EXTINF:-1 tvg-id="ELTA娛樂" tvg-name="爱尔达娱乐台" tvg-logo="https://assets.livednow.com/logo/ELTA娛樂.png" group-title="综艺", ELTA 娛樂台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv070
+https://sxg.btjson.us.kg/litv/4gtv-4gtv070
 #EXTINF:-1 tvg-id="Lifetime-娛樂頻道" tvg-name="LIFETIME娱乐频道" tvg-logo="https://assets.livednow.com/logo/Lifetime-娛樂頻道.png" group-title="综艺", Lifetime 娛樂頻道|台
-http://192.168.31.251:5000/4gtv/217
+https://sxg.btjson.us.kg/4gtv/217
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://assets.livednow.com/logo/豬哥亮歌廳秀.png" group-title="综艺", 豬哥亮歌廳秀|台
-http://192.168.31.251:5000/litv/4gtv-4gtv006
+https://sxg.btjson.us.kg/litv/4gtv-4gtv006
 
 
 
 #生活旅游
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民视旅游台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="生活旅游", 民視旅遊台
-http://192.168.31.251:5000/litv/litv-ftv07
+https://sxg.btjson.us.kg/litv/litv-ftv07
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亚洲旅游台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="生活旅游", 亞洲旅遊台|台
-http://192.168.31.251:5000/litv/litv-longturn17
+https://sxg.btjson.us.kg/litv/litv-longturn17
 #EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空间居家台" tvg-logo="https://assets.livednow.com/logo/幸福空間居家台.png" group-title="生活旅游", 幸福空間居家台|台
-http://192.168.31.251:5000/4gtv/168
+https://sxg.btjson.us.kg/4gtv/168
 #EXTINF:-1 tvg-id="Mezzo-Live" tvg-name="MEZZOLIVE" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="生活旅游", Mezzo Live|台
-http://192.168.31.251:5000/litv/4gtv-4gtv083
+https://sxg.btjson.us.kg/litv/4gtv-4gtv083
 #EXTINF:-1 tvg-id="Trace-Urban" tvg-name="TRACEURBAN" tvg-logo="https://assets.livednow.com/logo/Trace-Urban.png" group-title="生活旅游", Trace Urban|台
-http://192.168.31.251:5000/litv/4gtv-4gtv082
+https://sxg.btjson.us.kg/litv/4gtv-4gtv082
 #EXTINF:-1 tvg-id="Global-Trekker" tvg-name="GLOBALTREKKER" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="生活旅游", Global Trekker|台
-http://192.168.31.251:5000/4gtv/252
+https://sxg.btjson.us.kg/4gtv/252
 #EXTINF:-1 tvg-id="Globetrotter-環遊旅行家" tvg-name="GLOBETROTTER环游旅行家" tvg-logo="https://assets.livednow.com/logo/Globetrotter-環遊旅行家.png" group-title="生活旅游", Globetrotter 環遊旅行家|台
-http://192.168.31.251:5000/litv/4gtv-4gtv016
+https://sxg.btjson.us.kg/litv/4gtv-4gtv016
 #EXTINF:-1 tvg-id="LUXE-TV" tvg-name="LUXETV" tvg-logo="https://assets.livednow.com/logo/LUXE-TV.png" group-title="生活旅游", LUXE TV|台
-http://192.168.31.251:5000/4gtv/175
+https://sxg.btjson.us.kg/4gtv/175
 #EXTINF:-1 tvg-id="Pet-Club-TV" tvg-name="PETCLUBTV" tvg-logo="https://assets.livednow.com/logo/Pet-Club-TV.png" group-title="生活旅游", Pet Club TV|台
-http://192.168.31.251:5000/4gtv/182
+https://sxg.btjson.us.kg/4gtv/182
 #EXTINF:-1 tvg-id="TV5MONDE-Style" tvg-name="TV5MONDESTYLE生活时尚" tvg-logo="https://assets.livednow.com/logo/TV5MONDE-Style.png" group-title="生活旅游", TV5MONDE Style|台
-http://192.168.31.251:5000/4gtv/178
+https://sxg.btjson.us.kg/4gtv/178
 #EXTINF:-1 tvg-id="車迷-TV" tvg-name="车迷TV" tvg-logo="https://assets.livednow.com/logo/車迷-TV.png" group-title="生活旅游", 車迷 TV|台
-http://192.168.31.251:5000/4gtv/160
+https://sxg.btjson.us.kg/4gtv/160
 #EXTINF:-1 tvg-id="Love-Nature" tvg-name="LOVENATURE" tvg-logo="https://assets.livednow.com/logo/Love-Nature.png" group-title="生活旅游", Love Nature|台
-http://192.168.31.251:5000/4gtv/139
+https://sxg.btjson.us.kg/4gtv/139
 #EXTINF:-1 tvg-id="Fun-探索娛樂台" tvg-name="FUN探索娱乐台" tvg-logo="https://assets.livednow.com/logo/Fun-探索娛樂台.png" group-title="生活旅游", Fun 探索娛樂台|台
-http://192.168.31.251:5000/4gtv/274
+https://sxg.btjson.us.kg/4gtv/274
 #EXTINF:-1 tvg-id="Mezzo-Live-HD" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="生活旅游", Mezzo Live HD
 
 
@@ -335,11 +335,11 @@ http://192.168.10.251:4022/udp/239.45.1.73:5140
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 #EXTINF:-1 tvg-id="CI-罪案偵查頻道" tvg-name="CI罪案侦查频道" tvg-logo="https://assets.livednow.com/logo/CI-罪案偵查頻道.png" group-title="数字", CI 罪案偵查頻道|台
-http://192.168.31.251:5000/4gtv/215
+https://sxg.btjson.us.kg/4gtv/215
 #EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="HISTORY历史频道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="数字", History 歷史頻道|台
-http://192.168.31.251:5000/4gtv/214
+https://sxg.btjson.us.kg/4gtv/214
 #EXTINF:-1 tvg-id="達文西頻道" tvg-name="达文西频道" tvg-logo="https://assets.livednow.com/logo/達文西頻道.png" group-title="数字"", 達文西頻道|台
-http://192.168.31.251:5000/litv/4gtv-4gtv018
+https://sxg.btjson.us.kg/litv/4gtv-4gtv018
 #EXTINF:-1 tvg-id="中國環球電視網-英語頻道" tvg-name="中国环球电视网记录频道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" group-title="数字", CGTN (中國環球電視網)英語頻道
 
 #EXTINF:-1 tvg-id="中國環球電視網-記錄頻道" tvg-name="中国环球电视网英语频道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" group-title="数字", CGTN (中國環球電視網)記錄頻道
@@ -372,7 +372,7 @@ http://192.168.10.251:4022/udp/239.45.1.14:5140
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.deny.vip/df/中国天气.png" group-title="科教纪实",中国天气
 http://192.168.10.251:4022/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷数位纪实台" tvg-logo="https://assets.livednow.com/logo/影迷數位紀實台.png" group-title="科教纪实", 影迷數位紀實台|台
-http://192.168.31.251:5000/4gtv/212
+https://sxg.btjson.us.kg/4gtv/212
 
 
 
@@ -399,31 +399,31 @@ http://192.168.10.251:4022/udp/239.45.3.12:5140
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://assets.livednow.com/logo/四海钓鱼.png" group-title="体育",四海钓鱼
 http://livednow.com/migu/895358641?sign=gAAAAABmoMqmxw2ywPuxq8n3To6XXrbfCaBs3MYXtM3JiSkq_V_iq15ydFYAXmkOFp2CwOV1-z-jX26NcQjMA4zZ_WFFMh8zSbM3stco2IM3ChSqu5VOMKB2w9ujhFn23gpmRT1q5KzqhMnxRLEwg1Pw39D0oXfKsmHFD5aahKaJK6zTQf-RGb0laEy6Hxs40wAJRKkDJf9fmfZWScZXMjlrvp7sqeKYCg%3D%3D
 #EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯运动一台" tvg-logo="https://assets.livednow.com/logo/博斯運動一台.png" group-title="体育", 博斯運動一台|台
-http://192.168.31.251:5000/litv/litv-longturn07
+https://sxg.btjson.us.kg/litv/litv-longturn07
 #EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯运动二台" tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="体育", 博斯運動二台|台
-http://192.168.31.251:5000/litv/litv-longturn08
+https://sxg.btjson.us.kg/litv/litv-longturn08
 #EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯无限台" tvg-logo="https://assets.livednow.com/logo/博斯無限台.png" group-title="体育", 博斯無限台|台
-http://192.168.31.251:5000/litv/litv-longturn10
+https://sxg.btjson.us.kg/litv/litv-longturn10
 #EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯无限二台" tvg-logo="https://assets.livednow.com/logo/博斯無限二台.png" group-title="体育", 博斯無限二台|台
-http://192.168.31.251:5000/litv/litv-longturn13
+https://sxg.btjson.us.kg/litv/litv-longturn13
 #EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯网球台" tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="体育", 博斯網球台|台
-http://192.168.31.251:5000/litv/litv-longturn09
+https://sxg.btjson.us.kg/litv/litv-longturn09
 #EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="体育", 博斯高球台|台
-http://192.168.31.251:5000/litv/litv-longturn05
+https://sxg.btjson.us.kg/litv/litv-longturn05
 #EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="体育", 博斯高球二台|台
-http://192.168.31.251:5000/litv/litv-longturn06
+https://sxg.btjson.us.kg/litv/litv-longturn06
 #EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="体育", 博斯魅力台|台
-http://192.168.31.251:5000/litv/litv-longturn04
+https://sxg.btjson.us.kg/litv/litv-longturn04
 #EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="GINXESPORTSTV" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="体育", GINX Esports TV|台
-http://192.168.31.251:5000/litv/4gtv-4gtv053
+https://sxg.btjson.us.kg/litv/4gtv-4gtv053
 #EXTINF:-1 tvg-id="TechStorm" tvg-name="TechStorm" tvg-logo="https://assets.livednow.com/logo/TechStorm.png" group-title="体育", TechStorm|台
-http://192.168.31.251:5000/4gtv/181
+https://sxg.btjson.us.kg/4gtv/181
 #EXTINF:-1 tvg-id="時尚運動X" tvg-name="时尚运动X" tvg-logo="https://assets.livednow.com/logo/時尚運動X.png" group-title="体育", 時尚運動X|台
-http://192.168.31.251:50004gtv/277
+https://sxg.btjson.us.kg4gtv/277
 #EXTINF:-1 tvg-id="智林體育台" tvg-name="智林体育台" tvg-logo="https://assets.livednow.com/logo/智林體育台.png" group-title="体育", 智林體育台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv101
+https://sxg.btjson.us.kg/litv/4gtv-4gtv101
 #EXTINF:-1 tvg-id="TraceSports" tvg-name="TRACESPORTSTARS" tvg-logo="https://assets.livednow.com/logo/TraceSports.png" group-title="体育", TraceSports|台
-http://192.168.31.251:5000/litv/4gtv-4gtv077
+https://sxg.btjson.us.kg/litv/4gtv-4gtv077
 
 
 
@@ -443,9 +443,9 @@ http://192.168.10.251:4022/udp/239.45.0.19:5140
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="新闻",中天新闻|台
 http://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新闻台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="新闻", 中天新聞台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv009
+https://sxg.btjson.us.kg/litv/4gtv-4gtv009
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亚洲台" tvg-logo="https://assets.livednow.com/logo/中天亞洲台.png" group-title="新闻", 中天亞洲台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv109
+https://sxg.btjson.us.kg/litv/4gtv-4gtv109
 
 
 
@@ -488,33 +488,33 @@ http://192.168.10.251:4022/udp/239.45.1.48:5140
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.deny.vip/df/游戏风云.png" group-title="动漫",游戏风云HD|沪
 http://192.168.10.251:4022/udp/239.45.3.131:5140
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://assets.livednow.com/logo/靖天卡通台.png" group-title="动漫", 靖天卡通台|台
-http://192.168.31.251:5000/litv/4gtv-4gtv044
+https://sxg.btjson.us.kg/litv/4gtv-4gtv044
 #EXTINF:-1 tvg-id="DreamWorks-夢工廠動畫" tvg-name="DREAMWORKS梦工厂动画" tvg-logo="https://assets.livednow.com/logo/DreamWorks-夢工廠動畫.png" group-title="动漫", DreamWorks 夢工廠動畫|台
-http://192.168.31.251:5000/4gtv/282
+https://sxg.btjson.us.kg/4gtv/282
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="动漫", Nickelodeon|台
-http://192.168.31.251:5000/4gtv/185
+https://sxg.btjson.us.kg/4gtv/185
 #EXTINF:-1 tvg-id="Nick-Jr." tvg-name="NICKJR.儿童频道" tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="动漫", Nick Jr. 兒童頻道|台
-http://192.168.31.251:5000/4gtv/219
+https://sxg.btjson.us.kg/4gtv/219
 #EXTINF:-1 tvg-id="i-Fun-動漫台" tvg-name="IFUN动漫台" tvg-logo="https://assets.livednow.com/logo/i-Fun-動漫台.png" group-title="动漫", i-Fun 動漫台|台
-http://192.168.31.251:5000/litv/litv-ftv15
+https://sxg.btjson.us.kg/litv/litv-ftv15
 #EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龙华卡通台" tvg-logo="https://assets.livednow.com/logo/龍華卡通台.png" group-title="动漫", 龍華卡通台|台
-http://192.168.31.251:5000/litv/litv-longturn01
+https://sxg.btjson.us.kg/litv/litv-longturn01
 #EXTINF:-1 tvg-id="靖洋卡通-Nice-Bingo" tvg-name="靖洋卡通NICEBINGO" tvg-logo="https://assets.livednow.com/logo/靖洋卡通-Nice-Bingo.png" group-title="动漫", 靖洋卡通 Nice Bingo|台
-http://192.168.31.251:5000/litv/4gtv-4gtv057
+https://sxg.btjson.us.kg/litv/4gtv-4gtv057
 #EXTINF:-1 tvg-id="兒童卡通台" tvg-name="儿童卡通台" tvg-logo="https://assets.livednow.com/logo/兒童卡通台.png" group-title="动漫", 兒童卡通台|台
-http://192.168.31.251:5000/4gtv/269
+https://sxg.btjson.us.kg/4gtv/269
 #EXTINF:-1 tvg-id="精選動漫台" tvg-name="精选动漫台" tvg-logo="https://assets.livednow.com/logo/精選動漫台.png" group-title="动漫", 精選動漫台|台
-http://192.168.31.251:5000/4gtv/204
+https://sxg.btjson.us.kg/4gtv/204
 #EXTINF:-1 tvg-id="經典卡通台" tvg-name="经典卡通台" tvg-logo="https://assets.livednow.com/logo/經典卡通台.png" group-title="动漫", 經典卡通台|台
-http://192.168.31.251:5000/4gtv/202
+https://sxg.btjson.us.kg/4gtv/202
 #EXTINF:-1 tvg-id="超人力霸王整套看" tvg-name="超人力霸王整套看" tvg-logo="https://assets.livednow.com/logo/超人力霸王整套看.png" group-title="动漫", 超人力霸王整套看|台
-http://192.168.31.251:5000/4gtv/278
+https://sxg.btjson.us.kg/4gtv/278
 #EXTINF:-1 tvg-id="MOMO-親子台" tvg-name="MOMO亲子台" tvg-logo="https://assets.livednow.com/logo/MOMO-親子台.png" group-title="动漫", MOMO 親子台|台
-http://192.168.31.251:5000/4gtv/231
+https://sxg.btjson.us.kg/4gtv/231
 #EXTINF:-1 tvg-id="LiveABC-互動英語台" tvg-name="LIVEABC互动英语频道" tvg-logo="https://assets.livednow.com/logo/LiveABC-互動英語台.png" group-title="动漫", LiveABC 互動英語台|台
-http://192.168.31.251:5000/4gtv/188
+https://sxg.btjson.us.kg/4gtv/188
 #EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTV生活英语台" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="动漫", ELTA生活英語|台
-http://192.168.31.251:5000/litv/litv-longturn20
+https://sxg.btjson.us.kg/litv/litv-longturn20
 
 
 
@@ -524,11 +524,11 @@ http://192.168.10.251:4022/udp/239.45.0.16:5140
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="音乐戏剧",24小时背景音乐
 http://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 #EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="电影原声台CMUSIC" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="音乐戏剧", 電影原聲台 CMusic|台
-http://192.168.31.251:5000/4gtv/218
+https://sxg.btjson.us.kg/4gtv/218
 #EXTINF:-1 tvg-id="Classica-古典樂" tvg-name="CLASSICA古典乐" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="音乐戏剧", Classica 古典樂|台
-http://192.168.31.251:5000/litv/4gtv-4gtv059
+https://sxg.btjson.us.kg/litv/4gtv-4gtv059
 #EXTINF:-1 tvg-id="MTV-Live-HD-音樂頻道" tvg-name="MTVLIVE音乐频道" tvg-logo="https://assets.livednow.com/logo/MTV-Live-HD-音樂頻道.png" group-title="音乐戏剧", MTV Live HD 音樂頻道|台
-http://192.168.31.251:5000/4gtv/213
+https://sxg.btjson.us.kg/4gtv/213
 
 
 #央视
@@ -577,7 +577,7 @@ http://192.168.10.251:4022/udp/239.45.0.46:5140
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="央视",文化精品
 http://192.168.10.251:4022/udp/239.45.1.17:5140
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="央视",央视台球
-http://192.168.31.251:5000/ysp/cctv-yangshitaiqiu
+https://sxg.btjson.us.kg/ysp/cctv-yangshitaiqiu
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="央视",央视高尔夫网球
 http://192.168.10.251:4022/udp/239.45.0.48:5140
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="央视",风云剧场
@@ -606,8 +606,3 @@ http://192.168.10.251:4022/udp/239.45.1.243:5140
 http://192.168.10.251:4022/udp/239.45.0.55:5140
 #EXTINF:-1 tvg-id="67" tvg-name="CGTN" tvg-logo="https://epg.deny.vip/cctv/CGTN.png" group-title="央视",CGTN
 http://192.168.10.251:4022/udp/239.45.1.194:5140
-
-
-
-
-
