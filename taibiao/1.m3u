@@ -89,13 +89,13 @@ http://192.168.10.251:4022/udp/239.45.0.50:5140
 http://192.168.10.251:4022/udp/239.45.0.51:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="电视剧",怀旧剧场HD
 http://192.168.10.251:4022/udp/239.45.0.49:5140
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="电视剧", 民視影劇台|台
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民视影剧台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="电视剧", 民視影劇台|台
 https://sxg.btjson.us.kg/litv/litv-ftv09
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="电视剧", 中視經典台|台
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中视经典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="电视剧", 中視經典台|台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv080
-#EXTINF:-1 tvg-id="靖天映畫台" tvg-name="靖天映画台" tvg-logo="https://assets.livednow.com/logo/靖天映畫台.png" group-title="电视剧", 靖天映畫台|台
+#EXTINF:-1 tvg-id="靖天映畫台" tvg-name="靖天映画" tvg-logo="https://assets.livednow.com/logo/靖天映畫台.png" group-title="电视剧", 靖天映畫台|台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv055
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="电视剧", 靖天戲劇台|台
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戏剧" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="电视剧", 靖天戲劇台|台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv058
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龙华戏剧台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="电视剧", 龍華戲劇台|台
 https://sxg.btjson.us.kg/litv/litv-longturn18
@@ -103,15 +103,15 @@ https://sxg.btjson.us.kg/litv/litv-longturn18
 https://sxg.btjson.us.kg/litv/litv-longturn12
 #EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龙华日韩台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="电视剧", 龍華日韓台|台
 https://sxg.btjson.us.kg/litv/litv-longturn11
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="电视剧", 靖洋戲劇台|台
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戏剧" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="电视剧", 靖洋戲劇台|台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv045
 #EXTINF:-1 tvg-id="TVBS-台劇台" tvg-name="TVBS台剧台" tvg-logo="https://assets.livednow.com/logo/TVBS-台劇台.png" group-title="电视剧", TVBS 台劇台|台
 https://sxg.btjson.us.kg/4gtv/285
-#EXTINF:-1 tvg-id="公視戲劇台" tvg-name="公视戏剧台" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="电视剧", 公視戲劇台|台
+#EXTINF:-1 tvg-id="公視戲劇台" tvg-name="公视戏剧" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="电视剧", 公視戲劇台|台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv042
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="电视剧", 采昌影劇台|台
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影剧台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="电视剧", 采昌影劇台|台
 https://sxg.btjson.us.kg/litv/4gtv-4gtv049
-#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台湾戏剧台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="电视剧", 台灣戲劇台|台
+#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台湾戏剧" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="电视剧", 台灣戲劇台|台
 https://sxg.btjson.us.kg/litv/litv-longturn22
 #EXTINF:-1 tvg-id="戲劇免費看-1台" tvg-name="戏剧免费看1台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-1台.png" group-title="电视剧", 戲劇免費看 1台|台
 https://sxg.btjson.us.kg/4gtv/270
