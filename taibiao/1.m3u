@@ -540,7 +540,7 @@ http://192.168.10.251:4022/udp/239.45.3.131:5140
 https://sxg.btjson.us.kg/litv/4gtv-4gtv044
 #EXTINF:-1 tvg-id="DreamWorks-夢工廠動畫" tvg-name="DREAMWORKS梦工厂动画" tvg-logo="https://assets.livednow.com/logo/DreamWorks-夢工廠動畫.png" group-title="动漫", DreamWorks 夢工廠動畫|台
 https://sxg.btjson.us.kg/4gtv/282
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="动漫", Nickelodeon|台
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="动漫", Nickelodeon|台
 https://sxg.btjson.us.kg/4gtv/185
 #EXTINF:-1 tvg-id="Nick-Jr." tvg-name="NICKJR.儿童频道" tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="动漫", Nick Jr. 兒童頻道|台
 https://sxg.btjson.us.kg/4gtv/219
