@@ -307,6 +307,8 @@ http://192.168.31.251:5000/4gtv/139
 http://192.168.31.251:5000/4gtv/274
 #EXTINF:-1 tvg-id="Mezzo-Live-HD" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="生活旅游", Mezzo Live HD
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/-K-v1KslyJy8vuZciUHzJ-Owxnr-IptZ9GShGuMofmum2Q7_1j9Slo-5KX4kkp3DiTJ1s73TfC8=s160-c-k-c0x00ffffff-no-rj" group-title="生活旅游",東京都 新宿
+http://192.168.31.251:35455/youtube/DjdUEyjx8GM
 
 
 
@@ -528,6 +530,8 @@ http://192.168.31.251:5000/litv/4gtv-4gtv059
 http://192.168.31.251:5000/4gtv/213
 
 #轮播
+#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/KdkQmHsvMMIExAPygchYgesO8ndR_pmmvtewr6wvZn7ffjODa7Cv_T--vCRfIkIaI8Km3BUl=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",台灣靈異事件
+http://192.168.31.251:35455/youtube/QXcQB-aBJRY
 #EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/KBZVTZyBipVikc7ppKJeY0Rpge5y_ZsXaQl37cXZSUgqr9eGyTryb_y7JqdUF5UyUilmPjnc=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",知否知否应是绿肥红瘦
 http://192.168.31.251:35455/youtube/d4M5E7AtTns
 #EXTINF:-1 tvg-name="甄嬛传" tvg-logo="https://yt3.googleusercontent.com/5oYw3Ie3p9XEtRrUNCFRJF2XNdvx_mm5IHpJ_RSvL8Ap602J60Xzm-MmLjON6jzWsRYvS36uijk=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",甄嬛传
@@ -542,10 +546,16 @@ http://192.168.31.251:35455/youtube/Wr7qwP8T0QA
 http://192.168.31.251:35455/youtube/5ooE0yvu94
 #EXTINF:-1 tvg-name="終極三國" tvg-logo="https://yt3.googleusercontent.com/uANUmsAUoklG4OqUNJOo1XRA7IQvoW2uZkZq_abOwTrwF6KrIPRBlBKJxF67RPxb1H0eyt6a=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",終極三國
 http://192.168.31.251:35455/youtube/Rqgc4mM5A3Y
+#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mvwtzvK5N_v3XamuXqYgEmnbSRPjL68izF-3dLGj-9mS8=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",飢餓遊戲
+http://192.168.31.251:35455/youtube/A98LJq71BZg
+#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/AC_kfH8uR7pXr9ntZPyyw2pROd3sCbLhqVQyFkF_n35hI2GyIrjqEFUmmTgJ4o9CDPixuTGL=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",猜歌王
+http://192.168.31.251:35455/youtube/-L9cBf3oAO0
 #EXTINF:-1 tvg-name="天才衝衝衝" tvg-logo="https://yt3.googleusercontent.com/wzuULAU5KAEoEgnObyG2tvmiW8VyEb6sLIkb1R5Kw_2jh11fTeFyTbjfQqAflnl9eQDhe-0E4g=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",天才衝衝衝
 http://192.168.31.251:35455/youtube/F77-i0pnTt0
 #EXTINF:-1 tvg-name="現代嘉慶君" tvg-logo="https://yt3.googleusercontent.com/wzuULAU5KAEoEgnObyG2tvmiW8VyEb6sLIkb1R5Kw_2jh11fTeFyTbjfQqAflnl9eQDhe-0E4g=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",現代嘉慶君
 http://192.168.31.251:35455/youtube/IsFtLpSuf_g
+#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/fdXarUWa35Y7mxPkAkN24M9FBaCD64wRtQNNtF54OWteSbjQf0zBzhIDVLKgH0rW9ZL0wQ8eUw=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",萬秀豬王
+http://192.168.31.251:35455/youtube/ADDSmXoPDY8
 
 
 
