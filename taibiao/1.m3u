@@ -528,6 +528,8 @@ http://192.168.31.251:5000/litv/4gtv-4gtv059
 http://192.168.31.251:5000/4gtv/213
 
 #轮播
+#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/KBZVTZyBipVikc7ppKJeY0Rpge5y_ZsXaQl37cXZSUgqr9eGyTryb_y7JqdUF5UyUilmPjnc=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",知否知否应是绿肥红瘦
+http://192.168.31.251:35455/youtube/d4M5E7AtTns
 #EXTINF:-1 tvg-name="甄嬛传" tvg-logo="https://yt3.googleusercontent.com/5oYw3Ie3p9XEtRrUNCFRJF2XNdvx_mm5IHpJ_RSvL8Ap602J60Xzm-MmLjON6jzWsRYvS36uijk=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",甄嬛传
 http://192.168.31.251:35455/youtube/WlZ_v6UEp8M
 #EXTINF:-1 tvg-name="康熙王朝" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nmSD_XY2fe042W2by-EeG_NsvwOEhInTZiyF8S2YbaetE=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",康熙王朝
