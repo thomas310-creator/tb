@@ -527,6 +527,25 @@ http://192.168.31.251:5000/litv/4gtv-4gtv059
 #EXTINF:-1 tvg-id="MTV-Live-HD-音樂頻道" tvg-name="MTVLIVE音乐频道" tvg-logo="https://assets.livednow.com/logo/MTV-Live-HD-音樂頻道.png" group-title="音乐戏剧", MTV Live HD 音樂頻道|台
 http://192.168.31.251:5000/4gtv/213
 
+#轮播
+#EXTINF:-1 tvg-name="甄嬛传" tvg-logo="https://yt3.googleusercontent.com/5oYw3Ie3p9XEtRrUNCFRJF2XNdvx_mm5IHpJ_RSvL8Ap602J60Xzm-MmLjON6jzWsRYvS36uijk=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",甄嬛传
+http://192.168.31.251:35455/youtube/WlZ_v6UEp8M
+#EXTINF:-1 tvg-name="康熙王朝" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nmSD_XY2fe042W2by-EeG_NsvwOEhInTZiyF8S2YbaetE=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",康熙王朝
+http://192.168.31.251:35455/youtube/vIaAJ6kGGqI
+#EXTINF:-1 tvg-name="雍正王朝" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nmSD_XY2fe042W2by-EeG_NsvwOEhInTZiyF8S2YbaetE=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",雍正王朝
+http://192.168.31.251:35455/youtube/P8OGdg_GFi4
+#EXTINF:-1 tvg-name="西游记" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nmSD_XY2fe042W2by-EeG_NsvwOEhInTZiyF8S2YbaetE=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",西游记
+http://192.168.31.251:35455/youtube/Wr7qwP8T0QA
+#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nmSD_XY2fe042W2by-EeG_NsvwOEhInTZiyF8S2YbaetE=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",武林外传
+http://192.168.31.251:35455/youtube/5ooE0yvu94
+#EXTINF:-1 tvg-name="終極三國" tvg-logo="https://yt3.googleusercontent.com/uANUmsAUoklG4OqUNJOo1XRA7IQvoW2uZkZq_abOwTrwF6KrIPRBlBKJxF67RPxb1H0eyt6a=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",終極三國
+http://192.168.31.251:35455/youtube/Rqgc4mM5A3Y
+#EXTINF:-1 tvg-name="天才衝衝衝" tvg-logo="https://yt3.googleusercontent.com/wzuULAU5KAEoEgnObyG2tvmiW8VyEb6sLIkb1R5Kw_2jh11fTeFyTbjfQqAflnl9eQDhe-0E4g=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",天才衝衝衝
+http://192.168.31.251:35455/youtube/F77-i0pnTt0
+#EXTINF:-1 tvg-name="現代嘉慶君" tvg-logo="https://yt3.googleusercontent.com/wzuULAU5KAEoEgnObyG2tvmiW8VyEb6sLIkb1R5Kw_2jh11fTeFyTbjfQqAflnl9eQDhe-0E4g=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",現代嘉慶君
+http://192.168.31.251:35455/youtube/IsFtLpSuf_g
+
+
 
 #央视
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.png" group-title="央视",CCTV-1 综合
