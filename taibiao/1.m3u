@@ -186,24 +186,16 @@ EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-n
 https://epg.pw/stream/45f9c627c30e721a4abac6a201cb94db139d8bc9f8408612944af52ae4f0337e.ctv
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 欧美电影|斗鱼
 https://epg.pw/stream/7cc9d371298246354c11e969bf4a9c9c1466a81e1d264dc9631c18ca789a57f1.ctv
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/bfe36feaa6ab43019bce066ec53896ca_big.jpg" group-title="电影", 漫威主线剧情|斗鱼
-http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png" group-title="电影", 华语房|斗鱼
 http://epg.112114.xyz/douyu/122402
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png" group-title="电影", 粤语房  周星驰|斗鱼
 http://epg.112114.xyz/douyu/6566671
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/11/15/ce5b56c162e56be3c62c689f42629198_big.jpg" group-title="电影", 欧美大片1|斗鱼
-http://epg.112114.xyz/douyu/2793084
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/62a2bfb18ccb4fb5a444847370f32096_big.jpg" group-title="电影", 【贝爷1厅】欧美 科幻 动作 灾难 经典|斗鱼
 http://epg.112114.xyz/douyu/252802
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/b36e20eb35e64a76b217450b9f06004b_big.jpg" group-title="电影", 【贝爷2厅】欧美 日韩 国产|斗鱼
 http://epg.112114.xyz/douyu/36337
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_big.jpg" group-title="电影", 【贝爷IMAX厅】60帧 科幻 动作 经典|斗鱼
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/3c7aed7c29fb455fbe369a1a383c7628_big.jpg" group-title="电影", 豆瓣高评分电影|斗鱼
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/20743595471d57653a0e3a09a018d007_big.jpg" group-title="电影", 粤语【周星驰】【林正英】|斗鱼
-http://epg.112114.xyz/douyu/5033502
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201912/ac402708ee744dfa8c3b5fd030bd78b9_big.jpg" group-title="电影", 豆瓣高评分电影|斗鱼
 http://epg.112114.xyz/douyu/52787
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/07bba4672f144b8f94cd774416e3da98_big.jpg" group-title="电影", 哈利波特|斗鱼
@@ -626,20 +618,8 @@ http://192.168.31.251:5000/litv/4gtv-4gtv059
 http://192.168.31.251:5000/4gtv/213
 
 #轮播
-#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/KdkQmHsvMMIExAPygchYgesO8ndR_pmmvtewr6wvZn7ffjODa7Cv_T--vCRfIkIaI8Km3BUl=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",台灣靈異事件
-http://192.168.31.251:35455/youtube/QXcQB-aBJRY
-#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/KBZVTZyBipVikc7ppKJeY0Rpge5y_ZsXaQl37cXZSUgqr9eGyTryb_y7JqdUF5UyUilmPjnc=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",知否知否应是绿肥红瘦
-http://192.168.31.251:35455/youtube/d4M5E7AtTns
-#EXTINF:-1 tvg-name="甄嬛传" tvg-logo="https://yt3.googleusercontent.com/5oYw3Ie3p9XEtRrUNCFRJF2XNdvx_mm5IHpJ_RSvL8Ap602J60Xzm-MmLjON6jzWsRYvS36uijk=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",甄嬛传
-http://192.168.31.251:35455/youtube/WlZ_v6UEp8M
-#EXTINF:-1 tvg-name="康熙王朝" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nmSD_XY2fe042W2by-EeG_NsvwOEhInTZiyF8S2YbaetE=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",康熙王朝
-http://192.168.31.251:35455/youtube/vIaAJ6kGGqI
-#EXTINF:-1 tvg-name="雍正王朝" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nmSD_XY2fe042W2by-EeG_NsvwOEhInTZiyF8S2YbaetE=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",雍正王朝
-http://192.168.31.251:35455/youtube/P8OGdg_GFi4
 #EXTINF:-1 tvg-name="西游记" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nmSD_XY2fe042W2by-EeG_NsvwOEhInTZiyF8S2YbaetE=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",西游记
 http://192.168.31.251:35455/youtube/Wr7qwP8T0QA
-#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nmSD_XY2fe042W2by-EeG_NsvwOEhInTZiyF8S2YbaetE=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",武林外传
-http://192.168.31.251:35455/youtube/5ooE0yvu94
 #EXTINF:-1 tvg-name="終極三國" tvg-logo="https://yt3.googleusercontent.com/uANUmsAUoklG4OqUNJOo1XRA7IQvoW2uZkZq_abOwTrwF6KrIPRBlBKJxF67RPxb1H0eyt6a=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",終極三國
 http://192.168.31.251:35455/youtube/Rqgc4mM5A3Y
 #EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mvwtzvK5N_v3XamuXqYgEmnbSRPjL68izF-3dLGj-9mS8=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",飢餓遊戲
