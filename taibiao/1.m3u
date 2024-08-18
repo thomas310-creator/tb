@@ -1,7 +1,7 @@
   #EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml"
 
 #卫视
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视HD
+#EXTINF:-1  tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视HD
 http://192.168.10.251:4022/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.deny.vip/ws/zhejiang.png" group-title="卫视",浙江卫视HD
 http://192.168.10.251:4022/udp/239.45.3.178:5140
