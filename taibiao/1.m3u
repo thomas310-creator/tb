@@ -89,17 +89,17 @@ http://192.168.10.251:4022/udp/239.45.0.50:5140
 http://192.168.10.251:4022/udp/239.45.0.51:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="电视剧",怀旧剧场HD
 http://192.168.10.251:4022/udp/239.45.0.49:5140
-#EXTINF:-1 tvg-id="iHOT-爱谍战" tvg-name="iHOT 爱谍战" tvg-logo="https://assets.livednow.com/logo/iHOT-爱谍战.png" group-title="电视剧", iHOT 爱谍战
+#EXTINF:-1 tvg-id="iHOT-爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://assets.livednow.com/logo/iHOT-爱谍战.png" group-title="电视剧", iHOT 爱谍战
 http://192.168.31.251:5000/itv/wasusyt/6000000006000070630
-#EXTINF:-1 tvg-id="NewTV-军旅剧场" tvg-name="NewTV军旅剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-军旅剧场.png" group-title="电视剧", NewTV 军旅剧场
+#EXTINF:-1 tvg-id="NewTV-军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-军旅剧场.png" group-title="电视剧", NewTV 军旅剧场
 http://192.168.31.251:5000/itv/hnbblive/2000000003000000014
-#EXTINF:-1 tvg-id="NewTV-精品大剧" tvg-name="NewTV精品大剧" tvg-logo="https://assets.livednow.com/logo/NewTV-精品大剧.png" group-title="电视剧", NewTV 精品大剧
+#EXTINF:-1 tvg-id="NewTV-精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://assets.livednow.com/logo/NewTV-精品大剧.png" group-title="电视剧", NewTV 精品大剧
 http://192.168.31.251:5000/itv/ystenlive/1000000004000013968
 #EXTINF:-1 tvg-id="iHOT-爱悬疑" tvg-name="iHOT1爱悬疑" tvg-logo="https://assets.livednow.com/logo/iHOT-爱悬疑.png" group-title="电视剧", iHOT 爱悬疑
 http://192.168.31.251:5000/itv/wasusyt/6000000006000050630
 #EXTINF:-1 tvg-id="iHOT-爱浪漫" tvg-name="iHOT爱浪漫" tvg-logo="https://assets.livednow.com/logo/iHOT-爱浪漫.png" group-title="电视剧", iHOT 爱浪漫
 http://192.168.31.251:5000/itv/wasusyt/6000000006000040630
-#EXTINF:-1 tvg-id="NewTV-超级电视剧" tvg-name="NewTV超级电视剧" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电视剧.png" group-title="电视剧", NewTV 超级电视剧
+#EXTINF:-1 tvg-id="NewTV-超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电视剧.png" group-title="电视剧", NewTV 超级电视剧
 http://192.168.31.251:5000/itv/ystenlive/1000000006000268003
 #EXTINF:-1 tvg-id="NewTV-东北热剧" tvg-name="NewTV东北热剧" tvg-logo="https://assets.livednow.com/logo/NewTV-东北热剧.png" group-title="电视剧", NewTV 东北热剧
 http://192.168.31.251:5000/itv/ystenlive/1000000005000266013
