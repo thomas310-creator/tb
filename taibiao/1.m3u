@@ -331,6 +331,12 @@ http://192.168.31.251:5000/litv/4gtv-4gtv006
 
 
 #生活旅游
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="生活旅游",电视指南
+http://192.168.10.251:4022/udp/239.45.1.73:5140
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="生活旅游",世界地理
+http://192.168.10.251:4022/udp/239.45.0.46:5140
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://epg.deny.vip/df/茶频道.png" group-title="生活旅游",茶频道HD
+http://192.168.10.251:4022/udp/239.45.3.18:5140
 #EXTINF:-1 tvg-id="NewTV-农业致富" tvg-name="农业致富" tvg-logo="https://assets.livednow.com/logo/NewTV-农业致富.png" group-title="生活旅游", NewTV 农业致富
 http://192.168.31.251:5000/itv/hnbblive/2000000003000000003
 #EXTINF:-1 tvg-id="iHOT-爱旅行" tvg-name="爱旅行" tvg-logo="https://assets.livednow.com/logo/iHOT-爱旅行.png" group-title="生活旅游", iHOT 爱旅行
@@ -365,49 +371,29 @@ http://192.168.31.251:5000/4gtv/274
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/-K-v1KslyJy8vuZciUHzJ-Owxnr-IptZ9GShGuMofmum2Q7_1j9Slo-5KX4kkp3DiTJ1s73TfC8=s160-c-k-c0x00ffffff-no-rj" group-title="生活旅游",東京都 新宿
 http://192.168.31.251:35455/youtube/DjdUEyjx8GM
-
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.deny.vip/df/中国天气.png" group-title="生活旅游",中国天气
+http://192.168.10.251:4022/udp/239.45.1.47:5140
+#EXTINF:-1 tvg-logo="" group-title="生活旅游",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 
 
 
 #数字
-#EXTINF:-1 group-title="数字",BesTV记录4k
-http://192.168.10.251:4022/udp/239.45.1.10:5140
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.deny.vip/df/乐游.png" group-title="数字",上海乐游HD
 http://192.168.10.251:4022/udp/239.45.3.135:5140
-#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.deny.vip/df/上海教育.png" group-title="数字",上海教育HD
-http://192.168.10.251:4022/udp/239.45.0.13:5140
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.deny.vip/df/法治天地.png" group-title="数字",法治天地HD
 http://192.168.10.251:4022/udp/239.45.1.46:5140
 #EXTINF:-1 tvg-name="外语频道" tvg-logo="https://epg.deny.vip/df/外语频道.png" group-title="数字",ICS外语频道HD
 http://192.168.10.251:4022/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.deny.vip/df/金色学堂.png" group-title="数字",金色学堂HD
 http://192.168.10.251:4022/udp/239.45.0.9:5140
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://epg.deny.vip/df/茶频道.png" group-title="数字",茶频道HD
-http://192.168.10.251:4022/udp/239.45.3.18:5140
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="数字,电视指南
-http://192.168.10.251:4022/udp/239.45.1.73:5140
-#EXTINF:-1 tvg-logo="" group-title="数字",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="CI-罪案偵查頻道" tvg-name="CI罪案侦查频道" tvg-logo="https://assets.livednow.com/logo/CI-罪案偵查頻道.png" group-title="数字", CI 罪案偵查頻道|台
-http://192.168.31.251:5000/4gtv/215
-#EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="HISTORY历史频道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="数字", History 歷史頻道|台
-http://192.168.31.251:5000/4gtv/214
-#EXTINF:-1 tvg-id="達文西頻道" tvg-name="达文西频道" tvg-logo="https://assets.livednow.com/logo/達文西頻道.png" group-title="数字"", 達文西頻道|台
-http://192.168.31.251:5000/litv/4gtv-4gtv018
-#EXTINF:-1 tvg-id="中國環球電視網-英語頻道" tvg-name="中国环球电视网记录频道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" group-title="数字", CGTN (中國環球電視網)英語頻道
-
-#EXTINF:-1 tvg-id="中國環球電視網-記錄頻道" tvg-name="中国环球电视网英语频道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" group-title="数字", CGTN (中國環球電視網)記錄頻道
 #EXTINF:-1 tvg-id="iHOT-爱青春" tvg-name="爱青春" tvg-logo="https://assets.livednow.com/logo/iHOT-爱青春.png" group-title="数字", iHOT 爱青春
 http://192.168.31.251:5000/itv/wasusyt/6000000006000100630
 
 
-#探索自然
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="探索自然",世界地理
-http://192.168.10.251:4022/udp/239.45.0.46:5140
-#EXTINF:-1 tvg-id="Global-Trekker-HK" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png" group-title="探索自然", Global Trekker|港
 
-#EXTINF:-1 tvg-id="Love-Nature-HD" tvg-name="LOVENATURE" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" group-title="探索自然", Love Nature HD|港
+
 
 
 #科教纪实
@@ -419,10 +405,16 @@ http://192.168.31.251:5000/itv/wasusyt/6000000002000032052
 http://192.168.31.251:5000/itv/wasusyt/6000000002000032344
 #EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://assets.livednow.com/logo/求索生活.png" group-title="科教纪实", 求索生活
 http://192.168.31.251:5000/itv/wasusyt/6000000002000003382
+#EXTINF:-1 tvg-id="CI-罪案偵查頻道" tvg-name="CI罪案侦查频道" tvg-logo="https://assets.livednow.com/logo/CI-罪案偵查頻道.png" group-title="科教纪实", CI 罪案偵查頻道|台
+http://192.168.31.251:5000/4gtv/215
+#EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="HISTORY历史频道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="科教纪实", History 歷史頻道|台
+http://192.168.31.251:5000/4gtv/214
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="达文西频道" tvg-logo="https://assets.livednow.com/logo/達文西頻道.png" group-title="科教纪实"", 達文西頻道|台
+http://192.168.31.251:5000/litv/4gtv-4gtv018
+#EXTINF:-1 group-title="科教纪实",BesTV记录4k
+http://192.168.10.251:4022/udp/239.45.1.10:5140
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://epg.deny.vip/df/纪实人文.png" group-title="科教纪实",上海纪实人文HD
 http://192.168.10.251:4022/udp/239.45.3.212:5140
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.deny.vip/cctv/CCTV-7.png" group-title="科教纪实",CCTV-7 国防军事
-http://192.168.10.251:4022/udp/239.45.3.56:5140
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.deny.vip/cctv/CCTV-9.png" group-title="科教纪实",CCTV-9 纪录
 http://192.168.10.251:4022/udp/239.45.3.4:5140
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.deny.vip/cctv/CCTV-10.png" group-title="科教纪实",CCTV-10 科教
@@ -441,8 +433,6 @@ http://192.168.31.251:5000/itv/wasusyt/6000000006000160630
 http://192.168.31.251:5000/itv/wasusyt/6000000006000060630
 #EXTINF:-1 tvg-id="NewTV-精品纪录" tvg-name="精品纪录" tvg-logo="https://assets.livednow.com/logo/NewTV-精品纪录.png" group-title="科教纪实", NewTV 精品纪录
 http://192.168.31.251:5000/itv/ystenlive/1000000004000013730
-#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.deny.vip/df/中国天气.png" group-title="科教纪实",中国天气
-http://192.168.10.251:4022/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷数位纪实台" tvg-logo="https://assets.livednow.com/logo/影迷數位紀實台.png" group-title="科教纪实", 影迷數位紀實台|台
 http://192.168.31.251:5000/4gtv/212
 
@@ -524,8 +514,10 @@ http://192.168.31.251:5000/litv/4gtv-4gtv009
 http://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="NewTV-军事评论" tvg-name="军事评论" tvg-logo="https://assets.livednow.com/logo/NewTV-军事评论.png" group-title="新闻", NewTV 军事评论
 http://192.168.31.251:5000/itv/hnbblive/2000000003000000022
-
-
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.deny.vip/cctv/CCTV-7.png" group-title="新闻",CCTV-7 国防军事
+http://192.168.10.251:4022/udp/239.45.3.56:5140
+#EXTINF:-1 tvg-id="中國環球電視網-英語頻道" tvg-name="中国环球电视网记录频道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" group-title="数字", CGTN (中國環球電視網)英語頻道
+#EXTINF:-1 tvg-id="中國環球電視網-記錄頻道" tvg-name="中国环球电视网英语频道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" group-title="数字", CGTN (中國環球電視網)記錄頻道
 
 
 
@@ -543,6 +535,8 @@ http://192.168.10.251:4022/udp/239.45.0.14:5140
 
 
 #动漫
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.deny.vip/df/上海教育.png" group-title="动漫",上海教育HD
+http://192.168.10.251:4022/udp/239.45.0.13:5140
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.deny.vip/df/动漫秀场.png" group-title="动漫",动漫秀场HD|沪
 http://192.168.10.251:4022/udp/239.45.3.134:5140
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.deny.vip/df/哈哈炫动.png" group-title="动漫",哈哈炫动HD|沪
