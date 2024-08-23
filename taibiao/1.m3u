@@ -610,22 +610,6 @@ http://192.168.31.251:5000/litv/4gtv-4gtv059
 #EXTINF:-1 tvg-id="MTV-Live-HD-音樂頻道" tvg-name="MTVLIVE音乐频道" tvg-logo="https://assets.livednow.com/logo/MTV-Live-HD-音樂頻道.png" group-title="音乐戏剧", MTV Live HD 音樂頻道|台
 http://192.168.31.251:5000/4gtv/213
 
-#轮播
-#EXTINF:-1 tvg-name="西游记" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nmSD_XY2fe042W2by-EeG_NsvwOEhInTZiyF8S2YbaetE=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",西游记
-http://192.168.31.251:35455/youtube/Wr7qwP8T0QA
-#EXTINF:-1 tvg-name="終極三國" tvg-logo="https://yt3.googleusercontent.com/uANUmsAUoklG4OqUNJOo1XRA7IQvoW2uZkZq_abOwTrwF6KrIPRBlBKJxF67RPxb1H0eyt6a=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",終極三國
-http://192.168.31.251:35455/youtube/Rqgc4mM5A3Y
-#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mvwtzvK5N_v3XamuXqYgEmnbSRPjL68izF-3dLGj-9mS8=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",飢餓遊戲
-http://192.168.31.251:35455/youtube/A98LJq71BZg
-#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/AC_kfH8uR7pXr9ntZPyyw2pROd3sCbLhqVQyFkF_n35hI2GyIrjqEFUmmTgJ4o9CDPixuTGL=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",猜歌王
-http://192.168.31.251:35455/youtube/-L9cBf3oAO0
-#EXTINF:-1 tvg-name="天才衝衝衝" tvg-logo="https://yt3.googleusercontent.com/wzuULAU5KAEoEgnObyG2tvmiW8VyEb6sLIkb1R5Kw_2jh11fTeFyTbjfQqAflnl9eQDhe-0E4g=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",天才衝衝衝
-http://192.168.31.251:35455/youtube/F77-i0pnTt0
-#EXTINF:-1 tvg-name="現代嘉慶君" tvg-logo="https://yt3.googleusercontent.com/wzuULAU5KAEoEgnObyG2tvmiW8VyEb6sLIkb1R5Kw_2jh11fTeFyTbjfQqAflnl9eQDhe-0E4g=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",現代嘉慶君
-http://192.168.31.251:35455/youtube/IsFtLpSuf_g
-#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/fdXarUWa35Y7mxPkAkN24M9FBaCD64wRtQNNtF54OWteSbjQf0zBzhIDVLKgH0rW9ZL0wQ8eUw=s160-c-k-c0x00ffffff-no-rj" group-title="轮播",萬秀豬王
-http://192.168.31.251:35455/youtube/ADDSmXoPDY8
-
 
 
 #央视
