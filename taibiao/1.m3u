@@ -1,7 +1,7 @@
   #EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml"
 
 #卫视
-#EXTINF:-1  tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视HD
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视HD
 http://192.168.10.251:4022/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.deny.vip/ws/zhejiang.png" group-title="卫视",浙江卫视HD
 http://192.168.10.251:4022/udp/239.45.3.178:5140
@@ -89,55 +89,55 @@ http://192.168.10.251:4022/udp/239.45.0.50:5140
 http://192.168.10.251:4022/udp/239.45.0.51:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="电视剧",怀旧剧场HD
 http://192.168.10.251:4022/udp/239.45.0.49:5140
-#EXTINF:-1 tvg-id="iHOT-爱谍战" tvg-name="爱谍战" tvg-logo="https://assets.livednow.com/logo/iHOT-爱谍战.png" group-title="电视剧", iHOT 爱谍战
+#EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://assets.livednow.com/logo/iHOT-爱谍战.png" group-title="电视剧", iHOT 爱谍战
 http://192.168.31.251:5000/itv/wasusyt/6000000006000070630
-#EXTINF:-1 tvg-id="NewTV-军旅剧场" tvg-name="军旅剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-军旅剧场.png" group-title="电视剧", NewTV 军旅剧场
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-军旅剧场.png" group-title="电视剧", NewTV 军旅剧场
 http://192.168.31.251:5000/itv/hnbblive/2000000003000000014
-#EXTINF:-1 tvg-id="NewTV-精品大剧" tvg-name="精品大剧" tvg-logo="https://assets.livednow.com/logo/NewTV-精品大剧.png" group-title="电视剧", NewTV 精品大剧
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://assets.livednow.com/logo/NewTV-精品大剧.png" group-title="电视剧", NewTV 精品大剧
 http://192.168.31.251:5000/itv/ystenlive/1000000004000013968
-#EXTINF:-1 tvg-id="iHOT-爱悬疑" tvg-name="爱悬疑" tvg-logo="https://assets.livednow.com/logo/iHOT-爱悬疑.png" group-title="电视剧", iHOT 爱悬疑
+#EXTINF:-1 tvg-name="爱悬疑" tvg-logo="https://assets.livednow.com/logo/iHOT-爱悬疑.png" group-title="电视剧", iHOT 爱悬疑
 http://192.168.31.251:5000/itv/wasusyt/6000000006000050630
-#EXTINF:-1 tvg-id="iHOT-爱浪漫" tvg-name="爱浪漫" tvg-logo="https://assets.livednow.com/logo/iHOT-爱浪漫.png" group-title="电视剧", iHOT 爱浪漫
+#EXTINF:-1 tvg-name="爱浪漫" tvg-logo="https://assets.livednow.com/logo/iHOT-爱浪漫.png" group-title="电视剧", iHOT 爱浪漫
 http://192.168.31.251:5000/itv/wasusyt/6000000006000040630
-#EXTINF:-1 tvg-id="NewTV-超级电视剧" tvg-name="超级电视剧" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电视剧.png" group-title="电视剧", NewTV 超级电视剧
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电视剧.png" group-title="电视剧", NewTV 超级电视剧
 http://192.168.31.251:5000/itv/ystenlive/1000000006000268003
-#EXTINF:-1 tvg-id="NewTV-东北热剧" tvg-name="北热剧" tvg-logo="https://assets.livednow.com/logo/NewTV-东北热剧.png" group-title="电视剧", NewTV 东北热剧
+#EXTINF:-1 tvg-name="北热剧" tvg-logo="https://assets.livednow.com/logo/NewTV-东北热剧.png" group-title="电视剧", NewTV 东北热剧
 http://192.168.31.251:5000/itv/ystenlive/1000000005000266013
-#EXTINF:-1 tvg-id="NewTV-古装剧场" tvg-name="古装剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-古装剧场.png" group-title="电视剧", NewTV 古装剧场
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-古装剧场.png" group-title="电视剧", NewTV 古装剧场
 http://192.168.31.251:5000/itv/hnbblive/2000000003000000024
-#EXTINF:-1 tvg-id="NewTV-爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://assets.livednow.com/logo/NewTV-爱情喜剧.png" group-title="电视剧", NewTV 爱情喜剧
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://assets.livednow.com/logo/NewTV-爱情喜剧.png" group-title="电视剧", NewTV 爱情喜剧
 http://192.168.31.251:5000/itv/hnbblive/2000000003000000010
-#EXTINF:-1 tvg-id="NewTV-家庭剧场" tvg-name="家庭剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-家庭剧场.png" group-title="电视剧", NewTV 家庭剧场
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-家庭剧场.png" group-title="电视剧", NewTV 家庭剧场
 http://192.168.31.251:5000/itv/ystenlive/1000000004000008284
-#EXTINF:-1 tvg-id="NewTV-魅力潇湘" tvg-name="魅力潇湘" tvg-logo="https://assets.livednow.com/logo/NewTV-魅力潇湘.png" group-title="电视剧", NewTV 魅力潇湘
+#EXTINF:-1 tvg-name="魅力潇湘" tvg-logo="https://assets.livednow.com/logo/NewTV-魅力潇湘.png" group-title="电视剧", NewTV 魅力潇湘
 http://192.168.31.251:5000/itv/ystenlive/1000000001000006197
-#EXTINF:-1 tvg-id="NewTV-中国功夫" tvg-name="中国功夫" tvg-logo="https://assets.livednow.com/logo/NewTV-中国功夫.png" group-title="电视剧", NewTV 中国功夫
+#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://assets.livednow.com/logo/NewTV-中国功夫.png" group-title="电视剧", NewTV 中国功夫
 http://192.168.31.251:5000/itv/hnbblive/2000000003000000009
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民视影剧台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="电视剧", 民視影劇台|台
+#EXTINF:-1 tvg-name="民视影剧台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="电视剧", 民視影劇台|台
 http://192.168.31.251:5000/litv/litv-ftv09
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中视经典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="电视剧", 中視經典台|台
+#EXTINF:-1 tvg-name="中视经典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="电视剧", 中視經典台|台
 http://192.168.31.251:5000/4gtv-4gtv080
-#EXTINF:-1 tvg-id="靖天映畫台" tvg-name="靖天映画" tvg-logo="https://assets.livednow.com/logo/靖天映畫台.png" group-title="电视剧", 靖天映畫台|台
+#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://assets.livednow.com/logo/靖天映畫台.png" group-title="电视剧", 靖天映畫台|台
 http://192.168.31.251:5000/litv/4gtv-4gtv055
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戏剧" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="电视剧", 靖天戲劇台|台
+#EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="电视剧", 靖天戲劇台|台
 http://192.168.31.251:5000/litv/4gtv-4gtv058
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龙华戏剧台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="电视剧", 龍華戲劇台|台
+#EXTINF:-1 tvg-name="龙华戏剧台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="电视剧", 龍華戲劇台|台
 http://192.168.31.251:5000/litv/litv-longturn18
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龙华偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="电视剧", 龍華偶像台|台
+#EXTINF:-1 tvg-name="龙华偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="电视剧", 龍華偶像台|台
 http://192.168.31.251:5000/litv/litv-longturn12
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龙华日韩台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="电视剧", 龍華日韓台|台
+#EXTINF:-1 tvg-name="龙华日韩台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="电视剧", 龍華日韓台|台
 http://192.168.31.251:5000/litv/litv-longturn11
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戏剧" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="电视剧", 靖洋戲劇台|台
+#EXTINF:-1 tvg-name="靖洋戏剧" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="电视剧", 靖洋戲劇台|台
 http://192.168.31.251:5000/litv/4gtv-4gtv045
-#EXTINF:-1 tvg-id="TVBS-台劇台" tvg-name="TVBS台剧台" tvg-logo="https://assets.livednow.com/logo/TVBS-台劇台.png" group-title="电视剧", TVBS 台劇台|台
+#EXTINF:-1 tvg-name="TVBS台剧台" tvg-logo="https://assets.livednow.com/logo/TVBS-台劇台.png" group-title="电视剧", TVBS 台劇台|台
 http://192.168.31.251:5000/4gtv/285
-#EXTINF:-1 tvg-id="公視戲劇台" tvg-name="公视戏剧" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="电视剧", 公視戲劇台|台
+#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="电视剧", 公視戲劇台|台
 http://192.168.31.251:5000/litv/4gtv-4gtv042
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影剧台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="电视剧", 采昌影劇台|台
+#EXTINF:-1 tvg-name="采昌影剧台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="电视剧", 采昌影劇台|台
 http://192.168.31.251:5000/litv/4gtv-4gtv049
-#EXTINF:-1 tvg-id="戲劇免費看-1台" tvg-name="戏剧免费看1台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-1台.png" group-title="电视剧", 戲劇免費看 1台|台
+#EXTINF:-1 tvg-name="戏剧免费看1台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-1台.png" group-title="电视剧", 戲劇免費看 1台|台
 http://192.168.31.251:5000/4gtv/270
-#EXTINF:-1 tvg-id="戲劇免費看-2台" tvg-name="戏剧免费看2台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-2台.png" group-title="电视剧", 戲劇免費看 2台|台
+#EXTINF:-1 tvg-name="戏剧免费看2台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-2台.png" group-title="电视剧", 戲劇免費看 2台|台
 http://192.168.31.251:5000/4gtv/244
 
 
