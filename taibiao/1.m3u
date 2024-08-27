@@ -551,7 +551,7 @@ http://192.168.10.251:4022/udp/239.45.0.8:5140
 http://192.168.10.251:4022/udp/239.45.3.125:5140
 #EXTINF:-1 tvg-name="" tvg-logo="https://epg.deny.vip/szpd/CETV-ZQJY.png" group-title="动漫",CETV早期教育
 http://192.168.10.251:4022/udp/239.45.0.54:5140
-#EXTINF:-1 tvg-id="ZJ06" tvg-name="浙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang6.png" group-title="动漫",浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang6.png" group-title="动漫",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%91%E5%84%BF.png" group-title="动漫",内蒙古少儿
 http://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
@@ -657,7 +657,7 @@ http://192.168.10.251:4022/udp/239.45.0.49:5140
 http://192.168.10.251:4022/udp/239.45.0.46:5140
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="央视",文化精品
 http://192.168.10.251:4022/udp/239.45.1.17:5140
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="央视",央视台球
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="央视",央视台球
 http://192.168.31.251:5000/ysp/cctv-yangshitaiqiu
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="央视",央视高尔夫网球
 http://192.168.10.251:4022/udp/239.45.0.48:5140
@@ -673,17 +673,17 @@ http://192.168.10.251:4022/udp/239.45.0.47:5140
 http://192.168.10.251:4022/udp/239.45.1.75:5140
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="央视",电视指南
 http://192.168.10.251:4022/udp/239.45.1.73:5140
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CETV早期教育
+#EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://assets.livednow.com/logo/CETV-早期教育.png" group-title="央视",CETV早期教育
 http://192.168.10.251:4022/udp/239.45.0.54:5140
 #EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://epg.deny.vip/cctv/CETV-1.png" group-title="央视",CETV-1 综合教育HD
 http://192.168.10.251:4022/udp/239.45.1.125:5140
 #EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://epg.deny.vip/cctv/CETV-2.png" group-title="央视",CETV-2 空中课堂
 http://192.168.10.251:4022/udp/239.45.1.52:5140
-#EXTINF:-1 tvg-id="A23" tvg-name="CETV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV3.png" group-title="央视",CETV-3 教育服务
+#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV3.png" group-title="央视",CETV-3 教育服务
 
 #EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://epg.deny.vip/cctv/CETV-4.png" group-title="央视",CETV-4 职业教育HD
 http://192.168.10.251:4022/udp/239.45.1.243:5140
-#EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="g" group-title="央视",CCTV-4K超高清
+#EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://assets.livednow.com/logo/CCTV-4K.png" group-title="央视",CCTV-4K超高清
 http://192.168.10.251:4022/udp/239.45.0.55:5140
 #EXTINF:-1 tvg-id="67" tvg-name="CGTN" tvg-logo="https://epg.deny.vip/cctv/CGTN.png" group-title="央视",CGTN
 http://192.168.10.251:4022/udp/239.45.1.194:5140
