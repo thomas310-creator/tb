@@ -143,6 +143,20 @@ http://192.168.31.251:5000/4gtv/244
 http://192.168.31.251:5000/hami/OTT_LIVE_0000002072
 
 
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/85/fef4985d0e7ca734eeaa3ebb380c7b_180_135.jpg?1606889447" group-title=""电视剧", 埋堆堆港剧
+http://192.168.31.251:35455/huya/23735126
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/1d/28f60c094ecdd69e369ec66ccefbde_180_135.jpg?1612247274" group-title=""电视剧", 埋堆堆动作剧
+http://192.168.31.251:35455/huya/23865152
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/d8/b11b405e9f2bd9d403a62334ab4f64_180_135.jpg?1606985476" group-title=""电视剧", 埋堆堆官方
+http://192.168.31.251:35455/huya/23740156
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/6b/1dda57390cba859d515a31fc3fe635_180_135.jpg?1712750290" group-title=""电视剧", 埋堆堆凌晨影视
+http://192.168.31.251:35455/huya/29868693
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459" group-title=""电视剧", 堆堆港剧日常
+http://192.168.31.251:35455/huya/23903123
+
+
+
+
 
 #电影
 #EXTINF:-1 tvg-logo="https://github.com/thomas310-creator/tb/blob/13351eb3257df202d36915448376c63015420433/taibiao/shanghai/bestv.png" group-title="电影",BesTV百视通资讯
@@ -594,6 +608,106 @@ http://192.168.31.251:5000/4gtv/188
 #EXTINF:-1 tvg-name="ELTV生活英语台" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="动漫", ELTA生活英語|台
 http://192.168.31.251:5000/litv/litv-longturn20
 
+
+#解说
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/8b/876e289802843fd286a0aa439102e3_180_135.jpg?1624417912" group-title="解说", 咆哮解说黑鑫
+http://192.168.31.251:35455/huya/25018873
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1055/63/c03839d1f6a423042bcda65ae5aa93_180_135.jpg?1663061093" group-title="解说", 小田儿解说
+http://192.168.31.251:35455/huya/27833739
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/54/3a6964aa9373164b2ee5b237d72e84_180_135.jpg?1626774425" group-title="解说", 小邓子解说师
+http://192.168.31.251:35455/huya/25220145
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/31/e19a689561a21e8e42c29fdaf15d7a_180_135.jpg?1711007775" group-title="解说", 夜雨解说
+http://192.168.31.251:35455/huya/29809834
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1020/b2/e03dcd8f4bf71f25a619a2914f9996_180_135.jpg?1712909556" group-title="解说", 鱼眼影视解说
+http://192.168.31.251:35455/huya/29868569
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/be/d097feff8d62e0e0ddf7ed98be6d99_180_135.jpg?1713854926" group-title="解说", 格斗大海解说
+http://192.168.31.251:35455/huya/29882506
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/f0/8209528d53478cc59cf4a876d59c82_180_135.jpg?1712808329" group-title="解说", 公子解说哥
+http://192.168.31.251:35455/huya/29861167
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/3e/491e503fec56d7eb1eda3cd185d307_180_135.jpg?1712911939" group-title="解说", ck影视解说
+http://192.168.31.251:35455/huya/29870299
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1068/4b/9a180a186e7e7531c7996c078d807c_180_135.jpg?1684575693" group-title="解说", 无言卒解说
+http://192.168.31.251:35455/huya/23478623
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1017/7a/696816a48750a1b1febc265c1c6515_180_135.jpg?1712738032" group-title="解说", 如来解说
+http://192.168.31.251:35455/huya/29856678
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/a6/ce57254a5973608596194aff9dcf15_180_135.jpg?1717728145" group-title="解说", 球哥解说
+http://192.168.31.251:35455/huya/29465875
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/d0/fda0a975304c931c5cfe5ad53c71c0_180_135.jpg?1631599717" group-title="解说", DD-解说
+http://192.168.31.251:35455/huya/25650806
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/14/20f8fa2d853ec62b2af094dcc4e50e_180_135.jpg?1623143177" group-title="解说", 船长电影解说
+http://192.168.31.251:35455/huya/24983280
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/8a/e8d19f24c7cf0db9f73fcff8b15735_180_135.jpg?1617965896" group-title="解说", 月色说电影
+http://192.168.31.251:35455/huya/24534326
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/67/77e4917d2b9e3668ad06abb2a38ff7_180_135.jpg?1666757969" group-title="解说", 欣姐说剧
+http://192.168.31.251:35455/huya/28021302
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/27/1778d887be95c7e62ec976dff1438b_180_135.jpg?1574848625" group-title="解说", 刘老师说电影
+http://192.168.31.251:35455/huya/20289754
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/23/62cae58a3660d87858cf900f4a0742_180_135.jpg?1701058240" group-title="解说", 虎哥说电影
+http://192.168.31.251:35455/huya/29516309
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/34/67366d739b7fd0b84cafa4035119fd_180_135.jpg?1579078663" group-title="解说", 韩小囧说电影
+http://192.168.31.251:35455/huya/20695907
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1062/7e/5c356df2e666a5c4f1fcef66ff12bf_180_135.jpg?1715511769" group-title="解说", 酱酱说
+http://192.168.31.251:35455/huya/29874185
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/e2/7f68bb96252c73168d0a89d7578caf_180_135.jpg?1712892064" group-title="解说", 山石说电影
+http://192.168.31.251:35455/huya/29858128
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/38/9f104be41e562e861c0d0ca318b904_180_135.jpg?1622718217" group-title="解说", 辣条说电影
+http://192.168.31.251:35455/huya/24803445
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1056/e9/f1070aaaf5bca9ddf9224aa7b33130_180_135.jpg?1695521232" group-title="解说", 小晖说电影
+http://192.168.31.251:35455/huya/29340756
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/df/cdcbef8a8dc0df97c327411ec50f7a_180_135.jpg?1623826096" group-title="解说", 二哥说电影
+http://192.168.31.251:35455/huya/24969013
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/8d/559c1564293afed53fbbf8c2477cdd_180_135.jpg?1695289764" group-title="解说", 鹏友说电影
+http://192.168.31.251:35455/huya/29340612
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/ff/095eccde0dde8aa65cf433d55c0d0c_180_135.jpg?1627097110" group-title="解说", 歪嘴说电影
+http://192.168.31.251:35455/huya/25261589
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1060/e7/ac0c0c3805806148cb9a84475c5484_180_135.jpg?1512383459" group-title="解说", 续哥说电影
+http://192.168.31.251:35455/huya/24396472
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/2a/ba5028fc9a2c95bf9cbc8818e7c660_180_135.jpg?1560229697" group-title="解说", 空空说电影
+http://192.168.31.251:35455/huya/15923500
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1079/97/a260fe85771eaf9d2aa35122469271_180_135.jpg?1539243402" group-title="解说", 小冷说电影
+http://192.168.31.251:35455/huya/16739452
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/cf/e4b1189af17e03a89653f4bc35d79b_180_135.jpg?1619340109" group-title="解说", 白丁说电影
+http://192.168.31.251:35455/huya/24396428
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/c4/df0c79e95fb3d745afb0e5c035c111_180_135.jpg?1621826865" group-title="解说", 仕说电影
+http://192.168.31.251:35455/huya/24791905
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/f3/ef7188948b9b353e6d0e68b6e96d1b_180_135.jpg?1655179518" group-title="解说", 火华君说电影
+http://192.168.31.251:35455/huya/27312232
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/7b/0f5eda20230c0b86a8f10d4fc59b78_180_135.jpg" group-title="解说", 情思说剧
+http://192.168.31.251:35455/huya/29870731
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1021/c3/38a41999a99aecd5117ef69df3a514_180_135.jpg?1712751076" group-title="解说", 云上说剧
+http://192.168.31.251:35455/huya/29869460
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1001/82/f7ced6c4efac26d5fdc95104fcfd4c_180_135.jpg?1629113244" group-title="解说", 小歌说电影
+http://192.168.31.251:35455/huya/25443495
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/91/e08f4b8901b8c3edb9f87b75e5a67a_180_135.jpg?1573434330" group-title="解说", 虎妞说电影
+http://192.168.31.251:35455/huya/20343144
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/62/0faa58c0c46d34f72dcc2ca1661258_180_135.jpg?1623318737" group-title="解说", 憨憨哥说电影
+http://192.168.31.251:35455/huya/24917827
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/fd/acdd090109ef31ce68db5b31dee517_180_135.jpg?1698828479" group-title="解说", 阁喽喵说电影
+http://192.168.31.251:35455/huya/29464466
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/9f/6614ad37065db2f7f5f5e629c3e4b6_180_135.jpg?1567319177" group-title="解说", 正经说电影
+http://192.168.31.251:35455/huya/19583776
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/1e/b8620620e2b1d679439ce5d0b49450_180_135.jpg?1599122729" group-title="解说", 老吴说电影
+http://192.168.31.251:35455/huya/16740471
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/01/2a005482db79198ecd1bdfcebb4c5a_180_135.jpg?1634719292" group-title="解说", 兔八哥说电影
+http://192.168.31.251:35455/huya/25869759
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/ea/d0adb67d9fda2c03f7b8967c9c6b9f_180_135.jpg?1715674387" group-title="解说", 老白说剧
+http://192.168.31.251:35455/huya/29890211
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/3e/491e503fec56d7eb1eda3cd185d307_180_135.jpg?1712911939" group-title="解说", ck影视解说
+http://192.168.31.251:35455/huya/29870299
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/c5/127e08c447cfb8c3d5445c9e4b8d27_180_135.jpg?1585035826" group-title="解说", 松轩说电影
+http://192.168.31.251:35455/huya/21649307
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/0d/6c7e82088286183897130e6a278f9b_180_135.jpg?1567345832" group-title="解说", 左左说电影
+http://192.168.31.251:35455/huya/25027708
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1093/4d/e7f7d4a625e21cef29615d478e9ba9_180_135.jpg?0" group-title="解说", 小松说剧
+http://192.168.31.251:35455/huya/11593369
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/cf/74fb1df0c83a8af4758e1d1b71657c_180_135.jpg?1712973685" group-title="解说", 榴莲说电影
+http://192.168.31.251:35455/huya/29870315
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/7c/701403aadd4f88d4329cd066bac508_180_135.jpg?1712749576" group-title="解说", 伦帝电影说
+http://192.168.31.251:35455/huya/29868733
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1070/01/a799e917df9aeffcf179c953c28a13_180_135.jpg?1712745452" group-title="解说", 义东说剧
+http://192.168.31.251:35455/huya/29868575
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/87/b1f876bfb15479955f353891c0f177_180_135.jpg?1624526184" group-title="解说", 佑佑说电影
+http://192.168.31.251:35455/huya/25027809
 
 
 #音乐戏剧
