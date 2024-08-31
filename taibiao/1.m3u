@@ -529,20 +529,18 @@ http://192.168.31.251:5000/itv/hnbblive/2000000003000000022
 #EXTINF:-1 tvg-name="CCTV-7" tvg-logo="https://epg.deny.vip/cctv/CCTV-7.png" group-title="新闻",CCTV-7 国防军事
 http://192.168.10.251:4022/udp/239.45.3.56:5140
 #EXTINF:-1 tvg-name="中国环球电视网记录频道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" group-title="数字", CGTN (中國環球電視網)英語頻道
+
 #EXTINF:-1 tvg-name="中国环球电视网英语频道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" group-title="数字", CGTN (中國環球電視網)記錄頻道
 
-
-
-#财经
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.deny.vip/df/第一财经.png" group-title="财经",第一财经HD
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.deny.vip/df/第一财经.png" group-title="新闻",第一财经HD
 http://192.168.10.251:4022/udp/239.45.3.211:5140
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.deny.vip/df/东方财经.png" group-title="财经",东方财经HD
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.deny.vip/df/东方财经.png" group-title="新闻",东方财经HD
 http://192.168.10.251:4022/udp/239.45.0.17:5140
-#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://epg.deny.vip/cctv/CCTV-2.png" group-title="财经",CCTV-2 财经
+#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://epg.deny.vip/cctv/CCTV-2.png" group-title="新闻",CCTV-2 财经
 http://192.168.10.251:4022/udp/239.45.3.208:5140
-#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://epg.deny.vip/df/财富天下.png" group-title="财经",财富天下
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://epg.deny.vip/df/财富天下.png" group-title="新闻",财富天下
 http://192.168.10.251:4022/udp/239.45.0.7:5140
-#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="财经",家庭理财
+#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="新闻",家庭理财
 http://192.168.10.251:4022/udp/239.45.0.14:5140
 
 
