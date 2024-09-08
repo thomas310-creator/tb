@@ -90,29 +90,29 @@ http://192.168.10.251:4022/udp/239.45.0.51:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="电视剧",怀旧剧场HD
 http://192.168.10.251:4022/udp/239.45.0.49:5140
 #EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://assets.livednow.com/logo/iHOT-爱谍战.png" group-title="电视剧", iHOT 爱谍战
-http://192.168.31.251:5000/itv/wasusyt/6000000006000070630
+
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-军旅剧场.png" group-title="电视剧", NewTV 军旅剧场
-http://192.168.31.251:5000/itv/hnbblive/2000000003000000014
+
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://assets.livednow.com/logo/NewTV-精品大剧.png" group-title="电视剧", NewTV 精品大剧
-http://192.168.31.251:5000/itv/ystenlive/1000000004000013968
+
 #EXTINF:-1 tvg-name="爱悬疑" tvg-logo="https://assets.livednow.com/logo/iHOT-爱悬疑.png" group-title="电视剧", iHOT 爱悬疑
-http://192.168.31.251:5000/itv/wasusyt/6000000006000050630
+
 #EXTINF:-1 tvg-name="爱浪漫" tvg-logo="https://assets.livednow.com/logo/iHOT-爱浪漫.png" group-title="电视剧", iHOT 爱浪漫
-http://192.168.31.251:5000/itv/wasusyt/6000000006000040630
+
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电视剧.png" group-title="电视剧", NewTV 超级电视剧
-http://192.168.31.251:5000/itv/ystenlive/1000000006000268003
+
 #EXTINF:-1 tvg-name="北热剧" tvg-logo="https://assets.livednow.com/logo/NewTV-东北热剧.png" group-title="电视剧", NewTV 东北热剧
-http://192.168.31.251:5000/itv/ystenlive/1000000005000266013
+
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-古装剧场.png" group-title="电视剧", NewTV 古装剧场
-http://192.168.31.251:5000/itv/hnbblive/2000000003000000024
+
 #EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://assets.livednow.com/logo/NewTV-爱情喜剧.png" group-title="电视剧", NewTV 爱情喜剧
-http://192.168.31.251:5000/itv/hnbblive/2000000003000000010
+
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-家庭剧场.png" group-title="电视剧", NewTV 家庭剧场
-http://192.168.31.251:5000/itv/ystenlive/1000000004000008284
+
 #EXTINF:-1 tvg-name="魅力潇湘" tvg-logo="https://assets.livednow.com/logo/NewTV-魅力潇湘.png" group-title="电视剧", NewTV 魅力潇湘
-http://192.168.31.251:5000/itv/ystenlive/1000000001000006197
+
 #EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://assets.livednow.com/logo/NewTV-中国功夫.png" group-title="电视剧", NewTV 中国功夫
-http://192.168.31.251:5000/itv/hnbblive/2000000003000000009
+
 #EXTINF:-1 tvg-name="民视影剧台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="电视剧", 民視影劇台|台
 http://192.168.31.251:5000/litv/litv-ftv09
 #EXTINF:-1 tvg-name="中视经典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="电视剧", 中視經典台|台
@@ -172,27 +172,27 @@ http://192.168.10.251:4022/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="电影",CCTV-6 电影频道
 http://192.168.10.251:4022/udp/239.45.1.70:5140
 #EXTINF:-1 tvg-name="华数 4K" tvg-logo="https://assets.livednow.com/logo/华数-4K.png" group-title="电影", 华数 4K
-http://192.168.31.251:5000/itv/wasusyt/6000000003000004748
+
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://assets.livednow.com/logo/NewTV-黑莓电影.png" group-title="电影", NewTV 黑莓电影
-http://192.168.31.251:5000/itv/ystenlive/1000000004000019624
+
 #EXTINF:-1 tvg-name="爱院线" tvg-logo="https://assets.livednow.com/logo/iHOT-爱院线.png" group-title="电影", iHOT 爱院线
-http://192.168.31.251:5000/itv/wasusyt/6000000006000030630
+
 #EXTINF:-1 tvg-name="爱科幻" tvg-logo="https://assets.livednow.com/logo/iHOT-爱科幻.png" group-title="电影", iHOT 爱科幻
-http://192.168.31.251:5000/itv/wasusyt/6000000006000020630
+
 #EXTINF:-1 tvg-name="爱喜剧" tvg-logo="https://assets.livednow.com/logo/iHOT-爱喜剧.png" group-title="电影", iHOT 爱喜剧
-http://192.168.31.251:5000/itv/wasusyt/6000000006000010630
+
 #EXTINF:-1 tvg-name="爱奇谈" tvg-logo="https://assets.livednow.com/logo/iHOT-爱奇谈.png" group-title="电影", iHOT 爱奇谈
-http://192.168.31.251:5000/itv/wasusyt/6000000006000270630
+
 #EXTINF:-1 tvg-name="爱怀旧" tvg-logo="https://assets.livednow.com/logo/iHOT-爱怀旧.png" group-title="电影", iHOT 爱怀旧
-http://192.168.31.251:5000/itv/wasusyt/6000000006000260630
+
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电影.png" group-title="电影", NewTV 超级电影
-http://192.168.31.251:5000/itv/ystenlive/1000000003000012426
+
 #EXTINF:-1 tvg-name="动作电影" tvg-logo="https://assets.livednow.com/logo/NewTV-动作电影.png" group-title="电影", NewTV 动作电影
-http://192.168.31.251:5000/itv/ystenlive/1000000004000018653
+
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://assets.livednow.com/logo/NewTV-惊悚悬疑.png" group-title="电影", NewTV 惊悚悬疑
-http://192.168.31.251:5000/itv/ystenlive/1000000004000024282
+
 #EXTINF:-1 tvg-name="精品综合" tvg-logo="https://assets.livednow.com/logo/NewTV-精品综合.png" group-title="电影", NewTV 精品综合
-http://192.168.31.251:5000/itv/ystenlive/1000000004000019008
+
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 国外恐怖惊悚片|斗鱼
 http://epg.112114.xyz/douyu/96577
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 惊悚 灾难片|斗鱼
@@ -293,19 +293,19 @@ http://192.168.31.251:5000/litv/4gtv-4gtv066
 
 #综艺
 #EXTINF:-1 tvg-id="NewTV-金牌综艺" tvg-name="金牌综艺" tvg-logo="https://assets.livednow.com/logo/NewTV-金牌综艺.png" group-title=综艺", NewTV 金牌综艺
-http://192.168.31.251:5000/itv/ystenlive/1000000004000026167
+
 #EXTINF:-1 tvg-id="NewTV-明星大片" tvg-name="明星大片" tvg-logo="https://assets.livednow.com/logo/NewTV-明星大片.png" group-title="综艺", NewTV 明星大片
-http://192.168.31.251:5000/itv/hnbblive/2000000003000000016
+
 #EXTINF:-1 tvg-id="NewTV-怡伴健康" tvg-name="怡伴健康" tvg-logo="https://assets.livednow.com/logo/NewTV-怡伴健康.png" group-title="综艺", NewTV 怡伴健康
-http://192.168.31.251:5000/itv/ystenlive/1000000005000266011
+
 #EXTINF:-1 tvg-id="NewTV-欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-欢乐剧场.png" group-title="综艺", NewTV 欢乐剧场
-http://192.168.31.251:5000/itv/ystenlive/1000000005000266012
+
 #EXTINF:-1 tvg-id="NewTV-超级综艺" tvg-name="超级综艺" tvg-logo="https://assets.livednow.com/logo/NewTV-超级综艺.png" group-title="综艺", NewTV 超级综艺
-http://192.168.31.251:5000/itv/ystenlive/1000000006000268002
+
 #EXTINF:-1 tvg-id="NewTV-潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://assets.livednow.com/logo/NewTV-潮妈辣婆.png" group-title="综艺", NewTV 潮妈辣婆
-http://192.168.31.251:5000/itv/hnbblive/2000000003000000018
+
 #EXTINF:-1 tvg-id="NewTV-精品萌宠" tvg-name="精品萌宠" tvg-logo="https://assets.livednow.com/logo/NewTV-精品萌宠.png" group-title="综艺", NewTV 精品萌宠
-http://192.168.31.251:5000/itv/ystenlive/1000000006000032328
+
 #EXTINF:-1 group-title="综艺",名医话养生
 http://192.168.10.251:4022/udp/239.45.1.28:5140
 #EXTINF:-1 tvg-name="都市频道" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dspd.png" group-title="综艺",都市频道HD
@@ -357,9 +357,9 @@ http://192.168.10.251:4022/udp/239.45.0.46:5140
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://epg.deny.vip/df/茶频道.png" group-title="生活旅游",茶频道HD
 http://192.168.10.251:4022/udp/239.45.3.18:5140
 #EXTINF:-1 tvg-id="NewTV-农业致富" tvg-name="农业致富" tvg-logo="https://assets.livednow.com/logo/NewTV-农业致富.png" group-title="生活旅游", NewTV 农业致富
-http://192.168.31.251:5000/itv/hnbblive/2000000003000000003
+
 #EXTINF:-1 tvg-id="iHOT-爱旅行" tvg-name="爱旅行" tvg-logo="https://assets.livednow.com/logo/iHOT-爱旅行.png" group-title="生活旅游", iHOT 爱旅行
-http://192.168.31.251:5000/itv/wasusyt/6000000006000250630
+
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民视旅游台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="生活旅游", 民視旅遊台
 http://192.168.31.251:5000/litv/litv-ftv07
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亚洲旅游台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="生活旅游", 亞洲旅遊台|台
@@ -404,13 +404,13 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 #科教纪实
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://assets.livednow.com/logo/求索动物.png" group-title="科教纪实", 求索动物
-http://192.168.31.251:5000/itv/wasusyt/6000000002000010046
+
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://assets.livednow.com/logo/求索纪录.png" group-title="科教纪实", 求索纪录
-http://192.168.31.251:5000/itv/wasusyt/6000000002000032052
+
 #EXTINF:-1 tvg-name="求索科学" tvg-logo="https://assets.livednow.com/logo/求索科学.png" group-title="科教纪实", 求索科学
-http://192.168.31.251:5000/itv/wasusyt/6000000002000032344
+
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://assets.livednow.com/logo/求索生活.png" group-title="科教纪实", 求索生活
-http://192.168.31.251:5000/itv/wasusyt/6000000002000003382
+
 #EXTINF:-1 tvg-name="CI罪案侦查频道" tvg-logo="https://assets.livednow.com/logo/CI-罪案偵查頻道.png" group-title="科教纪实", CI 罪案偵查頻道|台
 http://192.168.31.251:5000/4gtv/215
 #EXTINF:-1 tvg-name="HISTORY历史频道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="科教纪实", History 歷史頻道|台
@@ -454,7 +454,7 @@ http://192.168.31.251:5000/4gtv/212
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.deny.vip/df/五星体育.png" group-title="体育",五星体育HD
 http://192.168.10.251:4022/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://assets.livednow.com/logo/SiTV-魅力足球.png" group-title="体育", 魅力足球HD
-http://192.168.31.251:5000/itv/bestzb/5000000011000031207
+
 #EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://epg.deny.vip/cctv/CCTV-5.png" group-title="体育",CCTV-5 体育
 http://192.168.10.251:4022/udp/239.45.1.69:5140
 #EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",cctv 5+ 体育赛事
@@ -472,13 +472,13 @@ http://192.168.10.251:4022/udp/239.45.3.43:5140
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://epg.deny.vip/df/快乐垂钓.png" group-title="体育",快乐垂钓HD
 http://192.168.10.251:4022/udp/239.45.3.12:5140
 #EXTINF:-1 tvg-id="iHOT-爱体育" tvg-name="爱体育" tvg-logo="https://assets.livednow.com/logo/iHOT-爱体育.png" group-title="体育", iHOT 爱体育
-http://192.168.31.251:5000/itv/wasusyt/6000000006000290630
+
 #EXTINF:-1 tvg-id="iHOT-爱赛车" tvg-name="爱赛车" tvg-logo="https://assets.livednow.com/logo/iHOT-爱赛车.png" group-title="体育", iHOT 爱赛车
-http://192.168.31.251:5000/itv/wasusyt/6000000006000240630
+
 #EXTINF:-1 tvg-id="NewTV-精品体育" tvg-name="精品体育" tvg-logo="https://assets.livednow.com/logo/NewTV-精品体育.png" group-title="体育", NewTV 精品体育
-http://192.168.31.251:5000/itv/ystenlive/1000000004000014634
+
 #EXTINF:-1 tvg-id="NewTV-武博世界" tvg-name="武博世界" tvg-logo="https://assets.livednow.com/logo/NewTV-武博世界.png" group-title="体育", NewTV 武博世界
-http://192.168.31.251:5000/itv/hnbblive/2000000003000000007
+
 #EXTINF:-1 tvg-name="博斯运动一台" tvg-logo="https://assets.livednow.com/logo/博斯運動一台.png" group-title="体育", 博斯運動一台|台
 http://192.168.31.251:5000/litv/litv-longturn07
 #EXTINF:-1 tvg-name="博斯运动二台" tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="体育", 博斯運動二台|台
@@ -568,13 +568,13 @@ http://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="动漫",嘉佳卡通
 http://192.168.10.251:4022/udp/239.45.1.48:5140
 #EXTINF:-1 tvg-id="iHOT-爱幼教" tvg-name="爱幼教" tvg-logo="https://assets.livednow.com/logo/iHOT-爱幼教.png" group-title="动漫", iHOT 爱幼教
-http://192.168.31.251:5000/itv/wasusyt/6000000006000180630
+
 #EXTINF:-1 tvg-id="iHOT-爱玩具" tvg-name="爱玩具" tvg-logo="https://assets.livednow.com/logo/iHOT-爱玩具.png" group-title="动漫", iHOT 爱玩具
-http://192.168.31.251:5000/itv/wasusyt/6000000006000220630
+
 #EXTINF:-1 tvg-id="iHOT-爱动漫" tvg-name="爱动漫" tvg-logo="https://assets.livednow.com/logo/iHOT-爱动漫.png" group-title="动漫", iHOT 爱动漫
-http://192.168.31.251:5000/itv/wasusyt/6000000006000280630
+
 #EXTINF:-1 tvg-id="NewTV-黑莓动画" tvg-name="黑莓动画" tvg-logo="https://assets.livednow.com/logo/NewTV-黑莓动画.png" group-title="动漫", NewTV 黑莓动画
-http://192.168.31.251:5000/itv/ystenlive/1000000004000021734
+
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.deny.vip/df/游戏风云.png" group-title="动漫",游戏风云HD|沪
 http://192.168.10.251:4022/udp/239.45.3.131:5140
 #EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://assets.livednow.com/logo/靖天卡通台.png" group-title="动漫", 靖天卡通台|台
@@ -607,105 +607,6 @@ http://192.168.31.251:5000/4gtv/188
 http://192.168.31.251:5000/litv/litv-longturn20
 
 
-#解说
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/8b/876e289802843fd286a0aa439102e3_180_135.jpg?1624417912" group-title="解说", 咆哮解说黑鑫
-http://192.168.31.251:35455/huya/25018873
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1055/63/c03839d1f6a423042bcda65ae5aa93_180_135.jpg?1663061093" group-title="解说", 小田儿解说
-http://192.168.31.251:35455/huya/27833739
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/54/3a6964aa9373164b2ee5b237d72e84_180_135.jpg?1626774425" group-title="解说", 小邓子解说师
-http://192.168.31.251:35455/huya/25220145
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/31/e19a689561a21e8e42c29fdaf15d7a_180_135.jpg?1711007775" group-title="解说", 夜雨解说
-http://192.168.31.251:35455/huya/29809834
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1020/b2/e03dcd8f4bf71f25a619a2914f9996_180_135.jpg?1712909556" group-title="解说", 鱼眼影视解说
-http://192.168.31.251:35455/huya/29868569
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/be/d097feff8d62e0e0ddf7ed98be6d99_180_135.jpg?1713854926" group-title="解说", 格斗大海解说
-http://192.168.31.251:35455/huya/29882506
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/f0/8209528d53478cc59cf4a876d59c82_180_135.jpg?1712808329" group-title="解说", 公子解说哥
-http://192.168.31.251:35455/huya/29861167
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/3e/491e503fec56d7eb1eda3cd185d307_180_135.jpg?1712911939" group-title="解说", ck影视解说
-http://192.168.31.251:35455/huya/29870299
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1068/4b/9a180a186e7e7531c7996c078d807c_180_135.jpg?1684575693" group-title="解说", 无言卒解说
-http://192.168.31.251:35455/huya/23478623
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1017/7a/696816a48750a1b1febc265c1c6515_180_135.jpg?1712738032" group-title="解说", 如来解说
-http://192.168.31.251:35455/huya/29856678
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/a6/ce57254a5973608596194aff9dcf15_180_135.jpg?1717728145" group-title="解说", 球哥解说
-http://192.168.31.251:35455/huya/29465875
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/d0/fda0a975304c931c5cfe5ad53c71c0_180_135.jpg?1631599717" group-title="解说", DD-解说
-http://192.168.31.251:35455/huya/25650806
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/14/20f8fa2d853ec62b2af094dcc4e50e_180_135.jpg?1623143177" group-title="解说", 船长电影解说
-http://192.168.31.251:35455/huya/24983280
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/8a/e8d19f24c7cf0db9f73fcff8b15735_180_135.jpg?1617965896" group-title="解说", 月色说电影
-http://192.168.31.251:35455/huya/24534326
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/67/77e4917d2b9e3668ad06abb2a38ff7_180_135.jpg?1666757969" group-title="解说", 欣姐说剧
-http://192.168.31.251:35455/huya/28021302
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/27/1778d887be95c7e62ec976dff1438b_180_135.jpg?1574848625" group-title="解说", 刘老师说电影
-http://192.168.31.251:35455/huya/20289754
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/23/62cae58a3660d87858cf900f4a0742_180_135.jpg?1701058240" group-title="解说", 虎哥说电影
-http://192.168.31.251:35455/huya/29516309
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/34/67366d739b7fd0b84cafa4035119fd_180_135.jpg?1579078663" group-title="解说", 韩小囧说电影
-http://192.168.31.251:35455/huya/20695907
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1062/7e/5c356df2e666a5c4f1fcef66ff12bf_180_135.jpg?1715511769" group-title="解说", 酱酱说
-http://192.168.31.251:35455/huya/29874185
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/e2/7f68bb96252c73168d0a89d7578caf_180_135.jpg?1712892064" group-title="解说", 山石说电影
-http://192.168.31.251:35455/huya/29858128
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/38/9f104be41e562e861c0d0ca318b904_180_135.jpg?1622718217" group-title="解说", 辣条说电影
-http://192.168.31.251:35455/huya/24803445
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1056/e9/f1070aaaf5bca9ddf9224aa7b33130_180_135.jpg?1695521232" group-title="解说", 小晖说电影
-http://192.168.31.251:35455/huya/29340756
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/df/cdcbef8a8dc0df97c327411ec50f7a_180_135.jpg?1623826096" group-title="解说", 二哥说电影
-http://192.168.31.251:35455/huya/24969013
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/8d/559c1564293afed53fbbf8c2477cdd_180_135.jpg?1695289764" group-title="解说", 鹏友说电影
-http://192.168.31.251:35455/huya/29340612
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/ff/095eccde0dde8aa65cf433d55c0d0c_180_135.jpg?1627097110" group-title="解说", 歪嘴说电影
-http://192.168.31.251:35455/huya/25261589
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1060/e7/ac0c0c3805806148cb9a84475c5484_180_135.jpg?1512383459" group-title="解说", 续哥说电影
-http://192.168.31.251:35455/huya/24396472
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/2a/ba5028fc9a2c95bf9cbc8818e7c660_180_135.jpg?1560229697" group-title="解说", 空空说电影
-http://192.168.31.251:35455/huya/15923500
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1079/97/a260fe85771eaf9d2aa35122469271_180_135.jpg?1539243402" group-title="解说", 小冷说电影
-http://192.168.31.251:35455/huya/16739452
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/cf/e4b1189af17e03a89653f4bc35d79b_180_135.jpg?1619340109" group-title="解说", 白丁说电影
-http://192.168.31.251:35455/huya/24396428
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/c4/df0c79e95fb3d745afb0e5c035c111_180_135.jpg?1621826865" group-title="解说", 仕说电影
-http://192.168.31.251:35455/huya/24791905
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/f3/ef7188948b9b353e6d0e68b6e96d1b_180_135.jpg?1655179518" group-title="解说", 火华君说电影
-http://192.168.31.251:35455/huya/27312232
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/7b/0f5eda20230c0b86a8f10d4fc59b78_180_135.jpg" group-title="解说", 情思说剧
-http://192.168.31.251:35455/huya/29870731
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1021/c3/38a41999a99aecd5117ef69df3a514_180_135.jpg?1712751076" group-title="解说", 云上说剧
-http://192.168.31.251:35455/huya/29869460
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1001/82/f7ced6c4efac26d5fdc95104fcfd4c_180_135.jpg?1629113244" group-title="解说", 小歌说电影
-http://192.168.31.251:35455/huya/25443495
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/91/e08f4b8901b8c3edb9f87b75e5a67a_180_135.jpg?1573434330" group-title="解说", 虎妞说电影
-http://192.168.31.251:35455/huya/20343144
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/62/0faa58c0c46d34f72dcc2ca1661258_180_135.jpg?1623318737" group-title="解说", 憨憨哥说电影
-http://192.168.31.251:35455/huya/24917827
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/fd/acdd090109ef31ce68db5b31dee517_180_135.jpg?1698828479" group-title="解说", 阁喽喵说电影
-http://192.168.31.251:35455/huya/29464466
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/9f/6614ad37065db2f7f5f5e629c3e4b6_180_135.jpg?1567319177" group-title="解说", 正经说电影
-http://192.168.31.251:35455/huya/19583776
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/1e/b8620620e2b1d679439ce5d0b49450_180_135.jpg?1599122729" group-title="解说", 老吴说电影
-http://192.168.31.251:35455/huya/16740471
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/01/2a005482db79198ecd1bdfcebb4c5a_180_135.jpg?1634719292" group-title="解说", 兔八哥说电影
-http://192.168.31.251:35455/huya/25869759
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/ea/d0adb67d9fda2c03f7b8967c9c6b9f_180_135.jpg?1715674387" group-title="解说", 老白说剧
-http://192.168.31.251:35455/huya/29890211
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/3e/491e503fec56d7eb1eda3cd185d307_180_135.jpg?1712911939" group-title="解说", ck影视解说
-http://192.168.31.251:35455/huya/29870299
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/c5/127e08c447cfb8c3d5445c9e4b8d27_180_135.jpg?1585035826" group-title="解说", 松轩说电影
-http://192.168.31.251:35455/huya/21649307
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/0d/6c7e82088286183897130e6a278f9b_180_135.jpg?1567345832" group-title="解说", 左左说电影
-http://192.168.31.251:35455/huya/25027708
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1093/4d/e7f7d4a625e21cef29615d478e9ba9_180_135.jpg?0" group-title="解说", 小松说剧
-http://192.168.31.251:35455/huya/11593369
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/cf/74fb1df0c83a8af4758e1d1b71657c_180_135.jpg?1712973685" group-title="解说", 榴莲说电影
-http://192.168.31.251:35455/huya/29870315
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/7c/701403aadd4f88d4329cd066bac508_180_135.jpg?1712749576" group-title="解说", 伦帝电影说
-http://192.168.31.251:35455/huya/29868733
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1070/01/a799e917df9aeffcf179c953c28a13_180_135.jpg?1712745452" group-title="解说", 义东说剧
-http://192.168.31.251:35455/huya/29868575
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/87/b1f876bfb15479955f353891c0f177_180_135.jpg?1624526184" group-title="解说", 佑佑说电影
-http://192.168.31.251:35455/huya/25027809
 
 
 #音乐戏剧
