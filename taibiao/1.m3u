@@ -460,7 +460,7 @@ http://192.168.10.251:4022/udp/239.45.0.10:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="体育",风云足球
 http://192.168.10.251:4022/udp/239.45.1.75:5140
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="体育",央视台球
-
+http://192.168.31.251:5000/ysp/cctv-yangshitaiqiu
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="体育",央视高尔夫网球
 http://192.168.10.251:4022/udp/239.45.0.48:5140
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" group-title="体育",先锋乒羽
