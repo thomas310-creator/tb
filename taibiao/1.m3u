@@ -197,8 +197,6 @@ http://192.168.10.251:4022/udp/239.45.1.70:5140
 http://epg.112114.xyz/douyu/96577
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 惊悚 灾难片|斗鱼
 https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
-EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 惊悚片|斗鱼
-https://epg.pw/stream/45f9c627c30e721a4abac6a201cb94db139d8bc9f8408612944af52ae4f0337e.ctv
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 欧美电影|斗鱼
 https://epg.pw/stream/7cc9d371298246354c11e969bf4a9c9c1466a81e1d264dc9631c18ca789a57f1.ctv
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png" group-title="电影", 华语房|斗鱼
@@ -211,8 +209,6 @@ http://epg.112114.xyz/douyu/252802
 http://epg.112114.xyz/douyu/36337
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_big.jpg" group-title="电影", 【贝爷IMAX厅】60帧 科幻 动作 经典|斗鱼
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201912/ac402708ee744dfa8c3b5fd030bd78b9_big.jpg" group-title="电影", 豆瓣高评分电影|斗鱼
-http://epg.112114.xyz/douyu/52787
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/07bba4672f144b8f94cd774416e3da98_big.jpg" group-title="电影", 哈利波特|斗鱼
 http://epg.112114.xyz/douyu/8814650
 https://epg.pw/stream/02d1fb76a8e05d628275f54501e4107c30c5228849c0e602cdf93467512dee69.ctv
@@ -293,15 +289,15 @@ http://192.168.31.251:5000/litv/4gtv-4gtv066
 
 #综艺
 #EXTINF:-1 tvg-id="NewTV-金牌综艺" tvg-name="金牌综艺" tvg-logo="https://assets.livednow.com/logo/NewTV-金牌综艺.png" group-title=综艺", NewTV 金牌综艺
-
+http://192.168.31.251:35455/itv/1000000004000026167.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="NewTV-明星大片" tvg-name="明星大片" tvg-logo="https://assets.livednow.com/logo/NewTV-明星大片.png" group-title="综艺", NewTV 明星大片
-
+http://192.168.31.251:35455/itv/2000000003000000016.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="NewTV-怡伴健康" tvg-name="怡伴健康" tvg-logo="https://assets.livednow.com/logo/NewTV-怡伴健康.png" group-title="综艺", NewTV 怡伴健康
-
+http://192.168.31.251:35455/itv/1000000005000266011.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="NewTV-欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-欢乐剧场.png" group-title="综艺", NewTV 欢乐剧场
-
+http://192.168.31.251:35455/itv/1000000005000266012.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="NewTV-超级综艺" tvg-name="超级综艺" tvg-logo="https://assets.livednow.com/logo/NewTV-超级综艺.png" group-title="综艺", NewTV 超级综艺
-
+http://192.168.31.251:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="NewTV-潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://assets.livednow.com/logo/NewTV-潮妈辣婆.png" group-title="综艺", NewTV 潮妈辣婆
 
 #EXTINF:-1 tvg-id="NewTV-精品萌宠" tvg-name="精品萌宠" tvg-logo="https://assets.livednow.com/logo/NewTV-精品萌宠.png" group-title="综艺", NewTV 精品萌宠
@@ -357,7 +353,7 @@ http://192.168.10.251:4022/udp/239.45.0.46:5140
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://epg.deny.vip/df/茶频道.png" group-title="生活旅游",茶频道HD
 http://192.168.10.251:4022/udp/239.45.3.18:5140
 #EXTINF:-1 tvg-id="NewTV-农业致富" tvg-name="农业致富" tvg-logo="https://assets.livednow.com/logo/NewTV-农业致富.png" group-title="生活旅游", NewTV 农业致富
-
+http://192.168.31.251:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="iHOT-爱旅行" tvg-name="爱旅行" tvg-logo="https://assets.livednow.com/logo/iHOT-爱旅行.png" group-title="生活旅游", iHOT 爱旅行
 
 #EXTINF:-1 tvg-name="民視旅遊台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="生活旅游", 民視旅遊台
