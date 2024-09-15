@@ -139,10 +139,8 @@ http://192.168.31.251:5000/litv/4gtv-4gtv049
 http://192.168.31.251:5000/4gtv/270
 #EXTINF:-1 tvg-name="戲劇免費看 2台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-2台.png" group-title="电视剧", 戲劇免費看 2台|台
 http://192.168.31.251:5000/4gtv/244
-#EXTINF:-1 tvg-name="韓國娛樂台 KMTV" tvg-logo="https://assets.livednow.com/logo/韓國娛樂台.png" group-title="音樂綜藝", 韓國娛樂台
+#EXTINF:-1 tvg-name="韓國娛樂台 KMTV" tvg-logo="https://assets.livednow.com/logo/韓國娛樂台.png" group-title="电视剧", 韓國娛樂台
 http://192.168.31.251:5000/litv/4gtv-4gtv016
-
-
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/85/fef4985d0e7ca734eeaa3ebb380c7b_180_135.jpg?1606889447" group-title=""电视剧", 埋堆堆港剧
 http://192.168.31.251:35455/huya/23735126
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/1d/28f60c094ecdd69e369ec66ccefbde_180_135.jpg?1612247274" group-title=""电视剧", 埋堆堆动作剧
