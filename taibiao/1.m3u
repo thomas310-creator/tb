@@ -552,7 +552,7 @@ http://192.168.10.251:4022/udp/239.45.3.125:5140
 http://192.168.10.251:4022/udp/239.45.0.54:5140
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang6.png" group-title="动漫",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%91%E5%84%BF.png" group-title="动漫",内蒙古少儿
+#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%91%E5%84%BF.png" group-title="动漫",内蒙古少儿
 http://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="动漫",嘉佳卡通
 http://192.168.10.251:4022/udp/239.45.1.48:5140
