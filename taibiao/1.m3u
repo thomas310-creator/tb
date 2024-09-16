@@ -451,7 +451,7 @@ http://192.168.10.251:4022/udp/239.45.3.210:5140
 
 #EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://epg.deny.vip/cctv/CCTV-5.png" group-title="体育",CCTV-5 体育
 http://192.168.10.251:4022/udp/239.45.1.69:5140
-#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",cctv 5+ 体育赛事
+#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
 http://192.168.10.251:4022/udp/239.45.0.34:5140
 #EXTINF:-1 tvg-name="CCTV-16" tvg-logo="https://epg.deny.vip/cctv/CCTV-16.png" group-title="体育",CCTV-16 奥林匹克
 http://192.168.10.251:4022/udp/239.45.0.10:5140
@@ -628,7 +628,7 @@ http://192.168.10.251:4022/udp/239.45.1.68:5140
 http://192.168.10.251:4022/udp/239.45.0.2:5140
 #EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://epg.deny.vip/cctv/CCTV-5.png" group-title="央视",CCTV-5 体育
 http://192.168.10.251:4022/udp/239.45.1.69:5140
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",cctv 5+ 体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
 http://192.168.10.251:4022/udp/239.45.0.34:5140
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="央视",CCTV-6 电影频道
 http://192.168.10.251:4022/udp/239.45.1.70:5140
