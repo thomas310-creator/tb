@@ -141,7 +141,8 @@ http://192.168.31.251:5000/4gtv/270
 http://192.168.31.251:5000/4gtv/244
 #EXTINF:-1 tvg-name="韓國娛樂台 KMTV" tvg-logo="https://assets.livednow.com/logo/韓國娛樂台.png" group-title="电视剧", 韓國娛樂台
 http://192.168.31.251:5000/litv/4gtv-4gtv016
-
+#EXTINF:-1 tvg-name="華語劇台" tvg-logo="https://live.hkdvb.com/static/logos/803.png" group-title="电视剧", 華語劇台
+https://live.hkdvb.com/hls/live/803.m3u8?token=229490913914385
 
 
 
@@ -226,8 +227,14 @@ http://192.168.31.251:5000/4gtv/275
 http://192.168.31.251:5000/4gtv/201
 #EXTINF:-1 tvg-name="電影免費看 2台" tvg-logo="https://assets.livednow.com/logo/電影免費看-2台.png" group-title="电影", 電影免費看 2台
 http://192.168.31.251:5000/4gtv/245
-
-
+#EXTINF:-1 tvg-name="美亞" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="电影", 美亞
+https://live.hkdvb.com/hls/live/802.m3u8?token=229490913914385
+#EXTINF:-1 tvg-name="Popc" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="电影", Popc
+https://live.hkdvb.com/hls/live/801.m3u8?token=229490913914385
+#EXTINF:-1 tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="电影", Now Superstars 星影台
+https://live.hkdvb.com/hls/live/138.m3u8?token=229490913914385
+#EXTINF:-1 tvg-name="粵語片台" tvg-logo="https://live.hkdvb.com/static/logos/804.png" group-title="电影", 粵語片台
+https://live.hkdvb.com/hls/live/804.m3u8?token=229490913914385
 
 #综合
 #EXTINF:-1 tvg-logo="https://github.com/thomas310-creator/tb/blob/13351eb3257df202d36915448376c63015420433/taibiao/shanghai/bestv.png" group-title="综合",IPTV宣传|沪
@@ -498,7 +505,7 @@ http://192.168.31.251:5000/litv/4gtv-4gtv077
 #EXTINF:-1 tvg-id="D02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="新闻",凤凰资讯
 
 #EXTINF:-1 tvg-id="D03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="新闻",凤凰香港
-
+https://live.hkdvb.com/hls/live/85.m3u8?token=229490913914385
 #EXTINF:-1 tvg-name="CCTV-4" tvg-logo="https://epg.deny.vip/cctv/CCTV-4.png" group-title="新闻",CCTV-4 中文国际
 http://192.168.10.251:4022/udp/239.45.0.2:5140
 #EXTINF:-1 tvg-name="CCTV-13" tvg-logo="https://epg.deny.vip/cctv/CCTV-13.png" group-title="新闻",CCTV-13 新闻
