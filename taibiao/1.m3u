@@ -90,15 +90,15 @@ http://192.168.10.251:4022/udp/239.45.0.51:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="电视剧",怀旧剧场HD
 http://192.168.10.251:4022/udp/239.45.0.49:5140
 #EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://assets.livednow.com/logo/iHOT-爱谍战.png" group-title="电视剧", iHOT 爱谍战
-
+http://192.168.31.251:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-军旅剧场.png" group-title="电视剧", NewTV 军旅剧场
 
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://assets.livednow.com/logo/NewTV-精品大剧.png" group-title="电视剧", NewTV 精品大剧
 
 #EXTINF:-1 tvg-name="爱悬疑" tvg-logo="https://assets.livednow.com/logo/iHOT-爱悬疑.png" group-title="电视剧", iHOT 爱悬疑
-
+http://192.168.31.251:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱浪漫" tvg-logo="https://assets.livednow.com/logo/iHOT-爱浪漫.png" group-title="电视剧", iHOT 爱浪漫
-
+http://192.168.31.251:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电视剧.png" group-title="电视剧", NewTV 超级电视剧
 
 #EXTINF:-1 tvg-name="北热剧" tvg-logo="https://assets.livednow.com/logo/NewTV-东北热剧.png" group-title="电视剧", NewTV 东北热剧
@@ -174,15 +174,15 @@ http://192.168.10.251:4022/udp/239.45.1.70:5140
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://assets.livednow.com/logo/NewTV-黑莓电影.png" group-title="电影", NewTV 黑莓电影
 
 #EXTINF:-1 tvg-name="爱院线" tvg-logo="https://assets.livednow.com/logo/iHOT-爱院线.png" group-title="电影", iHOT 爱院线
-
+http://192.168.31.251:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱科幻" tvg-logo="https://assets.livednow.com/logo/iHOT-爱科幻.png" group-title="电影", iHOT 爱科幻
-
+http://192.168.31.251:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱喜剧" tvg-logo="https://assets.livednow.com/logo/iHOT-爱喜剧.png" group-title="电影", iHOT 爱喜剧
-
+http://192.168.31.251:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱奇谈" tvg-logo="https://assets.livednow.com/logo/iHOT-爱奇谈.png" group-title="电影", iHOT 爱奇谈
-
+http://192.168.31.251:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱怀旧" tvg-logo="https://assets.livednow.com/logo/iHOT-爱怀旧.png" group-title="电影", iHOT 爱怀旧
-
+http://192.168.31.251:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电影.png" group-title="电影", NewTV 超级电影
 
 #EXTINF:-1 tvg-name="动作电影" tvg-logo="https://assets.livednow.com/logo/NewTV-动作电影.png" group-title="电影", NewTV 动作电影
@@ -349,7 +349,7 @@ http://192.168.10.251:4022/udp/239.45.3.18:5140
 #EXTINF:-1 tvg-id="NewTV-农业致富" tvg-name="农业致富" tvg-logo="https://assets.livednow.com/logo/NewTV-农业致富.png" group-title="生活旅游", NewTV 农业致富
 http://192.168.31.251:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="iHOT-爱旅行" tvg-name="爱旅行" tvg-logo="https://assets.livednow.com/logo/iHOT-爱旅行.png" group-title="生活旅游", iHOT 爱旅行
-
+http://192.168.31.251:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="民視旅遊台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="生活旅游", 民視旅遊台
 http://192.168.31.251:5000/litv/litv-ftv07
 #EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="生活旅游", 亞洲旅遊台|台
