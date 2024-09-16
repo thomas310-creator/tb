@@ -223,7 +223,7 @@ http://192.168.31.251:5000/4gtv/186
 http://192.168.31.251:5000/4gtv/180
 #EXTINF:-1 tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment.png" group-title="电影", Rock Entertainment|台
 http://192.168.31.251:5000/4gtv/275
-#EXTINF:-1 tvg-name="經典電影台" tvg-logo="https://assets.livednow.com/logo/經典電影台.png" group-title="電影戲劇", 經典電影台
+#EXTINF:-1 tvg-name="經典電影台" tvg-logo="https://assets.livednow.com/logo/經典電影台.png" group-title="电影", 經典電影台
 http://192.168.31.251:5000/4gtv/201
 #EXTINF:-1 tvg-name="電影免費看 2台" tvg-logo="https://assets.livednow.com/logo/電影免費看-2台.png" group-title="电影", 電影免費看 2台
 http://192.168.31.251:5000/4gtv/245
