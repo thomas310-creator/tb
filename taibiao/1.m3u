@@ -415,7 +415,7 @@ http://192.168.10.251:4022/udp/239.45.3.135:5140
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.deny.vip/df/法治天地.png" group-title="科教纪实",法治天地HD
 http://192.168.10.251:4022/udp/239.45.1.46:5140
 #EXTINF:-1 tvg-name="爱青春" tvg-logo="https://assets.livednow.com/logo/iHOT-爱青春.png" group-title="科教纪实", iHOT 爱青春
-
+http://192.168.31.251:35455/itv/6000000006000100630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="CCTV-9" tvg-logo="https://epg.deny.vip/cctv/CCTV-9.png" group-title="科教纪实",CCTV-9 纪录
 http://192.168.10.251:4022/udp/239.45.3.4:5140
 #EXTINF:-1 tvg-name="CCTV-10" tvg-logo="https://epg.deny.vip/cctv/CCTV-10.png" group-title="科教纪实",CCTV-10 科教
@@ -427,11 +427,11 @@ http://192.168.10.251:4022/udp/239.45.1.45:5140
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="" group-title="科教纪实",北京纪实科教
 http://192.168.10.251:4022/udp/239.45.1.14:5140
 #EXTINF:-1 tvg-name="爱历史" tvg-logo="https://assets.livednow.com/logo/iHOT-爱历史.png" group-title="科教纪实", iHOT 爱历史
-
+http://192.168.31.251:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱科学" tvg-logo="https://assets.livednow.com/logo/iHOT-爱科学.png" group-title="科教纪实", iHOT 爱科学
-
+http://192.168.31.251:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱经典" tvg-logo="https://assets.livednow.com/logo/iHOT-爱经典.png" group-title="科教纪实", iHOT 爱经典
-
+http://192.168.31.251:35455/itv/6000000006000060630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://assets.livednow.com/logo/NewTV-精品纪录.png" group-title="科教纪实", NewTV 精品纪录
 
 #EXTINF:-1 tvg-name="影迷數位紀實台HD" tvg-logo="https://assets.livednow.com/logo/影迷數位紀實台.png" group-title="科教纪实", 影迷數位紀實台|台
@@ -461,9 +461,9 @@ http://192.168.10.251:4022/udp/239.45.3.43:5140
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://epg.deny.vip/df/快乐垂钓.png" group-title="体育",快乐垂钓HD
 http://192.168.10.251:4022/udp/239.45.3.12:5140
 #EXTINF:-1 tvg-id="iHOT-爱体育" tvg-name="爱体育" tvg-logo="https://assets.livednow.com/logo/iHOT-爱体育.png" group-title="体育", iHOT 爱体育
-
+http://192.168.31.251:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="iHOT-爱赛车" tvg-name="爱赛车" tvg-logo="https://assets.livednow.com/logo/iHOT-爱赛车.png" group-title="体育", iHOT 爱赛车
-
+http://192.168.31.251:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="NewTV-精品体育" tvg-name="精品体育" tvg-logo="https://assets.livednow.com/logo/NewTV-精品体育.png" group-title="体育", NewTV 精品体育
 
 #EXTINF:-1 tvg-id="NewTV-武博世界" tvg-name="武博世界" tvg-logo="https://assets.livednow.com/logo/NewTV-武博世界.png" group-title="体育", NewTV 武博世界
@@ -557,11 +557,11 @@ http://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="动漫",嘉佳卡通
 http://192.168.10.251:4022/udp/239.45.1.48:5140
 #EXTINF:-1 tvg-id="iHOT-爱幼教" tvg-name="爱幼教" tvg-logo="https://assets.livednow.com/logo/iHOT-爱幼教.png" group-title="动漫", iHOT 爱幼教
-
+http://192.168.31.251:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="iHOT-爱玩具" tvg-name="爱玩具" tvg-logo="https://assets.livednow.com/logo/iHOT-爱玩具.png" group-title="动漫", iHOT 爱玩具
-
+http://192.168.31.251:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="iHOT-爱动漫" tvg-name="爱动漫" tvg-logo="https://assets.livednow.com/logo/iHOT-爱动漫.png" group-title="动漫", iHOT 爱动漫
-
+http://192.168.31.251:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="NewTV-黑莓动画" tvg-name="黑莓动画" tvg-logo="https://assets.livednow.com/logo/NewTV-黑莓动画.png" group-title="动漫", NewTV 黑莓动画
 
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.deny.vip/df/游戏风云.png" group-title="动漫",游戏风云HD|沪
