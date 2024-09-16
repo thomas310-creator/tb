@@ -141,16 +141,6 @@ http://192.168.31.251:5000/4gtv/270
 http://192.168.31.251:5000/4gtv/244
 #EXTINF:-1 tvg-name="韓國娛樂台 KMTV" tvg-logo="https://assets.livednow.com/logo/韓國娛樂台.png" group-title="电视剧", 韓國娛樂台
 http://192.168.31.251:5000/litv/4gtv-4gtv016
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/85/fef4985d0e7ca734eeaa3ebb380c7b_180_135.jpg?1606889447" group-title=""电视剧", 埋堆堆港剧
-http://192.168.31.251:35455/huya/23735126
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/1d/28f60c094ecdd69e369ec66ccefbde_180_135.jpg?1612247274" group-title=""电视剧", 埋堆堆动作剧
-http://192.168.31.251:35455/huya/23865152
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/d8/b11b405e9f2bd9d403a62334ab4f64_180_135.jpg?1606985476" group-title=""电视剧", 埋堆堆官方
-http://192.168.31.251:35455/huya/23740156
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/6b/1dda57390cba859d515a31fc3fe635_180_135.jpg?1712750290" group-title=""电视剧", 埋堆堆凌晨影视
-http://192.168.31.251:35455/huya/29868693
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459" group-title=""电视剧", 堆堆港剧日常
-http://192.168.31.251:35455/huya/23903123
 
 
 
@@ -232,7 +222,10 @@ http://192.168.31.251:5000/4gtv/186
 http://192.168.31.251:5000/4gtv/180
 #EXTINF:-1 tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment.png" group-title="电影", Rock Entertainment|台
 http://192.168.31.251:5000/4gtv/275
-
+#EXTINF:-1 tvg-name="經典電影台" tvg-logo="https://assets.livednow.com/logo/經典電影台.png" group-title="電影戲劇", 經典電影台
+http://192.168.31.251:5000/4gtv/201
+#EXTINF:-1 tvg-name="電影免費看 2台" tvg-logo="https://assets.livednow.com/logo/電影免費看-2台.png" group-title="电影", 電影免費看 2台
+http://192.168.31.251:5000/4gtv/245
 
 
 
