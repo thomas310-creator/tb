@@ -204,7 +204,8 @@ http://epg.112114.xyz/douyu/36337
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/07bba4672f144b8f94cd774416e3da98_big.jpg" group-title="电影", 哈利波特|斗鱼
 http://epg.112114.xyz/douyu/8814650
-https://epg.pw/stream/02d1fb76a8e05d628275f54501e4107c30c5228849c0e602cdf93467512dee69.ctv
+#EXTINF:-1 tvg-name="力量影院" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010639893858_37.jpeg" group-title="电影",1905电影网
+https://stream1.freetv.fun/c90deb63a57dd1f999a2c662d45ca501c5f271dcc46bf2b3d1384f7a3c498c35.ctv
 #EXTINF:-1 tvg-name="靖天電影HD" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="电影", 靖天電影台|台
 http://192.168.31.251:5000/litv/4gtv-4gtv061
 #EXTINF:-1 tvg-name="龍華經典HD" tvg-logo="https://assets.livednow.com/logo/龍華經典台.png" group-title="电影", 龍華經典台|台
