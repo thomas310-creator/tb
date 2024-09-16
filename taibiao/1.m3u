@@ -378,12 +378,11 @@ http://192.168.31.251:5000/4gtv/139
 http://192.168.31.251:5000/4gtv/274
 #EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="生活旅游", Mezzo Live HD
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/-K-v1KslyJy8vuZciUHzJ-Owxnr-IptZ9GShGuMofmum2Q7_1j9Slo-5KX4kkp3DiTJ1s73TfC8=s160-c-k-c0x00ffffff-no-rj" group-title="生活旅游",東京都 新宿
-http://192.168.31.251:35455/youtube/DjdUEyjx8GM
+
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.deny.vip/df/中国天气.png" group-title="生活旅游",中国天气
 http://192.168.10.251:4022/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-logo="" group-title="生活旅游",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
 
 
 
