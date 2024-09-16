@@ -308,10 +308,6 @@ http://192.168.10.251:4022/udp/239.45.3.236:5140
 http://192.168.10.251:4022/udp/239.45.3.132:5140
 #EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://epg.deny.vip/cctv/CCTV-3.png" group-title="综艺",CCTV-3 综艺
 http://192.168.10.251:4022/udp/239.45.1.68:5140
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="综艺",风云音乐
-http://192.168.10.251:4022/udp/239.45.0.52:5140
-#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="综艺",CCTV-15 音乐
-http://192.168.10.251:4022/udp/239.45.3.126:5140
 #EXTINF:-1 tvg-id="NewTV-炫舞未来" tvg-name="NewTV炫舞未来" tvg-logo="https://assets.livednow.com/logo/NewTV-炫舞未来.png" group-title="综艺", NewTV 炫舞未来
 
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="综艺",女性时尚
@@ -604,6 +600,10 @@ http://192.168.31.251:5000/litv/litv-longturn20
 
 
 #音乐戏剧
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="音乐戏剧",风云音乐
+http://192.168.10.251:4022/udp/239.45.0.52:5140
+#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="音乐戏剧",CCTV-15 音乐
+http://192.168.10.251:4022/udp/239.45.3.126:5140
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.deny.vip/df/七彩戏剧.png" group-title="音乐戏剧",七彩戏剧HD|沪
 http://192.168.10.251:4022/udp/239.45.0.16:5140
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="音乐戏剧",24小时背景音乐
