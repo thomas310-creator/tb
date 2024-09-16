@@ -398,6 +398,8 @@ http://192.168.31.251:5000/4gtv/274
 
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.deny.vip/df/中国天气.png" group-title="生活探索",中国天气
 http://192.168.10.251:4022/udp/239.45.1.47:5140
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://epg.v1.mk/logo/纯享4K.png" group-title="生活探索",纯享-4K
+http://192.168.31.251:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="亞洲美食頻道" tvg-logo="https://assets.livednow.com/logo/亞洲美食頻道.png" group-title="生活探索", Asian Food Network 亞洲美食頻道
 http://192.168.31.251:5000/hami/OTT_LIVE_0000002039
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://assets.livednow.com/logo/BBC-Earth.png" group-title="生活探索", BBC Earth
@@ -659,7 +661,6 @@ http://192.168.31.251:5000/litv/litv-longturn20
 http://192.168.31.251:5000/hami/OTT_LIVE_0000001553
 
 
-
 #音乐戏剧
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="音乐戏剧",风云音乐
 http://192.168.10.251:4022/udp/239.45.0.52:5140
@@ -753,7 +754,8 @@ http://192.168.10.251:4022/udp/239.45.1.243:5140
 http://192.168.10.251:4022/udp/239.45.0.55:5140
 #EXTINF:-1 tvg-id="67" tvg-name="CGTN" tvg-logo="https://epg.deny.vip/cctv/CGTN.png" group-title="央视",CGTN
 http://192.168.10.251:4022/udp/239.45.1.194:5140
-
+#EXTINF:-1 tvg-id="CGTN-纪录" tvg-name="CGTN 外语纪录" tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="央视", CGTN 外语纪录
+http://192.168.31.251:5000/ysp/cgtn-documentary
 
 
 
