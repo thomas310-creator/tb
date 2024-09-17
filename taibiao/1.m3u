@@ -204,8 +204,6 @@ http://epg.112114.xyz/douyu/36337
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/07bba4672f144b8f94cd774416e3da98_big.jpg" group-title="电影", 哈利波特|斗鱼
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 tvg-name="力量影院" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010639893858_37.jpeg" group-title="电影",1905电影网
-https://stream1.freetv.fun/c90deb63a57dd1f999a2c662d45ca501c5f271dcc46bf2b3d1384f7a3c498c35.ctv
 #EXTINF:-1 tvg-name="靖天電影HD" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="电影", 靖天電影台|台
 http://192.168.31.251:5000/litv/4gtv-4gtv061
 #EXTINF:-1 tvg-name="龍華經典HD" tvg-logo="https://assets.livednow.com/logo/龍華經典台.png" group-title="电影", 龍華經典台|台
@@ -271,7 +269,7 @@ http://192.168.10.251:4022/udp/239.45.3.75:5140
 #EXTINF:-1 tvg-name="东方购物3" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dfgw.png" group-title="综合",上海东方购物3|沪
 http://192.168.10.251:4022/udp/239.45.3.207:5140
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/jdtv.png" group-title="综合",嘉定电视台|沪
-http://192.168.10.251:4022/udp/239.45.3.185:5140
+
 #EXTINF:-1 tvg-logo="http://tv.haoqu99.com/d/file/2019/0121/small1f81f481ac3b0f3a2ad54104300057b4.jpg" group-title="综合",金山电视台|沪
 http://livejs1.newsjs.net/jspd/playlist.m3u8
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="综合", 民視|台
@@ -294,9 +292,9 @@ http://192.168.31.251:5000/litv/4gtv-4gtv047
 http://192.168.31.251:5000/4gtv/169
 #EXTINF:-1 tvg-name="台視HD" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="综合", 台視|台
 http://192.168.31.251:5000/litv/4gtv-4gtv066
-#EXTINF:-1 tvg-name="愛爾達綜合台HD" tvg-logo="https://assets.livednow.com/logo/ELTA綜合.png" group-title="綜合", 愛爾達綜合台
+#EXTINF:-1 tvg-name="愛爾達綜合台HD" tvg-logo="https://assets.livednow.com/logo/ELTA綜合.png" group-title="综合", 愛爾達綜合台
 http://192.168.31.251:5000/hami/OTT_LIVE_0000001573
-#EXTINF:-1 tvg-name="華藝MBC綜合台" tvg-logo="https://assets.livednow.com/logo/華藝綜合台.png" group-title="綜合", 華藝 MBC 綜合台
+#EXTINF:-1 tvg-name="華藝MBC綜合台" tvg-logo="https://assets.livednow.com/logo/華藝綜合台.png" group-title="综合", 華藝 MBC 綜合台
 http://192.168.31.251:5000/hami/OTT_LIVE_0000001825
 
 
@@ -666,8 +664,6 @@ http://192.168.10.251:4022/udp/239.45.0.52:5140
 http://192.168.10.251:4022/udp/239.45.3.126:5140
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.deny.vip/df/七彩戏剧.png" group-title="音乐戏剧",七彩戏剧HD|沪
 http://192.168.10.251:4022/udp/239.45.0.16:5140
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="音乐戏剧",24小时背景音乐
-http://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 #EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="音乐戏剧", Mezzo Live|台
 http://192.168.31.251:5000/litv/4gtv-4gtv083
 #EXTINF:-1 tvg-name="TRACE Urban" tvg-logo="https://assets.livednow.com/logo/Trace-Urban.png" group-title="音乐戏剧", Trace Urban|台
