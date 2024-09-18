@@ -665,22 +665,22 @@ http://192.168.31.251:5000/litv/litv-longturn20
 http://192.168.31.251:5000/hami/OTT_LIVE_0000001553
 
 
-#音乐戏剧
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="音乐戏剧",风云音乐
+#音乐歌剧
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="音乐歌剧",风云音乐
 http://192.168.10.251:4022/udp/239.45.0.52:5140
-#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="音乐戏剧",CCTV-15 音乐
+#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="音乐歌剧",CCTV-15 音乐
 http://192.168.10.251:4022/udp/239.45.3.126:5140
-#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.deny.vip/df/七彩戏剧.png" group-title="音乐戏剧",七彩戏剧
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.deny.vip/df/七彩戏剧.png" group-title="音乐歌剧",七彩戏剧
 http://192.168.10.251:4022/udp/239.45.0.16:5140
-#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="音乐戏剧", Mezzo Live
+#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="音乐歌剧", Mezzo Live
 http://192.168.31.251:5000/litv/4gtv-4gtv083
-#EXTINF:-1 tvg-name="TRACE Urban" tvg-logo="https://assets.livednow.com/logo/Trace-Urban.png" group-title="音乐戏剧", Trace Urban
+#EXTINF:-1 tvg-name="TRACE Urban" tvg-logo="https://assets.livednow.com/logo/Trace-Urban.png" group-title="音乐歌剧", Trace Urban
 http://192.168.31.251:5000/litv/4gtv-4gtv082
-#EXTINF:-1 tvg-name="電影原聲台CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="音乐戏剧", 電影原聲台 CMusic
+#EXTINF:-1 tvg-name="電影原聲台CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="音乐歌剧", 電影原聲台 CMusic
 http://192.168.31.251:5000/4gtv/218
-#EXTINF:-1 tvg-name="CLASSICA 古典樂" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="音乐戏剧", Classica 古典樂
+#EXTINF:-1 tvg-name="CLASSICA 古典樂" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="音乐歌剧", Classica 古典樂
 http://192.168.31.251:5000/litv/4gtv-4gtv059
-#EXTINF:-1 tvg-name="MTV Live HD" tvg-logo="https://assets.livednow.com/logo/MTV-Live-HD-音樂頻道.png" group-title="音乐戏剧", MTV Live HD 音樂頻道
+#EXTINF:-1 tvg-name="MTV Live HD" tvg-logo="https://assets.livednow.com/logo/MTV-Live-HD-音樂頻道.png" group-title="音乐歌剧", MTV Live HD 音樂頻道
 http://192.168.31.251:5000/4gtv/213
 
 
