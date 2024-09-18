@@ -668,6 +668,8 @@ http://192.168.31.251:5000/hami/OTT_LIVE_0000001553
 #音乐歌剧
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="音乐歌剧",风云音乐
 http://192.168.10.251:4022/udp/239.45.0.52:5140
+#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="https://epg.deny.vip/cctv/CCTV-11.png" group-title="央视",CCTV-11 戏曲
+http://192.168.10.251:4022/udp/239.45.0.18:5140
 #EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="音乐歌剧",CCTV-15 音乐
 http://192.168.10.251:4022/udp/239.45.3.126:5140
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.deny.vip/df/七彩戏剧.png" group-title="音乐歌剧",七彩戏剧
