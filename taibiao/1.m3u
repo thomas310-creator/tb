@@ -643,6 +643,14 @@ http://192.168.10.251:4022/udp/239.45.0.13:5140
 http://192.168.10.251:4022/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://epg.deny.vip/szpd/CETV-ZQJY.png" group-title="教育",CETV早期教育
 http://192.168.10.251:4022/udp/239.45.0.54:5140
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://epg.deny.vip/cctv/CETV-1.png" group-title="教育",CETV-1 综合教育HD
+http://192.168.10.251:4022/udp/239.45.1.125:5140
+#EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://epg.deny.vip/cctv/CETV-2.png" group-title="教育",CETV-2 空中课堂
+http://192.168.10.251:4022/udp/239.45.1.52:5140
+#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV3.png" group-title="教育",CETV-3 教育服务
+
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://epg.deny.vip/cctv/CETV-4.png" group-title="教育",CETV-4 职业教育HD
+http://192.168.10.251:4022/udp/239.45.1.243:5140
 #EXTINF:-1 tvg-id="iHOT-爱幼教" tvg-name="爱幼教" tvg-logo="https://assets.livednow.com/logo/iHOT-爱幼教.png" group-title="教育", iHOT 爱幼教
 http://192.168.31.251:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="iHOT-爱玩具" tvg-name="爱玩具" tvg-logo="https://assets.livednow.com/logo/iHOT-爱玩具.png" group-title="教育", iHOT 爱玩具
