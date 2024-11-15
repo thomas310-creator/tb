@@ -142,11 +142,18 @@ http://192.168.31.251:5000/4gtv/244
 #EXTINF:-1 tvg-name="韓國娛樂台 KMTV" tvg-logo="https://assets.livednow.com/logo/韓國娛樂台.png" group-title="电视剧", 韓國娛樂台
 http://192.168.31.251:5000/litv/4gtv-4gtv016
 #EXTINF:-1 tvg-name="華語劇台" tvg-logo="https://live.hkdvb.com/static/logos/803.png" group-title="电视剧", 華語劇台
-https://live.hkdvb.com/hls/live/803.m3u8?token=229490913947318
+
 #EXTINF:-1 tvg-name="愛爾達日韓台" tvg-logo="https://assets.livednow.com/logo/ELTA日韓.png" group-title="电视剧", 愛爾達日韓台
-http://192.168.31.251:5000/hami/OTT_LIVE_0000002079
+
 #EXTINF:-1 tvg-id="Hami韓劇台" tvg-name="Hami 韓劇台" tvg-logo="https://assets.livednow.com/logo/hami-hj.png" group-title="电视剧", Hami 韓劇台
-http://192.168.31.251:5000/hami/OTT_LIVE_0000002073
+
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="电视剧",星河台
+https://www.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
+#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="电视剧",千禧经典台
+https://www.mytvsuper.xyz/astro/qianxi/qianxi.m3u8
+#EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="电视剧",TVB生活台 
+https://www.mytvsuper.xyz/tvb/shenghuo/stream.m3u8
+
 
 
 
@@ -231,22 +238,25 @@ http://192.168.31.251:5000/4gtv/201
 #EXTINF:-1 tvg-name="電影免費看 2台" tvg-logo="https://assets.livednow.com/logo/電影免費看-2台.png" group-title="电影", 電影免費看 2台
 http://192.168.31.251:5000/4gtv/245
 #EXTINF:-1 tvg-name="美亞" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="电影", 美亞
-https://live.hkdvb.com/hls/live/802.m3u8?token=229490913947318
-#EXTINF:-1 tvg-name="Popc" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="电影", Popc
-https://live.hkdvb.com/hls/live/801.m3u8?token=229490913947318
-#EXTINF:-1 tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="电影", Now Superstars 星影台
-https://live.hkdvb.com/hls/live/138.m3u8?token=229490913947318
-#EXTINF:-1 tvg-name="粵語片台" tvg-logo="https://live.hkdvb.com/static/logos/804.png" group-title="电影", 粵語片台
-https://live.hkdvb.com/hls/live/804.m3u8?token=229490913947318
-#EXTINF:-1 tvg-name="愛爾達影劇台" tvg-logo="https://assets.livednow.com/logo/ELTA影劇.png" group-title="电影", 愛爾達影劇台
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001517
-#EXTINF:-1 tvg-name="Rock Extreme" tvg-logo="https://assets.livednow.com/logo/Rock-Extreme.png" group-title="电影", Rock Extreme
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001861
-#EXTINF:-1 tvg-name="tvN HD" tvg-logo="https://assets.livednow.com/logo/tvN-TW.png" group-title=""电影", tvN
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001884
-#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://assets.livednow.com/logo/Warner-TV-TW.png" group-title=电影", Warner TV
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001888
 
+#EXTINF:-1 tvg-name="Popc" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="电影", Popc
+
+#EXTINF:-1 tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="电影", Now Superstars 星影台
+
+#EXTINF:-1 tvg-name="粵語片台" tvg-logo="https://live.hkdvb.com/static/logos/804.png" group-title="电影", 粵語片台
+
+#EXTINF:-1 tvg-name="愛爾達影劇台" tvg-logo="https://assets.livednow.com/logo/ELTA影劇.png" group-title="电影", 愛爾達影劇台
+
+#EXTINF:-1 tvg-name="Rock Extreme" tvg-logo="https://assets.livednow.com/logo/Rock-Extreme.png" group-title="电影", Rock Extreme
+
+#EXTINF:-1 tvg-name="tvN HD" tvg-logo="https://assets.livednow.com/logo/tvN-TW.png" group-title="电影", tvN
+
+#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://assets.livednow.com/logo/Warner-TV-TW.png" group-title="电影", Warner TV
+
+#EXTINF:-1,tvg-id="[NOWTV]133爆谷台" tvg-name="[NOWTV]133爆谷台(普)" tvg-logo="https://epg.v1.mk/logo/[NOWTV]133爆谷台(普).png" group-title="电影",爆谷台
+https://www.mytvsuper.xyz/1/baogutai/baogu.m3u8
+#EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="电影",星影台
+https://www.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 
 
 #综合
@@ -293,9 +303,9 @@ http://192.168.31.251:5000/4gtv/169
 #EXTINF:-1 tvg-name="台視HD" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="综合", 台視
 http://192.168.31.251:5000/litv/4gtv-4gtv066
 #EXTINF:-1 tvg-name="愛爾達綜合台HD" tvg-logo="https://assets.livednow.com/logo/ELTA綜合.png" group-title="综合", 愛爾達綜合台
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001573
+
 #EXTINF:-1 tvg-name="華藝MBC綜合台" tvg-logo="https://assets.livednow.com/logo/華藝綜合台.png" group-title="综合", 華藝 MBC 綜合台
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001825
+
 
 
 
@@ -394,23 +404,23 @@ http://192.168.10.251:4022/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://epg.v1.mk/logo/纯享4K.png" group-title="生活探索",纯享-4K
 http://192.168.31.251:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="亞洲美食頻道" tvg-logo="https://assets.livednow.com/logo/亞洲美食頻道.png" group-title="生活探索", Asian Food Network 亞洲美食頻道
-http://192.168.31.251:5000/hami/OTT_LIVE_0000002039
+
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://assets.livednow.com/logo/BBC-Earth.png" group-title="生活探索", BBC Earth
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001510
+
 #EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://assets.livednow.com/logo/BBC-Lifestyle.png" group-title="生活探索", BBC Lifestyle
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001513
+
 #EXTINF:-1 tvg-name="Discovery Asia HD" tvg-logo="https://assets.livednow.com/logo/Discovery-Asia-TW.png" group-title="生活探索",Discovery Asia
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001924
+
 #EXTINF:-1 tvg-name="DMAX HD" tvg-logo="https://assets.livednow.com/logo/Discovery-DMAX-TW.png" group-title="生活探索",Discovery DMAX
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001514
+
 #EXTINF:-1 tvg-name="EVE HD" tvg-logo="https://assets.livednow.com/logo/Discovery-EVE-TW.png" group-title="生活探索", Discovery EVE
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001511
+
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://assets.livednow.com/logo/Discovery-Science-TW.png" group-title="生活探索", Discovery Science
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001512
+
 #EXTINF:-1 tvg-name="HGTV居家樂活頻道" tvg-logo="https://assets.livednow.com/logo/HGTV-TW.png" group-title="生活探索", HGTV 居家樂活頻道
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001901
+
 #EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="https://assets.livednow.com/logo/Travel-Channel-TW.png" group-title="生活探索", Travel Channel
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001756
+
 
 
 
@@ -520,19 +530,18 @@ http://192.168.31.251:5000/litv/4gtv-4gtv101
 #EXTINF:-1 tvg-id="TraceSports" tvg-name="TRACESPORTSTARS" tvg-logo="https://assets.livednow.com/logo/TraceSports.png" group-title="体育", TraceSports
 http://192.168.31.251:5000/litv/4gtv-4gtv077
 #EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://assets.livednow.com/logo/ELTA體育-1台.png" group-title="体育", 愛爾達體育1台
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001744
+
 #EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://assets.livednow.com/logo/ELTA體育-2台.png" group-title="体育", 愛爾達體育2台
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001743
+
 #EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://assets.livednow.com/logo/ELTA體育-3台.png" group-title="体育", 愛爾達體育3台
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001745
+
 #EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://assets.livednow.com/logo/ELTA體育-4台.png" group-title="体育", 愛爾達體育4台
-http://192.168.31.251:5000/hami/OTT_LIVE_0000002055
+
 #EXTINF:-1 tvg-id="Hami 羽球台" tvg-name="Hami 羽球台" tvg-logo="https://assets.livednow.com/logo/hami-yq.png" group-title="体育", Hami 羽球台
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001830
+
 #EXTINF:-1 tvg-name="EUROSPORT HD" tvg-logo="https://assets.livednow.com/logo/Eurosport-TW.png" group-title="体育", Eurosport
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001771
+
 #EXTINF:-1 tvg-name="INULTRA" tvg-logo="https://assets.livednow.com/logo/INULTRA-TW.png" group-title="体育", INULTRA
-http://192.168.31.251:5000/hami/OTT_LIVE_0000002056
 
 
 
@@ -543,7 +552,7 @@ http://192.168.31.251:5000/hami/OTT_LIVE_0000002056
 #EXTINF:-1 tvg-id="D02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="新闻财经",凤凰资讯
 
 #EXTINF:-1 tvg-id="D03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="新闻财经",凤凰香港
-https://live.hkdvb.com/hls/live/85.m3u8?token=229490913947318
+
 #EXTINF:-1 tvg-name="CCTV-4" tvg-logo="https://epg.deny.vip/cctv/CCTV-4.png" group-title="新闻财经",CCTV-4 中文国际
 http://192.168.10.251:4022/udp/239.45.0.2:5140
 #EXTINF:-1 tvg-name="CCTV-13" tvg-logo="https://epg.deny.vip/cctv/CCTV-13.png" group-title="新闻财经",CCTV-13 新闻
@@ -570,9 +579,9 @@ http://192.168.10.251:4022/udp/239.45.0.7:5140
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="新闻财经",家庭理财
 http://192.168.10.251:4022/udp/239.45.0.14:5140
 #EXTINF:-1 tvg-name="BBC News(普)" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="新闻财经",BBC NEWS
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001527
+
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://assets.livednow.com/logo/CNN-國際新聞台.png" group-title="新闻财经", CNN 國際新聞台
-http://192.168.31.251:5000/hami/OTT_LIVE_0000002003
+
 
 
 
@@ -624,15 +633,15 @@ http://192.168.31.251:5000/4gtv/202
 #EXTINF:-1 tvg-name="超人力霸王整套看" tvg-logo="https://assets.livednow.com/logo/超人力霸王整套看.png" group-title="动漫", 超人力霸王整套看
 http://192.168.31.251:5000/4gtv/278
 #EXTINF:-1 tvg-name="Hami 卡通台(免費)" tvg-logo="https://assets.livednow.com/logo/hami-kt.png" group-title="动漫", Hami 卡通台
-http://192.168.31.251:5000/hami/OTT_LIVE_0000002083
+
 #EXTINF:-1 tvg-name="Hami 日漫台(免費)" tvg-logo="https://assets.livednow.com/logo/hami-rm.png" group-title="动漫", Hami 日漫台
-http://192.168.31.251:5000/hami/OTT_LIVE_0000002087
+
 #EXTINF:-1 tvg-name="Cbeebies HD" tvg-logo="https://assets.livednow.com/logo/BBC-Cbeebies.png" group-title="动漫", BBC Cbeebies
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001711
+
 #EXTINF:-1 tvg-name="CARTOONITO HD" tvg-logo="https://assets.livednow.com/logo/Cartoonito.png" group-title="动漫", Cartoonito
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001889
+
 #EXTINF:-1 tvg-name="卡通頻道" tvg-logo="https://assets.livednow.com/logo/CN卡通頻道.png" group-title="动漫", CN 卡通頻道
-http://192.168.31.251:5000/hami/OTT_LIVE_0000002002
+
 
 
 
@@ -662,7 +671,6 @@ http://192.168.31.251:5000/4gtv/188
 #EXTINF:-1 tvg-name="ELTV生活英語台" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="教育", ELTA生活英語
 http://192.168.31.251:5000/litv/litv-longturn20
 #EXTINF:-1 tvg-name="空中英語教室" tvg-logo="https://assets.livednow.com/logo/空中英語教室.png" group-title="教育", 空中英語教室
-http://192.168.31.251:5000/hami/OTT_LIVE_0000001553
 
 
 #音乐歌剧
