@@ -238,9 +238,9 @@ http://192.168.31.251:5000/4gtv/201
 #EXTINF:-1 tvg-name="電影免費看 2台" tvg-logo="https://assets.livednow.com/logo/電影免費看-2台.png" group-title="电影", 電影免費看 2台
 http://192.168.31.251:5000/4gtv/245
 #EXTINF:-1 tvg-name="美亞" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="电影", 美亞
-
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="Popc" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="电影", Popc
-
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="电影", Now Superstars 星影台
 
 #EXTINF:-1 tvg-name="粵語片台" tvg-logo="https://live.hkdvb.com/static/logos/804.png" group-title="电影", 粵語片台
@@ -250,7 +250,7 @@ http://192.168.31.251:5000/4gtv/245
 #EXTINF:-1 tvg-name="Rock Extreme" tvg-logo="https://assets.livednow.com/logo/Rock-Extreme.png" group-title="电影", Rock Extreme
 
 #EXTINF:-1 tvg-name="tvN HD" tvg-logo="https://assets.livednow.com/logo/tvN-TW.png" group-title="电影", tvN
-
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://assets.livednow.com/logo/Warner-TV-TW.png" group-title="电影", Warner TV
 
 #EXTINF:-1,tvg-id="[NOWTV]133爆谷台" tvg-name="[NOWTV]133爆谷台(普)" tvg-logo="https://epg.v1.mk/logo/[NOWTV]133爆谷台(普).png" group-title="电影",爆谷台
