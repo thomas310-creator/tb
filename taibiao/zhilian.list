@@ -1,12 +1,2 @@
- ## TPTV
-  - DOMAIN-SUFFIX,mobaibox.com,DIRECT
-  - IP-CIDR,183.207.0.0/16,DIRECT,no-resolve
-
-  ## YSP
-  - DOMAIN-SUFFIX,cctv.cn,DIRECT
-  - DOMAIN-SUFFIX,yangshipin.cn,DIRECT
-
-  ## ITV
-  - DOMAIN-SUFFIX,dnsany.com,DIRECT
-  - DOMAIN-SUFFIX,cmvideo.cn,DIRECT
-  - DOMAIN-SUFFIX,chinamobile.com,DIRECT
+# NAME: zhilian
+# REPO: https://github.com/blackmatrix7/ios_rule_script
