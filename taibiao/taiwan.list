@@ -1,8 +1,7 @@
 # NAME: taiwan
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-DOMAIN-SUFFIX,ofiii.com 
-DOMAIN-KEYWORD,ofiii_all
-DOMAIN-SUFFIX,cdn.hinet.net
-DOMAIN-SUFFIX,4gtv.tv
-DOMAIN-KEYWORD,4gtv
+# REPO: https://raw.githubusercontent.com/thomas310-creator/tb/refs/heads/main/taibiao/taiwan.list
 DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,hinet.net,台湾策略
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,litv.tv
