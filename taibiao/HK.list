@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN-SUFFIX,desktop.docker.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,api.thetvdb.com
 DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,assets.fanart.tv
 DOMAIN-SUFFIX,pendy.dpdns.org
