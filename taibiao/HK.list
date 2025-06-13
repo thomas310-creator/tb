@@ -1,7 +1,7 @@
 # NAME: HK
 # REPO: https://raw.githubusercontent.com/thomas310-creator/tb/refs/heads/main/taibiao/HK.list
 DOMAIN-SUFFIX,hoy.tv
-DOMAIN-keyword,pinterest.com
+DOMAIN-KEYWORD,pinterest.com
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
 DOMAIN,tvbtracking.azurewebsites.net
