@@ -1,0 +1,86 @@
+#EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml"
+#卫视
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/cmtv.png" group-title="卫视",崇明
+
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/xwzh.png" group-title="卫视",新闻综合
+http://192.168.31.123:35455/mgtv/651632657.m3u8
+#EXTINF:-1 tvg-name="上视东方影视" tvg-logo="https://epg.deny.vip/df/东方影视.png" group-title="卫视",东方影视
+http://192.168.31.123:35455/mgtv/617290047.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视
+http://192.168.31.123:35455/nptv/dongfang.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.deny.vip/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://192.168.31.123:35455/nptv/zhejiang.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.deny.vip/ws/hunan.png" group-title="卫视",湖南卫视
+http://192.168.31.123:35455/nptv/hunan.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.deny.vip/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://192.168.31.123:35455/nptv/jiangsu.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="卫视",北京卫视
+http://192.168.31.123:35455/nptv/beijing.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.deny.vip/ws/shenzhen.png" group-title="卫视",深圳卫视
+http://192.168.31.123:35455/nptv/shenzheng.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.deny.vip/ws/dongnan.png" group-title="卫视",东南卫视
+http://192.168.31.123:35455/nptv/dongnan.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.deny.vip/ws/guangdong.png" group-title="卫视",广东卫视
+http://192.168.31.123:35455/nptv/guangdong.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.deny.vip/ws/guangxi.png" group-title="卫视",广西卫视
+http://192.168.31.123:35455/nptv/guangxi.m3u8
+#EXTINF:-1  tvg-name="云南卫视" tvg-logo="https://epg.deny.vip/ws/yunnan.png" group-title="卫视",云南卫视
+http://192.168.31.123:35455/nptv/yunnan.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.deny.vip/ws/guizhou.png" group-title="卫视",贵州卫视
+http://192.168.31.123:35455/nptv/guizhou.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.deny.vip/ws/sichuan.png" group-title="卫视",四川卫视
+http://192.168.31.123:35455/nptv/sichuan.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.deny.vip/ws/jiangxi.png" group-title="卫视",江西卫视
+http://192.168.31.123:35455/nptv/jiangxi.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.deny.vip/ws/anhui.png" group-title="卫视",安徽卫视
+http://192.168.31.123:35455/nptv/anhui.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.deny.vip/ws/tianjin.png" group-title="卫视",天津卫视
+http://192.168.31.123:35455/nptv/tianjing.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.deny.vip/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://192.168.31.123:35455/nptv/heilongjiang.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.deny.vip/ws/jilin.png" group-title="卫视",吉林卫视
+http://192.168.31.123:35455/nptv/jiling.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.deny.vip/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://192.168.31.123:35455/nptv/liaoning.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.deny.vip/ws/henan.png" group-title="卫视",河南卫视
+http://192.168.31.123:35455/nptv/henan.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.deny.vip/ws/hebei.png" group-title="卫视",河北卫视
+http://192.168.31.123:35455/nptv/hebei.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.deny.vip/ws/shandong.png" group-title="卫视",山东卫视
+http://192.168.31.123:35455/nptv/shandong.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.deny.vip/ws/hubei.png" group-title="卫视",湖北卫视
+http://192.168.31.123:35455/nptv/hubei.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.deny.vip/ws/chongqing.png" group-title="卫视",重庆卫视
+http://192.168.31.123:35455/nptv/chongqing.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://epg.deny.vip/ws/gansu.png" group-title="卫视",甘肃卫视
+http://192.168.31.123:35455/nptv/gansu.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.deny.vip/ws/qinghai.png" group-title="卫视",青海卫视
+http://192.168.31.123:35455/nptv/qinghai.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.deny.vip/ws/hainan.png" group-title="卫视",海南卫视
+http://192.168.31.123:35455/nptv/hainan.m3u8
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.deny.vip/ws/sansha.png" group-title="卫视",三沙卫视
+
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.deny.vip/ws/neimeng.png" group-title="卫视",内蒙古卫视
+http://192.168.31.123:35455/nptv/neimenggu.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.deny.vip/ws/ningxia.png" group-title="卫视",宁夏卫视
+http://192.168.31.123:35455/nptv/ningxia.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.deny.vip/ws/shanxi_.png" group-title="卫视",山西卫视
+http://192.168.31.123:35455/nptv/shanxi.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.deny.vip/ws/shanxi.png" group-title="卫视",陕西卫视
+http://192.168.31.123:35455/nptv/shanxiws.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.deny.vip/ws/xinjiang.png" group-title="卫视",新疆卫视
+http://192.168.31.123:35455/nptv/xinjiang.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://epg.deny.vip/ws/xizang.png" group-title="卫视",西藏卫视
+http://192.168.31.123:35455/nptv/xizang.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="卫视",厦门卫视
+
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.deny.vip/ws/bingtuan.png" group-title="卫视",兵团卫视
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" group-title="卫视",康巴卫视
+
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://epg.deny.vip/ws/yanbian.png" group-title="卫视",延边卫视
+
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/322/852/202304081513_1677570732561_H169_1080.jpg" group-title="卫视",大湾区卫视
+http://192.168.31.123:35455/mgtv/608917627.m3u8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/897/202308111126_1690875414853_H169_1080.jpg" group-title="卫视", 海峡卫视
+http://192.168.31.123:35455/mgtv/849119120.m3u8
