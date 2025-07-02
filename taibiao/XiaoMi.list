@@ -159,10 +159,3 @@ DOMAIN-SUFFIX,c.mi.com
 DOMAIN-SUFFIX,zmifi.com
 DOMAIN-SUFFIX,saxyit.com
 DOMAIN-SUFFIX,xiaomi.eu
-IP-CIDR,110.43.63.242/32,no-resolve
-IP-CIDR,120.133.33.222/32,no-resolve
-IP-CIDR,47.241.176.221/32,no-resolve
-IP-CIDR,58.220.58.152/31,no-resolve
-IP-CIDR,58.220.59.2/32,no-resolve
-PROCESS-NAME,com.xiaomi.mibrain.speech
-PROCESS-NAME,小米云服务.exe
