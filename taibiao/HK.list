@@ -1,5 +1,16 @@
 # NAME: HK
 # REPO: https://raw.githubusercontent.com/thomas310-creator/tb/refs/heads/main/taibiao/HK.list
+DOMAIN-SUFFIX,api.telegram.org
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,api.tmdb.org
+DOMAIN-SUFFIX,www.themoviedb.org
+DOMAIN-SUFFIX,api.thetvdb.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,lmarena.ai
 DOMAIN-SUFFIX,hoy.tv
 DOMAIN-SUFFIX,pinimg.com
